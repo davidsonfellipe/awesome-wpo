@@ -44,6 +44,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Smush.it](http://www.smushit.com/ysmush.it/) - Smush.it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality
 * [Imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js
 * [Sharp](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
+* [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node
+
 
 ## Minifiers - HTML
 * [htmlcompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result pages become smaller in size and load faster. A command-line version of the compressor is also available.
