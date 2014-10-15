@@ -34,6 +34,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Open source load testing tool: It is a Java platform application.
 * [httperfrb](https://github.com/jmervine/httperfrb) - Simple Ruby interface for httperf, written in Ruby.
 * [php-httperf](https://github.com/jmervine/php-httperf) - PHP Port of HTTPerf.rb.
+* [httperfjs](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
 
 
 ## Metrics Monitor
