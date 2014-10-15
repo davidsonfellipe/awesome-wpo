@@ -72,6 +72,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
 * [grunt-webp](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
 * [gulp-webp](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
+* [imageoptim](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
+
 
 
 ## Minifiers - HTML
