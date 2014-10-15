@@ -67,6 +67,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Sharp](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
 * [Gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
 * [Exexif](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
+* [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information. 
 
 
 ## Minifiers - HTML
