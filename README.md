@@ -45,7 +45,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [grunt-htmlcompressor](https://github.com/jney/grunt-htmlcompressor) - Grunt plugin for html compression, using htmlcompressor.
 * [html_minifier](https://github.com/stereobooster/html_minifier) - Ruby wrapper for kangax html-minifier
 * [html_press](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
-
+* [Koa HTML Minifier](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
+* [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator)
 
 ## Minifiers - JS & CSS
 
