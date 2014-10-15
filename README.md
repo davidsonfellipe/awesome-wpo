@@ -29,6 +29,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Webserver modules
 * [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source webserver module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
 
+## Webserver Benchmarks
+* [httperf](https://code.google.com/p/httperf/) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
+
 ## Metrics Monitor
 * [Keepfast](https://github.com/davidsonfellipe/keepfast) - Tool to monitor indicators related to performance of a web page.
 * [Showslow](http://www.showslow.com/) - open source tool that helps monitor various website performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace AJAX Edition.
@@ -59,6 +62,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Koa HTML Minifier](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 * [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator)
 * [minimize](https://github.com/Moveo/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release.
+
 
 ## Minifiers - JS & CSS
 
