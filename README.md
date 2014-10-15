@@ -115,6 +115,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## SVG
 * [SVGO](https://github.com/svg/svgo) - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
+* [grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) - Minify SVG using SVGO for Grunt.
 
 
 
