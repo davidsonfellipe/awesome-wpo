@@ -15,7 +15,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Metrics Monitor
 * [Keepfast](https://github.com/davidsonfellipe/keepfast) - Tool to monitor indicators related to performance of a web page.
-
+* [Showslow](http://www.showslow.com/) - open source tool that helps monitor various website performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace AJAX Edition.
 
 ## Minifiers
 
