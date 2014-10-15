@@ -18,6 +18,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Showslow](http://www.showslow.com/) - open source tool that helps monitor various website performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace AJAX Edition.
 * [Bench](https://github.com/jmervine/bench) - Using Phantomas (a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
 
+## Grunt Plugins
+* [grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
+
 
 ## Minifiers
 
