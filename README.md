@@ -73,6 +73,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Javascript benchmark
 
 * [JSlitmus](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
+* [Matcha](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 
 
 
