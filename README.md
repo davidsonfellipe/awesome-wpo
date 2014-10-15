@@ -104,6 +104,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Gulp-cssshrink](https://github.com/torrottum/gulp-cssshrink) - Shrinks CSS files using cssshrink for Gulp.
 * [prettyugly](https://github.com/stoyan/prettyugly) - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.
 * [grunt-contrib-cssmin](https://github.com/gruntjs/grunt-contrib-cssmin) - CSS Minifier for Grunt.
+* [gulp-cssmin](https://github.com/chilijung/gulp-cssmin) - CSS Minifier for Gulp.
 
 
 
