@@ -16,7 +16,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Blogs
 
-* [Performance Calendar](http://calendar.perfplanet.com/2013/) - The speed geek's favorite time of the year, maintained by @stoyanstefanov. 
+* [Performance Calendar](http://calendar.perfplanet.com/2013/) - The speed geek's favorite time of the year, maintained by @stoyanstefanov.
+* [Web Performance Today](http://www.webperformancetoday.com/) - Great posts written by @tameverts.
 
 ## Browsers - Bookmarklet
 
