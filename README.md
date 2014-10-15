@@ -68,6 +68,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
 * [Exexif](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information. 
+* [grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
+* [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
+
 
 
 ## Minifiers - HTML
