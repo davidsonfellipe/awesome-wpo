@@ -42,13 +42,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [gohttperf](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
 
 
-## Metrics Monitor
-* [Keepfast](https://github.com/davidsonfellipe/keepfast) - Tool to monitor indicators related to performance of a web page.
-* [Showslow](http://www.showslow.com/) - open source tool that helps monitor various website performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace AJAX Edition.
-* [Bench](https://github.com/jmervine/bench) - Using Phantomas (a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
-* [Libra](https://github.com/pitomba/libra) - Libra is a service to measure the weight along the time, written in Python.
-
-
 ## Grunt Plugins
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
 
@@ -111,12 +104,20 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 
 
+## Metrics Monitor
 
-## Online Tools
-
+* [Showslow](http://www.showslow.com/) - open source tool that helps monitor various website performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace AJAX Edition.
+* [Bench](https://github.com/jmervine/bench) - Using Phantomas (a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
+* [Keepfast](https://github.com/davidsonfellipe/keepfast) - Tool to monitor indicators related to performance of a web page.
 * [GTmetrix](http://gtmetrix.com/) - GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues.
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks
+* [Libra](https://github.com/pitomba/libra) - Libra is a service to measure the weight along the time, written in Python.
 * [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
+
+
+## Metrics Monitor - API
+
+* [WebPageTest API Wrapper for NodeJS](https://github.com/marcelduran/webpagetest-api) - WebPageTest API Wrapper is a NPM package that wraps WebPageTest API for NodeJS as a module and a command-line tool.
 
 
 ## Miscellaneous
