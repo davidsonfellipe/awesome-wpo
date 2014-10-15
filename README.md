@@ -14,6 +14,14 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [PerfMap](https://github.com/zeman/perfmap) - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API.
 
 
+## Javascript benchmark
+
+* [JSlitmus](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
+
+
+
+
+
 ## Online Tools
 
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks
