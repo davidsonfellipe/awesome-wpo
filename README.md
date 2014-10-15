@@ -151,7 +151,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## CDN
 
-* [jsDelivr](https://github.com/stoyan/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
+* [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files in their websites.
 
 
 ## Miscellaneous
