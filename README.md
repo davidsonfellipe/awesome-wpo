@@ -7,6 +7,12 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
     - [Other](#other)
 - [Contributing](#contributing)
 
+
+## Documentation
+
+* [Browser Diet](http://browserdiet.com/en/) - A collaborative guide about front-end performance.
+
+
 ## Browsers - Bookmarklet
 
 * [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
@@ -27,9 +33,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [gulp-smushit](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
 * [Smush.it](http://www.smushit.com/ysmush.it/) - Smush.it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality
 
-
-
-
 ## Minifiers
 
 * [YUI Compressor](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
@@ -43,7 +46,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks
 * [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
-
 
 
 ## Miscellaneous
