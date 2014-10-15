@@ -153,6 +153,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [ucss](https://github.com/operasoftware/ucss) - uCSS is made for crawling (large) websites to find unused CSS selectors, but not remove unused CSS.
 * [httpinvoke](https://github.com/jakutis/httpinvoke)- A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.
 * [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
+* [csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff"
 
 
 # Contributing
