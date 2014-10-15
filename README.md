@@ -107,6 +107,13 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [gulp-cssmin](https://github.com/chilijung/gulp-cssmin) - CSS Minifier for Gulp.
 
 
+## Web Components
+
+* [vulcanize](https://github.com/Polymer/vulcanize) - Concatenate a set of Web Components into one file, a Build tool for HTMLImports and Web Components.
+* [grunt-vulcanize](https://github.com/Polymer/grunt-vulcanize) - Grunt task for Polymer's Vulcanize.
+* [gulp-vulcanize](https://github.com/sindresorhus/gulp-vulcanize) - Concatenate a set of Web Components into one file that use Vulcanize.
+
+
 
 ## Sprite Generators
 * [glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate sprites:
