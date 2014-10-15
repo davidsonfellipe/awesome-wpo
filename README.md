@@ -32,6 +32,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Webserver Benchmarks
 * [httperf](https://code.google.com/p/httperf/) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
 * [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Open source load testing tool: It is a Java platform application.
+* [httperfrb](https://github.com/jmervine/httperfrb) - Simple Ruby interface for httperf, written in Ruby.
+
 
 ## Metrics Monitor
 * [Keepfast](https://github.com/davidsonfellipe/keepfast) - Tool to monitor indicators related to performance of a web page.
