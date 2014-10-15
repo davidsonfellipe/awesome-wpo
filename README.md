@@ -160,6 +160,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Metrics Monitor - API
 
 * [WebPageTest API Wrapper for NodeJS](https://github.com/marcelduran/webpagetest-api) - WebPageTest API Wrapper is a NPM package that wraps WebPageTest API for NodeJS as a module and a command-line tool.
+* []
 
 
 ## CDN
@@ -175,6 +176,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## CDN - Monitor
 
 * [CDNperf](http://www.cdnperf.com/about) - finds you fast and reliable JavaScript CDNs that make your websites snappy and happy.
+
+
+## CDN - Utils
+
+* [gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 
 
