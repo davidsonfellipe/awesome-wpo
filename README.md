@@ -14,10 +14,12 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 
+
 ## Blogs
 
 * [Performance Calendar](http://calendar.perfplanet.com/2013/) - The speed geek's favorite time of the year, maintained by @stoyanstefanov.
 * [Web Performance Today](http://www.webperformancetoday.com/) - Great posts written by @tameverts.
+
 
 ## Browsers - Bookmarklet
 
@@ -29,6 +31,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Webserver modules
 * [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source webserver module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
+
 
 ## Webserver Benchmarks
 * [httperf](https://code.google.com/p/httperf/) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
@@ -45,6 +48,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Bench](https://github.com/jmervine/bench) - Using Phantomas (a PhantomJS backed client performance metrics scrapper). Benchmark a page, store results in MongoDB and display result via the built in server.
 * [Libra](https://github.com/pitomba/libra) - Libra is a service to measure the weight along the time, written in Python.
 
+
 ## Grunt Plugins
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
 
@@ -57,7 +61,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Sharp](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
 * [Gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
 * [Exexif](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
-
 
 
 ## Minifiers - HTML
@@ -119,6 +122,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Miscellaneous
 
 * [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event!
+
 
 # Contributing
 
