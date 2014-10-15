@@ -20,17 +20,15 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 
 
-
-
 ## Online Tools
 
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks
 
 
 
-## Other
+## Miscellaneous
 
-* [xxx] - Not yet! Do it yourself!
+* [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event!
 
 # Contributing
 
