@@ -81,6 +81,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
 * [clean-css](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
+* [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+
 
 
 ## Sprite Generators
