@@ -11,7 +11,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Documentation
 
 * [Browser Diet](http://browserdiet.com/en/) - A collaborative guide about front-end performance.
-
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team
 
 ## Browsers - Bookmarklet
 
