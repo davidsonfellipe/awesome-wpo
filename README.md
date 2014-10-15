@@ -93,6 +93,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [clean-css](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
 * [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [JShrink](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
+* [CSSshrink](https://github.com/stoyan/cssshrink) - Because CSS is on the critical path to rendering pages. It must be small! Or else!
+* [Grunt-cssshrink](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
+* [Gulp-cssshrink](https://github.com/torrottum/gulp-cssshrink) - Shrinks CSS files using cssshrink for Gulp.
+
 
 
 ## Sprite Generators
@@ -134,6 +138,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks
 * [Libra](https://github.com/pitomba/libra) - Libra is a service to measure the weight along the time, written in Python.
 * [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
+ 
 
 
 ## Metrics Monitor - API
@@ -146,7 +151,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event!
 * [ucss](https://github.com/operasoftware/ucss) - uCSS is made for crawling (large) websites to find unused CSS selectors, but not remove unused CSS.
 * [httpinvoke](https://github.com/jakutis/httpinvoke)- A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.
-* [Critical-path](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
+* [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
 
 
 # Contributing
