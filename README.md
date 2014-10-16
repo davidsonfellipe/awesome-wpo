@@ -3,7 +3,7 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Awesome WPO](#awesome-wpo)
-    - [Browsers - Bookmarklet](#browsers-bookmarklet)
+    - [Browsers - Bookmarklet](#Bookmarklet)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -101,7 +101,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [clean-css](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
 * [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [JShrink](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
-* [CSSshrink](https://github.com/stoyan/cssshrink) - Because CSS is on the critical path to rendering pages. It must be small! Or else!
+* [CSSshrink](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
 * [Grunt-cssshrink](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
 * [Gulp-cssshrink](https://github.com/torrottum/gulp-cssshrink) - Shrinks CSS files using cssshrink for Gulp.
 * [prettyugly](https://github.com/stoyan/prettyugly) - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.
