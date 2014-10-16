@@ -27,6 +27,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
     - [Other](#other)
 - [Stats](#stats)
 - [Specs](#Specs)
+- [Web Performance Meetup Groups](#web-performance-meetup-groups)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -242,6 +243,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 * [httparchive](http://httparchive.org/index.php) - It is a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
 
+# Web Performance Meetup Groups
+
+* [Web Performance Meetup Groups](http://web-performance.meetup.com/) - Full list on www.meetup.com
 
 
 # Other Awesome Lists
