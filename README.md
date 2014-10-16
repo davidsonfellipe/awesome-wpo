@@ -27,6 +27,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
     - [Other](#other)
 - [Stats](#stats)
 - [Specs](#Specs)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 
@@ -239,6 +240,12 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 # Stats
 
 * [httparchive](http://httparchive.org/index.php) - It is a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
+
+
+# Other Awesome Lists
+
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 
 # Contributing
