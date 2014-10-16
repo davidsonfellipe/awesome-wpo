@@ -3,7 +3,7 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Awesome WPO](#awesome-wpo)
-    - [Browsers - Bookmarklet](#Bookmarklet)
+    - [Browsers - Bookmarklet](#bookmarklet)
     - [Other](#other)
 - [Contributing](#contributing)
 
