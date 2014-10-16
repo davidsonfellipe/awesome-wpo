@@ -3,7 +3,17 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Awesome WPO](#awesome-wpo)
-    - [Browsers - Bookmarklet](#bookmarklet)
+    - [Docs](#documentation)
+    - [Blogs](#blogs)
+    - [Analyzers](#analyzers)
+    - [Analyzers API](#analyzers-api)
+    - [Bookmarklets](#bookmarklets)
+    - [Webserver modules](#webserver-modules)
+    - [Webserver Benchmarks](#webserver-benchmarks)
+    - [Image Optimizers](#image-optimizers)
+    - [Minifiers HTML](#inifiers---html)
+    - [Minifiers JS & CSS](#minifiers---js--css)
+    - [Web Components](#web-components)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -21,13 +31,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Performance Today](http://www.webperformancetoday.com/) - Great posts written by @tameverts.
 
 
-## Bookmarklet
-
-* [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
-* [PageSpeed](https://developers.google.com/speed/pagespeed/insights_extensions) - PageSpeed Insights is available as an open-source browser extension for Google Chrome. Webmasters and web developers can use PageSpeed Insights to evaluate the performance of their web pages and to get suggestions on how to improve them.
-* [PerfMap](https://github.com/zeman/perfmap) - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API.
-* [DOM Monster](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health
-
 ## Analyzers
 
 * [YSlow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
@@ -39,6 +42,13 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 * [node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 
+
+## Bookmarklets
+
+* [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights_extensions) - PageSpeed Insights is available as an open-source browser extension for Google Chrome. Webmasters and web developers can use PageSpeed Insights to evaluate the performance of their web pages and to get suggestions on how to improve them.
+* [PerfMap](https://github.com/zeman/perfmap) - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API.
+* [DOM Monster](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health
 
 
 ## Webserver modules
