@@ -203,11 +203,14 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Pitomba-spriter](https://github.com/pitomba/spriter) - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
 * [Grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith) - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
 * [Gulp-sprite](https://github.com/aslansky/gulp-sprite) - gulp task for creating a image sprite and the corresponding stylesheets for Gulp.
+* [Gulp-svg-sprites](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating svg sprites.
 
 ## SVG
 * [SVGO](https://github.com/svg/svgo) - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
 * [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) - Minify SVG using SVGO for Grunt.
 * [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin) - Minify SVG with SVGO for Gulp.
+* [Scour](http://www.codedread.com/scour/) - Scour is an open-source Python script that aggressively cleans SVG files, removing a lot of 'cruft' that certain tools or authors embed into their documents. 
+* [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
 
 
 ## Webserver modules
