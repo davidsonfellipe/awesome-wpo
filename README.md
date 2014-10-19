@@ -37,6 +37,13 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Browser Diet](http://browserdiet.com/en/) - A collaborative guide about front-end performance.
 * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
+* 
+
+
+## Videos
+
+* [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling ( Addy Osmani)
+* [Performance Tooling](https://www.youtube.com/watch?v=HAqjyCH_LOE) - Performance Tooling (Paul Irish)
 
 
 ## Blogs
