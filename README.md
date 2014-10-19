@@ -231,9 +231,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTTPerf](https://code.google.com/p/httperf/) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
 * [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Open source load testing tool: It is a Java platform application.
 * [Autoperf](https://github.com/igrigorik/autoperf) - Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single end point, or through log replay.
-* [HTTPerfrb](https://github.com/jmervine/httperfrb) - Simple Ruby interface for httperf, written in Ruby.
+* [HTTPerf.rb](https://github.com/jmervine/httperfrb) - Simple Ruby interface for httperf, written in Ruby.
 * [PHP-httperf](https://github.com/jmervine/php-httperf) - PHP Port of HTTPerf.rb.
-* [HTTPerfjs](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
+* [HTTPerf.js](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
+* [HTTPerf.py](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
 * [Gohttperf](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
 
 
