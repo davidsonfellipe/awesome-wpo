@@ -8,7 +8,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers-api)
 - [Benchmark - CSS](#benchmark---css)
-- [Benchmark - JS](#benchmark---js)
+- [Benchmark - JS](#benchmark---javascript)
 - [Bookmarklets](#bookmarklets)
 - [CDN](#cdn)
 - [CDN - Monitor](#cdn---monitor)
