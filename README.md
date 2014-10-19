@@ -4,6 +4,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Docs](#documentation)
 - [Blogs](#blogs)
+- [Talks](#talks)
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers-api)
 - [Benchmark - CSS](#benchmark---css)
@@ -38,16 +39,16 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 
 
-## Videos
-
-* [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling ( Addy Osmani)
-* [Performance Tooling](https://www.youtube.com/watch?v=HAqjyCH_LOE) - Performance Tooling (Paul Irish)
-
-
 ## Blogs
 
 * [Performance Calendar](http://calendar.perfplanet.com/2013/) - The speed geek's favorite time of the year.
 * [Web Performance Today](http://www.webperformancetoday.com/) - Great posts written by @tameverts.
+
+
+## Talks
+
+* [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling ( Addy Osmani)
+* [Performance Tooling](https://www.youtube.com/watch?v=HAqjyCH_LOE) - Performance Tooling (Paul Irish)
 
 
 ## Analyzers
