@@ -6,7 +6,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Blogs](#blogs)
 - [Talks](#talks)
 - [Analyzers](#analyzers)
-- [Analyzers API](#analyzers-api)
+- [Analyzers API](#analyzers---api)
 - [Benchmark - CSS](#benchmark---css)
 - [Benchmark - JS](#benchmark---javascript)
 - [Bookmarklets](#bookmarklets)
@@ -24,9 +24,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Web Components](#web-components)
 - [Webserver modules](#webserver-modules)
 - [Webserver Benchmarks](#webserver-benchmarks)
-- [Other](#other)
+- [Specs](#specs)
 - [Stats](#stats)
-- [Specs](#Specs)
 - [Web Performance Meetup Groups](#web-performance-meetup-groups)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -62,7 +61,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.
 
 
-## Analyzers API
+## Analyzers - API
 
 * [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 
@@ -221,6 +220,13 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
 
 
+## Web Components
+
+* [Vulcanize](https://github.com/Polymer/vulcanize) - Concatenate a set of Web Components into one file, a Build tool for HTMLImports and Web Components.
+* [Grunt-vulcanize](https://github.com/Polymer/grunt-vulcanize) - Grunt task for Polymer's Vulcanize.
+* [Gulp-vulcanize](https://github.com/sindresorhus/gulp-vulcanize) - Concatenate a set of Web Components into one file that use Vulcanize.
+
+
 ## Webserver modules
 * [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source webserver module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
 * [Webp-detect](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
@@ -236,13 +242,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTTPerf.js](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
 * [HTTPerf.py](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
 * [Gohttperf](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
-
-
-## Web Components
-
-* [Vulcanize](https://github.com/Polymer/vulcanize) - Concatenate a set of Web Components into one file, a Build tool for HTMLImports and Web Components.
-* [Grunt-vulcanize](https://github.com/Polymer/grunt-vulcanize) - Grunt task for Polymer's Vulcanize.
-* [Gulp-vulcanize](https://github.com/sindresorhus/gulp-vulcanize) - Concatenate a set of Web Components into one file that use Vulcanize.
 
 
 # Specs
