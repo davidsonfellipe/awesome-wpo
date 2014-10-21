@@ -212,6 +212,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Gulp-svg-sprites](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating svg sprites.
 * [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
 * [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
+* [spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
+
+
 
 ## SVG
 * [SVGO](https://github.com/svg/svgo) - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
