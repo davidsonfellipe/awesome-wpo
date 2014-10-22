@@ -66,11 +66,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 
 
-## Benchmark - CSS 
+## Benchmark - CSS
 
 * [css-perf](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
-## Benchmark - Javascript 
+## Benchmark - Javascript
 
 * [jsPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
 * [benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
@@ -117,7 +117,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Sharp](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
 * [Gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
 * [Exexif](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
-* [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information. 
+* [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 * [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
 * [Grunt-webp](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
@@ -126,18 +126,18 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
 * [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimisation of images part of your automated build process.
 * [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
-* [Web-interface](https://kraken.io/web-interface) - Otimize your images and will be available for download for 12 hours.
+* [Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 
 
 ## Loaders
 
-* [headjs](https://github.com/headjs/headjs)- The only script in your HEAD. 
+* [headjs](https://github.com/headjs/headjs)- The only script in your HEAD.
  for Responsive Design, Feature Detections, and Resource Loading.
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 * [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [Defer.js](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel
 
-  
+
 ## Metrics Monitor
 
 * [Phantomas](https://github.com/macbre/phantomas) - PhantomJS-based web performance metrics collector and monitoring tool.
@@ -151,8 +151,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Sitespeed.io](http://www.sitespeed.io/documentation/) - Sitespeed.io is an open source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
 * [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance
 * [Perfjankie](https://www.npmjs.org/package/perfjankie) - Runtime Browser Performance regression suite ([Demo](https://github.com/asciidisco/perfjankie-test))
- 
- 
+
+
 ## Metrics Monitor - API
 
 * [WebPageTest API Wrapper for NodeJS](https://github.com/marcelduran/webpagetest-api) - WebPageTest API Wrapper is a NPM package that wraps WebPageTest API for NodeJS as a module and a command-line tool.
@@ -222,7 +222,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [SVGO](https://github.com/svg/svgo) - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
 * [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) - Minify SVG using SVGO for Grunt.
 * [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin) - Minify SVG with SVGO for Gulp.
-* [Scour](http://www.codedread.com/scour/) - Scour is an open-source Python script that aggressively cleans SVG files, removing a lot of 'cruft' that certain tools or authors embed into their documents. 
+* [Scour](http://www.codedread.com/scour/) - Scour is an open-source Python script that aggressively cleans SVG files, removing a lot of 'cruft' that certain tools or authors embed into their documents.
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
 
 
@@ -255,7 +255,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Performance Working Group](http://www.w3.org/2010/webperf/) - The mission of the Web Performance Working Group, part of the Rich Web Client Activity, is to provide methods to measure aspects of application performance of user agent features and APIs.
 * [Page Visibility](http://www.w3.org/TR/page-visibility/) - It is a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
 * [Navigation Timing](https://w3c.github.io/navigation-timing/) - This specification defines a unified interface to store and retrieve high resolution performance metric data related to the navigation of a document.
-* [Resource Timing](http://www.w3.org/TR/resource-timing/) - 
+* [Resource Timing](http://www.w3.org/TR/resource-timing/) -
 * [User Timing](http://www.w3.org/TR/user-timing/) - This specification defines an interface to help web developers measure the performance of their applications by giving them access to high precision timestamps.
 * [Performance Timeline](http://www.w3.org/TR/performance-timeline/) - This specification defines an unified interface to store and retrieve performance metric data. This specification does not cover individual performance metric interfaces.
 
