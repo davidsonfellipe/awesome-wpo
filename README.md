@@ -126,6 +126,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
 * [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimisation of images part of your automated build process.
 * [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
+* [Web-interface](https://kraken.io/web-interface) - Otimize your images and will be available for download for 12 hours.
 
 
 ## Loaders
