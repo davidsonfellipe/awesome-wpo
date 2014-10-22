@@ -255,7 +255,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Performance Working Group](http://www.w3.org/2010/webperf/) - The mission of the Web Performance Working Group, part of the Rich Web Client Activity, is to provide methods to measure aspects of application performance of user agent features and APIs.
 * [Page Visibility](http://www.w3.org/TR/page-visibility/) - It is a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
 * [Navigation Timing](https://w3c.github.io/navigation-timing/) - This specification defines a unified interface to store and retrieve high resolution performance metric data related to the navigation of a document.
-* [Resource Timing](http://www.w3.org/TR/resource-timing/) -
+* [Resource Timing](http://www.w3.org/TR/resource-timing/) - This specification defines an interface for web applications to access the complete timing information for resources in a document.
 * [User Timing](http://www.w3.org/TR/user-timing/) - This specification defines an interface to help web developers measure the performance of their applications by giving them access to high precision timestamps.
 * [Performance Timeline](http://www.w3.org/TR/performance-timeline/) - This specification defines an unified interface to store and retrieve performance metric data. This specification does not cover individual performance metric interfaces.
 
