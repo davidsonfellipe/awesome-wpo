@@ -152,6 +152,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Sitespeed.io](http://www.sitespeed.io/documentation/) - Sitespeed.io is an open source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
 * [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance
 * [Perfjankie](https://www.npmjs.org/package/perfjankie) - Runtime Browser Performance regression suite ([Demo](https://github.com/asciidisco/perfjankie-test))
+* [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring.aspx) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
 
 
 ## Metrics Monitor - API
