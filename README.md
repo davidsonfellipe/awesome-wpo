@@ -96,6 +96,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Microsoft Ajax Content Delivery Network](http://www.asp.net/ajax/cdn) - Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web applications.
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
+* [Handpicked jQuery Plugins Repository CDN](https://www.jque.re/) - Content Delivery Network for popular jQuery plugins.
 
 
 ## CDN - Monitor
