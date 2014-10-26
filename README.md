@@ -68,12 +68,12 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Benchmark - CSS
 
-* [css-perf](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
+* [CSS-perf](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
 ## Benchmark - Javascript
 
-* [jsPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
-* [benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
+* [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
+* [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * [JSlitmus](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
 * [Matcha](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 * [Timing.js](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
@@ -164,7 +164,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Minifiers - HTML
 
-* [HtmlCompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result pages become smaller in size and load faster. A command-line version of the compressor is also available.
+* [HTMLCompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result pages become smaller in size and load faster. A command-line version of the compressor is also available.
 * [Django-htmlmin](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts.
 * [HTMLMinifier](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
 * [Grunt-contrib-htmlmin](https://github.com/gruntjs/grunt-contrib-htmlmin) - A grunt plugin to minify HTML that uses HTMLMinifier.
@@ -268,7 +268,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 # Stats
 
-* [httparchive](http://httparchive.org/index.php) - It is a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
+* [HTTP Archive](http://httparchive.org/index.php) - It is a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
 
 # Web Performance Meetup Groups
 
