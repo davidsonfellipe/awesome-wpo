@@ -45,6 +45,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 
 ## Talks
+> Best talks about to WPO
 
 * [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling ( Addy Osmani).
 * [Performance Tooling](https://www.youtube.com/watch?v=HAqjyCH_LOE) - Performance Tooling (Paul Irish).
@@ -71,6 +72,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [CSS-perf](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
 ## Benchmark - Javascript
+> A set of tools for creating test cases and compare different implementations in JavaScript.
 
 * [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
 * [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
