@@ -16,7 +16,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Image Optimizers](#image-optimizers)
 - [Loaders](#loaders)
 - [Metrics Monitor](#metrics-monitor)
-- [Minifiers HTML](#inifiers---html)
+- [Minifiers HTML](#minifiers---html)
 - [Minifiers JS & CSS](#minifiers---js--css)
 - [Miscellaneous](#miscellaneous)
 - [Sprite Generators](#sprite-generators)
