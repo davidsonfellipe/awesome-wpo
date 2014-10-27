@@ -26,6 +26,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Web Components](#web-components)
 - [Webserver modules](#webserver-modules)
 - [Webserver Benchmarks](#webserver-benchmarks)
+- [SEO](#seo)
 - [Specs](#specs)
 - [Stats](#stats)
 - [Web Performance Meetup Groups](#web-performance-meetup-groups)
@@ -274,6 +275,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTTPerf.py](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
 * [Gohttperf](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
 
+# SEO
+
+* [SEOstats](https://github.com/eyecatchup/SEOstats) - SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 
 # Specs
 
