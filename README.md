@@ -157,6 +157,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
 * [Perfjankie](https://www.npmjs.org/package/perfjankie) - Runtime Browser Performance regression suite ([Demo](https://github.com/asciidisco/perfjankie-test)).
 * [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring.aspx) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
+* [Perf Bar](http://lafikl.github.io/perfBar/) - Simple way to collect and look at your website performance metrics quickly, that supports budgeting and adding custom metrics.
 
 
 ## Metrics Monitor - API
