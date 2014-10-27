@@ -4,6 +4,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Docs](#documentation)
 - [Blogs](#blogs)
+- [Articles](#articles)
 - [Talks](#talks)
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers---api)
@@ -44,11 +45,21 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Performance Today](http://www.webperformancetoday.com/) - Great posts written by @tameverts.
 
 
+## Articles
+
+* [Preventing 'layout thrashing'](http://wilsonpage.co.uk/preventing-layout-thrashing/) - Wilson Page
+* [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
+* [Jank Busting for Better Rendering Performance](http://www.html5rocks.com/en/tutorials/speed/rendering/) - Tom Wiltzius
+* [Scrolling Performance](http://www.html5rocks.com/en/tutorials/speed/scrolling/) - Paul Lewis
+
+
 ## Talks
 > Best talks about to WPO
 
 * [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling ( Addy Osmani).
 * [Performance Tooling](https://www.youtube.com/watch?v=HAqjyCH_LOE) - Performance Tooling (Paul Irish).
+* [A developer A developer's guide to rendering performance](http://vimeo.com/77591536) - Paul Lewis
+* [Jank Free: Chrome Rendering Performance](http://vimeo.com/77591536) - Nat Duca, Tom Wiltzius
 
 
 ## Analyzers
