@@ -146,7 +146,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Loaders
 
-* [headjs](https://github.com/headjs/headjs)- The only script in your HEAD.
+* [HeadJS](https://github.com/headjs/headjs)- The only script in your HEAD.
  for Responsive Design, Feature Detections, and Resource Loading.
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 * [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
@@ -234,7 +234,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Gulp-svg-sprites](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating svg sprites.
 * [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
 * [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
-* [spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
+* [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
 
 
 ## SVG
