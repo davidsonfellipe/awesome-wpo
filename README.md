@@ -16,6 +16,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [CDN - Utilities](#cdn---utilities)
 - [Image Optimizers](#image-optimizers)
 - [Loaders](#loaders)
+- [Meta Tools](#meta-tools)
 - [Metrics Monitor](#metrics-monitor)
 - [Minifiers HTML](#minifiers---html)
 - [Minifiers JS & CSS](#minifiers---js--css)
@@ -25,6 +26,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Web Components](#web-components)
 - [Webserver modules](#webserver-modules)
 - [Webserver Benchmarks](#webserver-benchmarks)
+- [SEO](#seo)
 - [Specs](#specs)
 - [Stats](#stats)
 - [Web Performance Meetup Groups](#web-performance-meetup-groups)
@@ -159,6 +161,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Defer.js](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
 * [InstantClick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
 
+## Meta Tools
+
+* [Iconogen](http://www.iconogen.com/) - Tool to quickly generate your favicons, Windows 8 Tiles, Apple Touch icons and iOS7 icons instantly, safely and most importantly free.
 
 ## Metrics Monitor
 
@@ -277,6 +282,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTTPerf.py](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
 * [Gohttperf](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
 
+# SEO
+
+* [SEOstats](https://github.com/eyecatchup/SEOstats) - SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 
 # Specs
 
