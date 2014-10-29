@@ -114,7 +114,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
 * [Handpicked jQuery Plugins Repository CDN](https://www.jque.re/) - Content Delivery Network for popular jQuery plugins.
-* [CDNify](https://cdnify.com/)
+* [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
 
 
 ## CDN - Monitor
