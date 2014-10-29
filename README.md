@@ -60,7 +60,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Talks
 > Best talks about to WPO
 
-* [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling ( Addy Osmani).
+* [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling (Addy Osmani).
 * [Performance Tooling](https://www.youtube.com/watch?v=HAqjyCH_LOE) - Performance Tooling (Paul Irish).
 * [A developer's guide to rendering performance](http://vimeo.com/77591536) - Paul Lewis
 * [Jank Free: Chrome Rendering Performance](http://vimeo.com/77591536) - Nat Duca, Tom Wiltzius
