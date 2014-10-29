@@ -148,6 +148,12 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 * [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
+* [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
+* [jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
+* [ZopfliPNG](https://code.google.com/p/zopfli/source/browse/README.zopflipng) - A command line program to optimize PNG images.
+* [AdvPNG](http://advancemame.sourceforge.net/doc-advpng.html) - Recompress png files to get the smallest possible size.
+* [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
+* [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 
 
 ## Loaders
