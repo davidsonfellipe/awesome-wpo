@@ -56,6 +56,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80) - Dean Hume
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
 * [10 Javascript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas) - Nicholas C. Zakas
+* [17 Statistics to Sell Web Performance Optimization](http://www.guypo.com/business/17-statistics-to-sell-web-performance-optimization/) - Guy Podjarny
 
 ## Books
 
