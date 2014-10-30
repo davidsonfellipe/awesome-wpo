@@ -235,7 +235,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
 * [StyleStats](http://www.stylestats.org/) - StyleStats is a Node.js library to collect CSS statistics.
 * [Lazysizes](https://github.com/aFarkas/lazysizes) - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-* [Perf-Tools](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existent performance tools.
+* [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existent performance tools.
 
 
 ## Sprite Generators
