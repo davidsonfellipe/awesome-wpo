@@ -55,6 +55,15 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Getting started with the Picture Element](http://deanhume.com/Home/BlogPost/getting-started-with-the-picture-element/8109) - Dean Hume
 * [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80) - Dean Hume
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
+* [10 Javascript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas) - Nicholas C. Zakas
+
+## Books
+
+* [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - Steve Souders
+* [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
+* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
+* [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/0636920028048.do) - Steve Souders
+* [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) - Nicholas C. Zakas
 
 
 ## Talks
