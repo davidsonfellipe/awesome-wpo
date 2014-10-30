@@ -58,9 +58,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 
 ## Talks
-> Best talks about to WPO
+> Best talks about WPO
 
-* [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling ( Addy Osmani).
+* [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) - CSS Performance Tooling (Addy Osmani).
 * [Performance Tooling](https://www.youtube.com/watch?v=HAqjyCH_LOE) - Performance Tooling (Paul Irish).
 * [A developer's guide to rendering performance](http://vimeo.com/77591536) - Paul Lewis
 * [Jank Free: Chrome Rendering Performance](http://vimeo.com/77591536) - Nat Duca, Tom Wiltzius
@@ -114,7 +114,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
 * [Handpicked jQuery Plugins Repository CDN](https://www.jque.re/) - Content Delivery Network for popular jQuery plugins.
-* [CDNify](https://cdnify.com/)
+* [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
 
 
 ## CDN - Monitor
@@ -148,6 +148,12 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 * [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
+* [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
+* [jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
+* [ZopfliPNG](https://code.google.com/p/zopfli/source/browse/README.zopflipng) - A command line program to optimize PNG images.
+* [AdvPNG](http://advancemame.sourceforge.net/doc-advpng.html) - Recompress png files to get the smallest possible size.
+* [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
+* [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 
 
 ## Loaders
@@ -176,7 +182,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Perfjankie](https://www.npmjs.org/package/perfjankie) - Runtime Browser Performance regression suite ([Demo](https://github.com/asciidisco/perfjankie-test)).
 * [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring.aspx) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
 * [Perf Bar](http://lafikl.github.io/perfBar/) - Simple way to collect and look at your website performance metrics quickly, that supports budgeting and adding custom metrics.
-
 
 ## Metrics Monitor - API
 
@@ -230,6 +235,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
 * [StyleStats](http://www.stylestats.org/) - StyleStats is a Node.js library to collect CSS statistics.
 * [Lazysizes](https://github.com/aFarkas/lazysizes) - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+* [Perf-Tools](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existent performance tools.
 
 
 ## Sprite Generators
