@@ -1,4 +1,4 @@
-b# Awesome WPO
+# Awesome WPO
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
