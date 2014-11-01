@@ -297,7 +297,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTTPerf.js](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
 * [HTTPerf.py](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
 * [Gohttperf](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
-
+* [wrk](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
+  processing, and custom reporting)
 
 # Specs
 
