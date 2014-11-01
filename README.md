@@ -124,7 +124,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Microsoft Ajax Content Delivery Network](http://www.asp.net/ajax/cdn) - Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web applications.
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
-* [Handpicked jQuery Plugins Repository CDN](https://www.jque.re/) - Content Delivery Network for popular jQuery plugins.
+* [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
+* [Handpicked jQuery Plugins Repository CDN](http://www.jque.re/) - Content Delivery Network for popular jQuery plugins (only supports HTTP).
+* [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only supports HTTP).
+* [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - Some popular javascript libraries hosted by Chinese Internet companies. They are hosted on servers within China so they are much more stable and faster.
 * [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
 
 
