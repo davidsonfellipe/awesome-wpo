@@ -154,8 +154,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 * [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
-* [Grunt-webp](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
-* [Gulp-webp](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
+* [Grunt-WebP](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
+* [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 * [Imageoptim](https://imageoptim.com/) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
 * [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
 * [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimisation of images part of your automated build process.
@@ -163,7 +163,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
 * [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
-* [jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
+* [Jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
 * [ZopfliPNG](https://code.google.com/p/zopfli/source/browse/README.zopflipng) - A command line program to optimize PNG images.
 * [AdvPNG](http://advancemame.sourceforge.net/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
@@ -287,7 +287,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Webserver modules
 
 * [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download) - PageSpeed speeds up your site and reduces page load time. This open-source webserver module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
-* [Webp-detect](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
+* [WebP-detect](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
 
 
 ## Webserver Benchmarks
