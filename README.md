@@ -94,6 +94,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Analyzers - API
 
 * [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
+* [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights for Node - with reporting.
 
 
 ## Benchmark - CSS
