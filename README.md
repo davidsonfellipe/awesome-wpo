@@ -90,6 +90,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
 * [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](http://timkadlec.com/2013/01/setting-a-performance-budget/)).
 * [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.
+* [SEO Browser - Optimization](http://www.seo-browser.com/) - Tool to verify the optimization technique embedded in the application created. This web tool shows how readers search your web application and recognize that it is semantically correct.
 
 
 ## Analyzers - API
