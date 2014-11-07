@@ -48,27 +48,27 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Articles
 
-* [Preventing 'layout thrashing'](http://wilsonpage.co.uk/preventing-layout-thrashing/) - Wilson Page
-* [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
-* [Jank Busting for Better Rendering Performance](http://www.html5rocks.com/en/tutorials/speed/rendering/) - Tom Wiltzius
-* [Scrolling Performance](http://www.html5rocks.com/en/tutorials/speed/scrolling/) - Paul Lewis
-* [Getting started with the Picture Element](http://deanhume.com/Home/BlogPost/getting-started-with-the-picture-element/8109) - Dean Hume
-* [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80) - Dean Hume
-* [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
 * [10 Javascript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas) - Nicholas C. Zakas
 * [17 Statistics to Sell Web Performance Optimization](http://www.guypo.com/business/17-statistics-to-sell-web-performance-optimization/) - Guy Podjarny
+* [Getting started with the Picture Element](http://deanhume.com/Home/BlogPost/getting-started-with-the-picture-element/8109) - Dean Hume
+* [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80) - Dean Hume
+* [Jank Busting for Better Rendering Performance](http://www.html5rocks.com/en/tutorials/speed/rendering/) - Tom Wiltzius
+* [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
+* [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
+* [Preventing 'layout thrashing'](http://wilsonpage.co.uk/preventing-layout-thrashing/) - Wilson Page
+* [Scrolling Performance](http://www.html5rocks.com/en/tutorials/speed/scrolling/) - Paul Lewis
 * [Total deferring of Javascript Parsing](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - Patrick Sexton
 * [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/)
-* [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
+* [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
 
 
 ## Books
 
+* [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/0636920028048.do) - Steve Souders
+* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
+* [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) - Nicholas C. Zakas
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - Steve Souders
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
-* [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
-* [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/0636920028048.do) - Steve Souders
-* [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) - Nicholas C. Zakas
 
 
 ## Talks
