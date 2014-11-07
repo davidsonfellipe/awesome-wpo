@@ -64,6 +64,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 
 ## Books
+> Best books about WPO
 
 * [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/0636920028048.do) - Steve Souders
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
