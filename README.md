@@ -55,6 +55,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Jank Busting for Better Rendering Performance](http://www.html5rocks.com/en/tutorials/speed/rendering/) - Tom Wiltzius
 * [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
 * [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
+* [Performance As Design](http://bradfrost.com/blog/post/performance-as-design/) - Brad Frost
 * [Preventing 'layout thrashing'](http://wilsonpage.co.uk/preventing-layout-thrashing/) - Wilson Page
 * [Scrolling Performance](http://www.html5rocks.com/en/tutorials/speed/scrolling/) - Paul Lewis
 * [Total deferring of Javascript Parsing](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - Patrick Sexton
