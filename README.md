@@ -71,6 +71,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) - Nicholas C. Zakas
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - Steve Souders
 * [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) - Rick Viscomi, Andy Davies, Marcel Duran
+* [Web Page Size, Speed, and Performance](http://www.oreilly.com/webops-perf/free/webpage-size-speed-perf.csp) - Terrence Dorsey
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
 
 
