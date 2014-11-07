@@ -53,13 +53,13 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Getting started with the Picture Element](http://deanhume.com/Home/BlogPost/getting-started-with-the-picture-element/8109) - Dean Hume
 * [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80) - Dean Hume
 * [Jank Busting for Better Rendering Performance](http://www.html5rocks.com/en/tutorials/speed/rendering/) - Tom Wiltzius
-* [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
-* [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
+* [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling) - Google
+* [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) - Adam Beres-Deak
 * [Performance As Design](http://bradfrost.com/blog/post/performance-as-design/) - Brad Frost
 * [Preventing 'layout thrashing'](http://wilsonpage.co.uk/preventing-layout-thrashing/) - Wilson Page
 * [Scrolling Performance](http://www.html5rocks.com/en/tutorials/speed/scrolling/) - Paul Lewis
 * [Total deferring of Javascript Parsing](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - Patrick Sexton
-* [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/)
+* [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/) - Ilya Grigorik
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
 
 
