@@ -142,6 +142,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - Some popular javascript libraries hosted by Chinese Internet companies. They are hosted on servers within China so they are much more stable and faster.
 * [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
 * [Cached Commons](http://cachedcommons.org/) - Caching and Compressing Javascripts and Stylesheets since 2009. 148 libraries and counting.
+* [OSSCDN](https://github.com/MaxCDN/osscdn) - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
 
 
 > See a large list of CDN in (Wikipedia)[http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers]
