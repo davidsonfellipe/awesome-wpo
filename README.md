@@ -6,6 +6,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Blogs](#blogs)
 - [Articles](#articles)
 - [Talks](#talks)
+- [Slides](#slides)
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers---api)
 - [Benchmark - CSS](#benchmark---css)
@@ -85,6 +86,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Jank Free: Chrome Rendering Performance](http://vimeo.com/77591536) - Nat Duca, Tom Wiltzius
 * [Full Stack Web Performance](https://vimeo.com/97415381) - Nik Molnar
 
+## Slides
+> Slides presented on conferences/events/talks
+
+* [Critical Rendering Path - DEVDAY2014](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing) - João Lucas P Santana
 
 ## Analyzers
 
