@@ -145,6 +145,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Cached Commons](http://cachedcommons.org/) - Caching and Compressing Javascripts and Stylesheets since 2009. 148 libraries and counting.
 * [OSSCDN](https://github.com/MaxCDN/osscdn) - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
 * :cn: [Baidu public CDN](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs) - Baidu public CDN for your application to provide a stable, reliable, high-speed services, including all of the world's most popular open source JavaScript library.
+* :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provide by upyun.
 
 
 > See a large list of CDN in (Wikipedia)[http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers]
