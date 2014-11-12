@@ -28,7 +28,8 @@
 * :us: **Jank Free: Chrome Rendering Performance** _by Nat Duca, Tom Wiltzius_ ~ [video](http://vimeo.com/77591536)
 * :us: **Full Stack Web Performance** _by Nik Molnar_ ~ [video](https://vimeo.com/97415381)
 * :es: **Curso WPO - Web Performance Optimization 2013** _by Pablo Martinez_ ~ [slides](http://www.slideshare.net/pablomartinezfernandez/curso-wpopol)
-* [pt] **Critical Rendering Path** _by João Lucas P Santana_ ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
+* :es: **Web Performance Optimization** _by Pedro Martínez_ ~ [slides](http://www.slideshare.net/pemargo1/wpo-congreso-seo4seos)
+* :br: **Critical Rendering Path** _by João Lucas P Santana_ ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
 
 
 # Contributing
