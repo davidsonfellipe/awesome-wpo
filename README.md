@@ -62,6 +62,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Total deferring of Javascript Parsing](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - Patrick Sexton
 * [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/) - Ilya Grigorik
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
+* [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - Some popular javascript libraries hosted by Chinese Internet companies. They are hosted on servers within China so they are much more stable and faster.
 
 
 ## Books
@@ -139,7 +140,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
 * [Handpicked jQuery Plugins Repository CDN](http://www.jque.re/) - Content Delivery Network for popular jQuery plugins (only supports HTTP).
 * [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only supports HTTP).
-* [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - Some popular javascript libraries hosted by Chinese Internet companies. They are hosted on servers within China so they are much more stable and faster.
 * [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
 * [Cached Commons](http://cachedcommons.org/) - Caching and Compressing Javascripts and Stylesheets since 2009. 148 libraries and counting.
 * [OSSCDN](https://github.com/MaxCDN/osscdn) - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
