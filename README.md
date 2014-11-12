@@ -137,7 +137,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Microsoft Ajax Content Delivery Network](http://www.asp.net/ajax/cdn) - Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web applications.
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
-* [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
 * [Handpicked jQuery Plugins Repository CDN](http://www.jque.re/) - Content Delivery Network for popular jQuery plugins (only supports HTTP).
 * [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only supports HTTP).
 * [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - Some popular javascript libraries hosted by Chinese Internet companies. They are hosted on servers within China so they are much more stable and faster.
@@ -147,6 +146,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * :cn: [Baidu public CDN](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs) - Baidu public CDN for your application to provide a stable, reliable, high-speed services, including all of the world's most popular open source JavaScript library.
 * :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provide by upyun.
 * :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provide by sinaapp.com.
+* :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
+
 
 
 > See a large list of CDN in (Wikipedia)[http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers]
