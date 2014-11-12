@@ -1,6 +1,6 @@
-# Awesome WPO
+# Awesome WPO > Talks
 
-A curated list of Web Performance Optimization. Everyone can contribute here!
+> Talks about Web Performance Optimization
 
 - [CSS](#css)
 - [Tooling](#tooling)
