@@ -43,7 +43,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Blogs
 
-> For a better categorization of the Blogs, they were categorized into [BLOGS.md](BLOGS).
+> For a better categorization of the Blogs, they were categorized into [BLOGS](BLOGS.md).
 
 
 
