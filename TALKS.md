@@ -17,9 +17,15 @@
 
 * :br: **Performance em JQuery apps** _by Davidson Fellipe_ ~ [slides](http://www.slideshare.net/davidsonfellipe/jqueryperf)
 
+
 ## Tooling
 
 * :us: **Performance Tooling** _by Paul Irish_ ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
+
+
+## Metrics Monitor
+
+* :br: **O melhor da monitoração de Web Performance** _Davidson Fellipe_ ~ [video](http://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](http://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
 
 ## General
