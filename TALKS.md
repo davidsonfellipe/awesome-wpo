@@ -25,7 +25,7 @@
 
 ## Metrics Monitor
 
-* :br: **O melhor da monitoração de Web Performance** ~ _by Davidson Fellipe_ ~ [video](http://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](http://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
+* :br: **O melhor da monitoração de Web Performance** _by Davidson Fellipe_ ~ [video](http://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](http://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
 
 ## General
