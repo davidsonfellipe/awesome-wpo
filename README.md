@@ -134,7 +134,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 * [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
 * [Handpicked jQuery Plugins Repository CDN](http://www.jque.re/) - Content Delivery Network for popular jQuery plugins (only supports HTTP).
-* [Cached Commons](http://cachedcommons.org/) - Caching and Compressing Javascripts and Stylesheets since 2009. 148 libraries and counting.
 * [OSSCDN](https://github.com/MaxCDN/osscdn) - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
 * [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
 * :cn: [Baidu public CDN](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs) - Baidu public CDN for your application to provide a stable, reliable, high-speed services, including all of the world's most popular open source JavaScript library.
