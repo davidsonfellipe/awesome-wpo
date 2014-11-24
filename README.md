@@ -16,7 +16,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [CDN - Monitor](#cdn---monitor)
 - [CDN - Utilities](#cdn---utilities)
 - [Image Optimizers](#image-optimizers)
-- [Lazyloaders](#lazy-loaders)
+- [Lazyloaders](#lazyloaders)
 - [Loaders](#loaders)
 - [Metrics Monitor](#metrics-monitor)
 - [Minifiers HTML](#minifiers---html)
