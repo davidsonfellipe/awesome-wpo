@@ -16,6 +16,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [CDN - Monitor](#cdn---monitor)
 - [CDN - Utilities](#cdn---utilities)
 - [Image Optimizers](#image-optimizers)
+- [Lazyloaders](#lazy-loaders)
 - [Loaders](#loaders)
 - [Metrics Monitor](#metrics-monitor)
 - [Minifiers HTML](#minifiers---html)
@@ -183,6 +184,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 
+## Lazyloaders
+
+* [lazyload](https://github.com/vvo/lazyload) - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb
 
 ## Loaders
 
