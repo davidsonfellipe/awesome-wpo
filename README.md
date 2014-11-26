@@ -285,6 +285,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
 * [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
 * [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
+* [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
 
 
 ## SVG
