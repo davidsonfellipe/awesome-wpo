@@ -11,6 +11,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Analyzers API](#analyzers---api)
 - [Benchmark - CSS](#benchmark---css)
 - [Benchmark - JS](#benchmark---javascript)
+- [Benchmark - PHP](#benchmark---php)
 - [Bookmarklets](#bookmarklets)
 - [CDN](#cdn)
 - [CDN - Monitor](#cdn---monitor)
@@ -114,6 +115,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Matcha](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 * [Timing.js](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
 * [Stats.js](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
+
+
+## Benchmark - PHP
+
+* [PHPench](https://github.com/mre/PHPench) - PHPench creates a graphical output for a PHP benchmark. Plot the runtime of any function in realtime with GnuPlot and create an image out of the result.
 
 
 ## Bookmarklets
