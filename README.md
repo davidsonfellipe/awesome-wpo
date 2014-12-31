@@ -65,6 +65,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/) - Ilya Grigorik
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
 * [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - Some popular javascript libraries hosted by Chinese Internet companies. They are hosted on servers within China so they are much more stable and faster.
+* [Web Performance Optimization](http://gokulkrishh.github.io/2014/12/15/Web-performance-optimization) - Gokulakrishnan Kalaikovan
 
 
 ## Books
