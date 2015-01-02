@@ -94,7 +94,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [YSlow for PhantomJS](http://yslow.org/phantomjs/) - YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
 * [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](http://timkadlec.com/2013/01/setting-a-performance-budget/)).
-* [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.
+* [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
+* [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behaviour and performance, while generating actual load.
 
 
 ## Analyzers - API
