@@ -15,7 +15,7 @@
 
 ## Javascript
 
-* :br: **Performance em JQuery apps** _by Davidson Fellipe_ ~ [slides](http://www.slideshare.net/davidsonfellipe/jqueryperf)
+* **Performance em JQuery apps** _by Davidson Fellipe_ ~ [slides](http://www.slideshare.net/davidsonfellipe/jqueryperf)
 
 
 ## Tooling
