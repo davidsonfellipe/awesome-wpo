@@ -38,6 +38,10 @@
 * **Critical Rendering Path** _by João Lucas P Santana_ ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
 * :de: **Web Performance Optimization** _by Fabian Lange_ ~ [slides](http://www.slideshare.net/fabianlange/web-performance-optimization-jax-2011-talk)
 
+## Others
+
+* :us: **Discover DevTools** _by CodeSchool_ ~ [course](https://www.codeschool.com/courses/discover-devtools)
+<br>Learn how Chrome DevTools can sharpen your dev process and discover the tools that can optimize your workflow and make life easier.
 
 # Contributing
 
