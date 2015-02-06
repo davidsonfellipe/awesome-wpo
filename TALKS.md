@@ -3,6 +3,7 @@
 > Talks about Web Performance Optimization
 
 - [CSS](#css)
+- [Javascript](#javascript)
 - [Tooling](#tooling)
 - [Others](#others)
 - [Contributing](#contributing)
