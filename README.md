@@ -122,7 +122,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Benchmark - PHP
 
 * [PHPench](https://github.com/mre/PHPench) - PHPench creates a graphical output for a PHP benchmark. Plot the runtime of any function in realtime with GnuPlot and create an image out of the result.
-
+* [php-bench](https://github.com/jacobbednarz/php-bench) - Benchmark and profile PHP code blocks whilst measuring the performance footprint. 
 
 ## Bookmarklets
 
