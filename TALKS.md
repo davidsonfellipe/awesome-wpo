@@ -18,18 +18,15 @@
 
 * **Performance em JQuery apps** _by Davidson Fellipe_ ~ [slides](http://www.slideshare.net/davidsonfellipe/jqueryperf)
 
+## Metrics Monitor
+
+* **O melhor da monitoração de Web Performance** _by Davidson Fellipe_ ~ [video](http://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](http://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
 ## Tooling
 
 * :us: **Performance Tooling** _by Paul Irish_ ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
 
-
-## Metrics Monitor
-
-* **O melhor da monitoração de Web Performance** _by Davidson Fellipe_ ~ [video](http://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](http://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
-
-
-## General
+## Miscellaneous
 
 * :us: **A developer's guide to rendering performance** _by Paul Lewis_ ~ [video](http://vimeo.com/77591536) / [slides](https://speakerdeck.com/paullewis/a-developers-guide-to-rendering-performance)
 * :us: **Jank Free: Chrome Rendering Performance** _by Nat Duca, Tom Wiltzius_ ~ [video](http://vimeo.com/77591536)
@@ -38,9 +35,6 @@
 * :es: **Web Performance Optimization** _by Pedro Martínez_ ~ [slides](http://www.slideshare.net/pemargo1/wpo-congreso-seo4seos)
 * **Critical Rendering Path** _by João Lucas P Santana_ ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
 * :de: **Web Performance Optimization** _by Fabian Lange_ ~ [slides](http://www.slideshare.net/fabianlange/web-performance-optimization-jax-2011-talk)
-
-## Others
-
 * :us: **Discover DevTools** _by CodeSchool_ ~ [course](https://www.codeschool.com/courses/discover-devtools)
 <br>Learn how Chrome DevTools can sharpen your dev process and discover the tools that can optimize your workflow and make life easier.
 
