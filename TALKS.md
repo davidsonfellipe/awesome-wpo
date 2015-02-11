@@ -29,7 +29,7 @@
 
 ## Wordpress
 
-* :us: **Turbo-charging your WordPress website** _by Jono Alderson_ ~ [sides] (https://www.jonoalderson.com/events-presentations/searchlove-2014-turbo-charging-wordpress-website-cheat-sheet/)
+* :us: **Turbo-charging your WordPress website** _by Jono Alderson_ ~ [slides](https://www.jonoalderson.com/events-presentations/searchlove-2014-turbo-charging-wordpress-website-cheat-sheet/)
 
 ## Miscellaneous
 
