@@ -4,6 +4,7 @@
 
 - [CSS](#css)
 - [Javascript](#javascript)
+- [Wordpress](#wordpress)
 - [Tooling](#tooling)
 - [Others](#others)
 - [Contributing](#contributing)
@@ -25,6 +26,10 @@
 ## Tooling
 
 * :us: **Performance Tooling** _by Paul Irish_ ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
+
+## Wordpress
+
+* :us: **Turbo-charging your WordPress website** _by Jono Alderson_ ~ [sides] (https://www.jonoalderson.com/events-presentations/searchlove-2014-turbo-charging-wordpress-website-cheat-sheet/)
 
 ## Miscellaneous
 
