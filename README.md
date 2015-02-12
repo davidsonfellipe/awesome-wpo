@@ -2,12 +2,14 @@
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
+## Categories
 - [Articles](#articles)
 - [Blogs](#blogs)
+- [Books](#books)
 - [Docs](#documentation)
-- [Slides](#slides)
 - [Talks](#talks)
 
+## Tools
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers---api)
 - [Benchmark - CSS](#benchmark---css)
@@ -60,18 +62,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 > For a better categorization of the Blogs, they were categorized into [BLOGS](BLOGS.md).
 
 
-## Documentation
-
-* [Browser Diet](http://browserdiet.com/en/) - A collaborative guide about front-end performance.
-* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
-* [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
-* [Image Optimization Techniques](http://www.imageoptimization.info/) - A collection of tools and techniques to optimize your images and improve your page load times.
-
-
-
-
-
-
 ## Books
 > Best books about WPO
 
@@ -85,9 +75,20 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
 
 
+## Documentation
+
+* [Browser Diet](http://browserdiet.com/en/) - A collaborative guide about front-end performance.
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
+* [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
+* [Image Optimization Techniques](http://www.imageoptimization.info/) - A collection of tools and techniques to optimize your images and improve your page load times.
+
+
 ## Talks
 
 > For a better categorization of the talks, they were categorized into [TALKS.md](TALKS.md).
+
+
+# Tools
 
 
 ## Analyzers
