@@ -294,6 +294,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
 * [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
 * [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
+* [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
 
 
 ## SVG
