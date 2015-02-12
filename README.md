@@ -151,7 +151,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 * :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
 
-> To find useful informations and powerful tools in an easy-to-use online environment for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/). 
+> To find useful informations and powerful tools in an easy-to-use online environment for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
 
 
 ## CDN - Monitor
