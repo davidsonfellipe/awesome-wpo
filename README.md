@@ -156,7 +156,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 * :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
 
-> To find useful informations and powerful tools in an easy-to-use online environment for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/). 
+> To find useful informations and powerful tools in an easy-to-use online environment for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
 
 
 ## CDN - Monitor
@@ -293,12 +293,14 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate sprites:
 * [Pitomba-spriter](https://github.com/pitomba/spriter) - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
 * [Grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith) - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
+* [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) - Grunt task that generates a sprite from images referenced in a stylesheet and then updates the references with the new sprite image and positions.
 * [Gulp-sprite](https://github.com/aslansky/gulp-sprite) - gulp task for creating a image sprite and the corresponding stylesheets for Gulp.
 * [Gulp-svg-sprites](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating svg sprites.
 * [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
 * [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
 * [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
 * [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
+* [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
 
 
 ## SVG
