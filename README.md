@@ -2,11 +2,12 @@
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
-- [Docs](#documentation)
-- [Blogs](#blogs)
 - [Articles](#articles)
-- [Talks](#talks)
+- [Blogs](#blogs)
+- [Docs](#documentation)
 - [Slides](#slides)
+- [Talks](#talks)
+
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers---api)
 - [Benchmark - CSS](#benchmark---css)
@@ -35,19 +36,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Contributing](#contributing)
 
 
-## Documentation
-
-* [Browser Diet](http://browserdiet.com/en/) - A collaborative guide about front-end performance.
-* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
-* [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
-* [Image Optimization Techniques](http://www.imageoptimization.info/) - A collection of tools and techniques to optimize your images and improve your page load times.
-
-
-## Blogs
-
-> For a better categorization of the Blogs, they were categorized into [BLOGS](BLOGS.md).
-
-
 
 ## Articles
 
@@ -66,6 +54,22 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
 * [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - Some popular javascript libraries hosted by Chinese Internet companies. They are hosted on servers within China so they are much more stable and faster.
 * [Web Performance Optimization](http://gokulkrishh.github.io/2014/12/15/Web-performance-optimization) - Gokulakrishnan Kalaikovan
+
+## Blogs
+
+> For a better categorization of the Blogs, they were categorized into [BLOGS](BLOGS.md).
+
+
+## Documentation
+
+* [Browser Diet](http://browserdiet.com/en/) - A collaborative guide about front-end performance.
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
+* [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
+* [Image Optimization Techniques](http://www.imageoptimization.info/) - A collection of tools and techniques to optimize your images and improve your page load times.
+
+
+
+
 
 
 ## Books
