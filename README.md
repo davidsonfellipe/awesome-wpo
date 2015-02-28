@@ -5,7 +5,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Categories
 - [Articles](#articles)
 - [Blogs](#blogs)
-- [Books](#books)s
+- [Books](#books)
 - [Docs](#documentation)
 - [Talks](#talks)
 
