@@ -5,7 +5,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Categories
 - [Articles](#articles)
 - [Blogs](#blogs)
-- [Books](#books)
+- [Books](#books)s
 - [Docs](#documentation)
 - [Talks](#talks)
 
@@ -298,6 +298,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) - SVG sprites & stacks galore — Grunt plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavours.
 * [Gulp-sprite](https://github.com/aslansky/gulp-sprite) - gulp task for creating a image sprite and the corresponding stylesheets for Gulp.
 * [Gulp-svg-sprites](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating svg sprites.
+* [SvgToCSS](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in css / sass sprites.
 * [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
 * [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
 * [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
