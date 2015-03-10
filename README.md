@@ -124,6 +124,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Matcha](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 * [Timing.js](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
 * [Stats.js](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
+* [PerfTests](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
 
 ## Benchmark - PHP
 
@@ -287,7 +288,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Lazysizes](https://github.com/aFarkas/lazysizes) - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 * [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existent performance tools.
 * [TMI](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web.
-* [PerfTests](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models
+* 
+
 
 
 ## Sprite Generators
