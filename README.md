@@ -103,6 +103,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behaviour and performance, while generating actual load.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
 * [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits front-end bad practices, reveals performance issues and profiles JavaScript.
+* [PerfAudit](http://perfaudit.com/) - Performance audit of web applications by professionals to help make web applications faster.
 
 
 ## Analyzers - API
@@ -288,8 +289,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Lazysizes](https://github.com/aFarkas/lazysizes) - High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 * [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling is a shared resource to keep track of new and existent performance tools.
 * [TMI](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web.
-* 
-
 
 
 ## Sprite Generators
