@@ -42,6 +42,8 @@
 * :de: **Web Performance Optimization** _by Fabian Lange_ ~ [slides](http://www.slideshare.net/fabianlange/web-performance-optimization-jax-2011-talk)
 * :us: **Discover DevTools** _by CodeSchool_ ~ [course](https://www.codeschool.com/courses/discover-devtools)
 <br>Learn how Chrome DevTools can sharpen your dev process and discover the tools that can optimize your workflow and make life easier.
+* :us: **Website Performance Optimization - The Critical Rendering Path** _by Udacity_ ~ [course](https://www.udacity.com/course/ud884)
+<br>Learn how to optimize any website for speed by diving into the details of how mobile and desktop browsers render pages.
 
 # Contributing
 
