@@ -41,21 +41,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Articles
 
-* [10 Javascript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas) - Nicholas C. Zakas
-* [17 Statistics to Sell Web Performance Optimization](http://www.guypo.com/business/17-statistics-to-sell-web-performance-optimization/) - Guy Podjarny
-* [Getting started with the Picture Element](http://deanhume.com/Home/BlogPost/getting-started-with-the-picture-element/8109) - Dean Hume
-* [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80) - Dean Hume
-* [Jank Busting for Better Rendering Performance](http://www.html5rocks.com/en/tutorials/speed/rendering/) - Tom Wiltzius
-* [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling) - Google
-* [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) - Adam Beres-Deak
-* [Performance As Design](http://bradfrost.com/blog/post/performance-as-design/) - Brad Frost
-* [Preventing 'layout thrashing'](http://wilsonpage.co.uk/preventing-layout-thrashing/) - Wilson Page
-* [Scrolling Performance](http://www.html5rocks.com/en/tutorials/speed/scrolling/) - Paul Lewis
-* [Total deferring of Javascript Parsing](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - Patrick Sexton
-* [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/) - Ilya Grigorik
-* [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - Dean Hume
-* [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - Some popular javascript libraries hosted by Chinese Internet companies. They are hosted on servers within China so they are much more stable and faster.
-* [Web Performance Optimization](http://gokulkrishh.github.io/2014/12/15/Web-performance-optimization) - Gokulakrishnan Kalaikovan
+> For a better categorization of the articles, they were categorized into [ARTICLES.md](ARTICLES.md).
+
 
 ## Blogs
 
