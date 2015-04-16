@@ -44,6 +44,8 @@
 <br>Learn how Chrome DevTools can sharpen your dev process and discover the tools that can optimize your workflow and make life easier.
 * :us: **Website Performance Optimization - The Critical Rendering Path** _by Udacity_ ~ [course](https://www.udacity.com/course/ud884)
 <br>Learn how to optimize any website for speed by diving into the details of how mobile and desktop browsers render pages.
+* :gb: **Browser Rendering Optimization** _by Udacity_ ~ [course](https://www.udacity.com/course/ud860)
+<br>This course will demystify the browser's rendering pipeline and make it easy for you to build high performance web apps.
 
 # Contributing
 
