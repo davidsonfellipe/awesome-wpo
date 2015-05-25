@@ -188,18 +188,20 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 
+
 ## Lazyloaders
 
 * [lazyload](https://github.com/vvo/lazyload) - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb
 
+
 ## Loaders
 
-* [HeadJS](https://github.com/headjs/headjs)- The only script in your HEAD.
- for Responsive Design, Feature Detections, and Resource Loading.
+* [HeadJS](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 * [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [Defer.js](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
 * [InstantClick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.
+* [JIT](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. Load time of Grunt does not slow down even if there are many plugins.
 
 
 ## Metrics Monitor
@@ -294,6 +296,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
 * [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
 * [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
+* [Sprity](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
 
 
 ## SVG
