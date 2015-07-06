@@ -91,6 +91,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
 * [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits front-end bad practices, reveals performance issues and profiles JavaScript.
 * [PerfAudit](http://perfaudit.com/) - Performance audit of web applications by professionals to help make web applications faster.
+* [PageVelocity](http://www.Pagelocity.com) - A web performance optimization and analysis tool.
+It covers resources and code analysis as well as content and social audit.
 
 
 ## Analyzers - API
