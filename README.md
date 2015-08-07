@@ -52,6 +52,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Books
 > Best books about WPO
 
+* [Book of Speed](http://www.bookofspeed.com/) - Stoyan Stefanov
 * [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/9780596522315.do) - Steve Souders
 * [Getting Started with Web Performance](http://shop.oreilly.com/product/0636920032427.do) - Daniel Austin - early release
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
@@ -59,6 +60,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - Steve Souders
 * [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) - Rick Viscomi, Andy Davies, Marcel Duran - early release
 * [Web Page Size, Speed, and Performance](http://www.oreilly.com/webops-perf/free/webpage-size-speed-perf.csp) - Terrence Dorsey
+* [Web Performance Daybook Volume 2](http://www.amazon.com/Web-Performance-Daybook-Stoyan-Stefanov-ebook/dp/B008CQA8BA/ref=asap_bc?ie=UTF8) - Stoyan Stefanov
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
 
 
@@ -125,7 +127,7 @@ It covers resources and code analysis as well as content and social audit.
 ## Bookmarklets
 
 * [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
-* [PageSpeed](https://developers.google.com/speed/pagespeed/insights_extensions) [Deprecated] - PageSpeed Insights is available as an open-source browser extension for Google Chrome. Webmasters and web developers can use PageSpeed Insights to evaluate the performance of their web pages and to get suggestions on how to improve them - Workaround by [@Kiquenet](https://github.com/kiquenet) - https://gist.github.com/davidsonfellipe/f8e3723b4dc0aaf9f6d4. 
+* [PageSpeed](https://developers.google.com/speed/pagespeed/insights_extensions) [Deprecated] - PageSpeed Insights is available as an open-source browser extension for Google Chrome. Webmasters and web developers can use PageSpeed Insights to evaluate the performance of their web pages and to get suggestions on how to improve them - Workaround by [@Kiquenet](https://github.com/kiquenet) - https://gist.github.com/davidsonfellipe/f8e3723b4dc0aaf9f6d4.
 * [PerfMap](https://github.com/zeman/perfmap) - A bookmarklet to create a front-end performance heatmap of resources loaded in the browser using the Resource Timing API.
 * [DOM Monster](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
 * [CSS Stress](http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling) - CSS Stress is a Testing and Performance Profiling.
