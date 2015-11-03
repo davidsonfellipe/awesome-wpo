@@ -46,6 +46,8 @@
 <br>Learn how to optimize any website for speed by diving into the details of how mobile and desktop browsers render pages.
 * :gb: **Browser Rendering Optimization** _by Udacity_ ~ [course](https://www.udacity.com/course/ud860)
 <br>This course will demystify the browser's rendering pipeline and make it easy for you to build high performance web apps.
+* :us: **Delivering the goods** _by Paul Irish_ ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present#slide=id.p19)
+<br>Great talk by Paul Irish addressing lots of performance issues since http requests to critical rendering path.
 
 # Contributing
 
