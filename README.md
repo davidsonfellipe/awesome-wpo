@@ -3,11 +3,15 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Categories
-- :memo:   [Articles](#articles)
-- :newspaper:   [Blogs](#blogs)
-- :books:   [Books](#books)
-- :book:   [Docs](#documentation)
-- :movie_camera:   [Talks](#talks)
+:memo:   [Articles](#articles)
+
+:newspaper:   [Blogs](#blogs)
+
+:books:   [Books](#books)
+
+:book:   [Docs](#documentation)
+
+:movie_camera:   [Talks](#talks)
 
 ## Tools
 - [Analyzers](#analyzers)
