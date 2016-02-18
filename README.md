@@ -3,11 +3,11 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Categories
-- [Articles](#articles)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Docs](#documentation)
-- [Talks](#talks)
+- :memo:   [Articles](#articles)
+- :newspaper:   [Blogs](#blogs)
+- :books:   [Books](#books)
+- :book:   [Docs](#documentation)
+- :movie_camera:   [Talks](#talks)
 
 ## Tools
 - [Analyzers](#analyzers)
@@ -47,7 +47,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Blogs
 
 > For a better categorization of the Blogs, they were categorized into [BLOGS](BLOGS.md).
-
 
 ## Books
 > Best books about WPO
