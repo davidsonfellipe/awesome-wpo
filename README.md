@@ -169,6 +169,7 @@ It covers resources and code analysis as well as content and social audit.
 
 ## CDN - Utilities
 
+* [Cdnex](https://github.com/jsonmaur/cdnex) - Prepends asset urls with custom CDN urls.
 * [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 
