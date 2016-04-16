@@ -65,6 +65,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Page Size, Speed, and Performance](http://www.oreilly.com/webops-perf/free/webpage-size-speed-perf.csp) - Terrence Dorsey
 * [Web Performance Daybook Volume 2](http://www.amazon.com/Web-Performance-Daybook-Stoyan-Stefanov-ebook/dp/B008CQA8BA/ref=asap_bc?ie=UTF8) - Stoyan Stefanov
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
+* [You Don't Know JS: Async & Performance](http://shop.oreilly.com/product/0636920033752.do) - Kyle Simpson
 
 ## Case studies
 
