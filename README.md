@@ -126,6 +126,7 @@ It covers resources and code analysis as well as content and social audit.
 * [Timing.js](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
 * [Stats.js](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 * [PerfTests](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
+* [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
 
 ## Benchmark - PHP
 
