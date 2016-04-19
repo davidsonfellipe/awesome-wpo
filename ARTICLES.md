@@ -4,7 +4,7 @@
 
 
 * [10 Javascript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas) - _by Nicholas C. Zakas_
-* [17 Statistics to Sell Web Performance Optimization](http://www.guypo.com/business/17-statistics-to-sell-web-performance-optimization/) - _by Guy Podjarny_
+* [17 Statistics to Sell Web Performance Optimization](http://www.guypo.com/17-statistics-to-sell-web-performance-optimization/) - _by Guy Podjarny_
 * [Getting started with the Picture Element](http://deanhume.com/Home/BlogPost/getting-started-with-the-picture-element/8109) - _by Dean Hume_
 * [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/Home/BlogPost/improve-page-load-times-with-dns-prefetching/80) - _by Dean Hume_
 * [Jank Busting for Better Rendering Performance](http://www.html5rocks.com/en/tutorials/speed/rendering/) - _by Tom Wiltzius_
