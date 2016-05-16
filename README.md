@@ -23,6 +23,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [CDN](#cdn)
 - [CDN - Monitor](#cdn---monitor)
 - [CDN - Utilities](#cdn---utilities)
+- [Extensions](#extensions)
 - [Image Optimizers](#image-optimizers)
 - [Lazyloaders](#lazyloaders)
 - [Loaders](#loaders)
@@ -174,6 +175,9 @@ It covers resources and code analysis as well as content and social audit.
 * [Cdnex](https://github.com/jsonmaur/cdnex) - Prepends asset urls with custom CDN urls.
 * [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
+## Extensions
+
+* [Browser Calories](https://github.com/zenorocha/browser-calories-chrome) - The easiest way to measure your performance budget.
 
 ## Image Optimizers
 >  How to remove all this unnecessary data and give you a file without degrading quality.
