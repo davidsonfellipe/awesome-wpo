@@ -59,17 +59,19 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 > Best books about WPO
 
 * [Book of Speed](http://www.bookofspeed.com/) - Stoyan Stefanov
+* [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) - Lara Callender Hogan
 * [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/9780596522315.do) - Steve Souders
 * [Getting Started with Web Performance](http://shop.oreilly.com/product/0636920032427.do) - Daniel Austin - early release
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) - Nicholas C. Zakas
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - Steve Souders
+* [High Performance Responsive Design: Building Faster Sites Across Devices](http://shop.oreilly.com/product/0636920033103.do) – Tom Barker
+* [Time Is Money: The Business Value of Web Performance](http://shop.oreilly.com/product/0636920041450.do) – Tammy Everts
 * [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) - Rick Viscomi, Andy Davies, Marcel Duran - early release
 * [Web Page Size, Speed, and Performance](http://www.oreilly.com/webops-perf/free/webpage-size-speed-perf.csp) - Terrence Dorsey
 * [Web Performance Daybook Volume 2](http://www.amazon.com/Web-Performance-Daybook-Stoyan-Stefanov-ebook/dp/B008CQA8BA/ref=asap_bc?ie=UTF8) - Stoyan Stefanov
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
 * [You Don't Know JS: Async & Performance](http://shop.oreilly.com/product/0636920033752.do) - Kyle Simpson
-* [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) - Lara Callender Hogan
 
 
 ## Case studies
