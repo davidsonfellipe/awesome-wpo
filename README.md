@@ -11,6 +11,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 :book:   [Docs](#documentation)
 
+:couple:   [People](#people)
+
 :movie_camera:   [Talks](#talks)
 
 ## Tools
@@ -43,7 +45,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Contributing](#contributing)
 
 
-
 ## Articles
 
 > For a better categorization of the articles, they were categorized into [ARTICLES.md](ARTICLES.md).
@@ -52,6 +53,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Blogs
 
 > For a better categorization of the Blogs, they were categorized into [BLOGS](BLOGS.md).
+
 
 ## Books
 > Best books about WPO
@@ -69,6 +71,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [You Don't Know JS: Async & Performance](http://shop.oreilly.com/product/0636920033752.do) - Kyle Simpson
 * [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) - Lara Callender Hogan
 
+
 ## Case studies
 
 * [WPOStats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics..
@@ -80,6 +83,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 * [Image Optimization Techniques](http://www.imageoptimization.info/) - A collection of tools and techniques to optimize your images and improve your page load times.
+
+
+## People
+
+> For a better categorization of the people, they were categorized into [PEOPLE.md](PEOPLE.md).
 
 
 ## Talks
@@ -118,6 +126,7 @@ It covers resources and code analysis as well as content and social audit.
 
 * [CSS-perf](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
+
 ## Benchmark - Javascript
 > A set of tools for creating test cases and compare different implementations in JavaScript.
 
@@ -130,10 +139,12 @@ It covers resources and code analysis as well as content and social audit.
 * [PerfTests](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
 * [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
 
+
 ## Benchmark - PHP
 
 * [PHPench](https://github.com/mre/PHPench) - PHPench creates a graphical output for a PHP benchmark. Plot the runtime of any function in realtime with GnuPlot and create an image out of the result.
 * [php-bench](https://github.com/jacobbednarz/php-bench) - Benchmark and profile PHP code blocks whilst measuring the performance footprint.
+
 
 ## Bookmarklets
 
@@ -176,11 +187,14 @@ It covers resources and code analysis as well as content and social audit.
 * [Cdnex](https://github.com/jsonmaur/cdnex) - Prepends asset urls with custom CDN urls.
 * [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
+
 ## Extensions
 
 * [Browser Calories](https://github.com/zenorocha/browser-calories-chrome) - The easiest way to measure your performance budget.
 
+
 ## Image Optimizers
+
 >  How to remove all this unnecessary data and give you a file without degrading quality.
 
 * [Grunt-smushit](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
@@ -373,6 +387,7 @@ It covers resources and code analysis as well as content and social audit.
 # Stats
 
 * [HTTP Archive](http://httparchive.org/index.php) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
+
 
 # Web Performance Meetup Groups
 
