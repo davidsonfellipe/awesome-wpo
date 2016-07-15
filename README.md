@@ -11,6 +11,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 :book:   [Docs](#documentation)
 
+:calendar:   [Events](#events)
+
 :couple:   [People](#people)
 
 :movie_camera:   [Talks](#talks)
@@ -40,7 +42,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Web server Modules](#web-server-modules)
 - [Specs](#specs)
 - [Stats](#stats)
-- [Web Performance Meetup Groups](#web-performance-meetup-groups)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -91,6 +92,56 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 > For a better categorization of the people, they were categorized into [PEOPLE.md](PEOPLE.md).
 
+
+## Events
+
+> Because community matters!
+
+### Conferences
+
+* [Google I/O](https://events.google.com/io2016/) – Google I/O brings together developers for an immersive, three-day experience focused on exploring the next generation of technology, mobile and beyond.
+* [From the Front](https://fromthefront.it/) – The frontend guide to life, universe and everything is going to be an inspiring, formative, cutting edge gathering of some of the best frontend developers and UX people in the world.
+* [SmashingConf](http://smashingconf.com/) – Our mission is to explore real-life web design problems and techniques that are relevant and applicable to your work straight away.
+* [Velocity](http://conferences.oreilly.com/velocity) – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available websites and apps.
+
+### Meetups
+
+> Full list on meetup.com: [Web Performance Meetup Groups](http://web-performance.meetup.com/)
+
+* [Atlanta Web Performance Group](http://www.meetup.com/it-IT/Atlanta-Web-Performance-Group/) – Atlanta (GA), US :us:
+* [Austin Web Performance Group](http://www.meetup.com/it-IT/Austin-Web-Performance-Group/) – Austin (TX), US :us:
+* [Barcelona Web Performance Group](http://www.meetup.com/it-IT/Barcelona-Web-Performance/) – Barcelona, Spain :es:
+* [Belgium Web Performance Group](http://www.meetup.com/it-IT/Belgian-Web-Performance-Group/) – Brussels, Belgium
+* [Berlin Web Performance Group](http://www.meetup.com/it-IT/Berlin-Web-Performance-Group/) – Berlin, Germany :de:
+* [Boston Web Performance Group](http://www.meetup.com/it-IT/Web-Performance-Boston/) – Boston (MA), US :us:
+* [Bristol Web Performance Group](http://www.meetup.com/it-IT/bristolwebperf/) – Bristol, UK :gb:
+* [Chicago Web Performance Meetup](http://www.meetup.com/it-IT/Chicago-Web-Performance-Meetup/) – Chicago (IL), US :us:
+* [Cologne Web Performance Group](http://www.meetup.com/it-IT/cologne-germany-high-performance-website-optimization-group/) – Cologne, Germany :de:
+* [Dutch Web Performance & Operations Meetup](http://www.meetup.com/it-IT/Dutch-Web-Operations-Meetup/) – Nederland :nl:
+* [Hamburg Web Performance Group](http://www.meetup.com/it-IT/Hamburg-Web-Performance-Group/) – Hamburg, Germany :de:
+* [Indianapolis Web Performance Group](http://www.meetup.com/it-IT/IndyWebPerf/) – Carmel (IN), US :us:
+* [Israel Web Performance Group](http://www.meetup.com/it-IT/wpo-il/) – Herzliya, Israel
+* [Karlsruhe Web Performance Group](http://www.meetup.com/it-IT/Karlsruhe-Web-Performance-Group/) – Karlsruhe, Germany :de:
+* [London Web Performance Group](http://www.meetup.com/it-IT/London-Web-Performance-Group/) – London, UK :gb:
+* [Luxemburg Web Performance Meetup](http://www.meetup.com/it-IT/Luxemburg-Web-Performance-Meetup/) – Bruxelles, Belgium
+* [Manchester Web Performance Group](http://www.meetup.com/Manchester-Web-Performance-Group/) – Manchester, UK :gb:
+* [Minneapolis Web Performance Group](http://www.meetup.com/Minneapolis-Web-Performance-Meetup-Group/) – Minneapolis (MN), US :us:
+* [Melbourne Web Performance & Security Meetup](http://www.meetup.com/Melbourne-Web-Performance-Security-Meetup/) – Melbourne, Australia
+* [Munich Web Performance Group](http://www.meetup.com/it-IT/Munchen-Web-Performance-Group/) – Munich, Germany :de:
+* [New York Web Performance Group](http://www.meetup.com/it-IT/Web-Performance-NY/) – New York (NY), US :us:
+* [San Diego Web Performance Group](http://www.meetup.com/it-IT/Web-Performance-SanDiego/) – San Diego (CA), US :us:
+* [San Francisco & Silicon Valley Web Performance Group](http://www.meetup.com/it-IT/SF-Web-Performance-Group/) – San Francisco, US :us:
+* [Santa Cruz Web Performance Meetup](http://www.meetup.com/it-IT/Santa-Cruz-Web-Performance-Meetup/) – Santa Cruz (CA), US :us:
+* [São Paulo Web Performance Group](http://www.meetup.com/it-IT/Web-Performance-SP/) – São Paulo, Brazil
+* [Seattle Web Performance Group](http://www.meetup.com/it-IT/Seattle-Web-Performance-Group/) – Seattle (WA), US :us:
+* [South Florida Web Performance Group](http://www.meetup.com/it-IT/South-Florida-Web-Performance-Group/) – Fort Lauderdale (FL), US :us:
+* [Stockholm Web Performance Group](http://www.meetup.com/it-IT/Stockholm-Web-Performance-Group/) – Stockholm, Sweden
+* [Sydney Web Performance & Security Meetup](http://www.meetup.com/it-IT/Sydney-Web-Performance-Security-Meetup/) – Sydney, Australia
+* [Toronto Web Performance Group](http://www.meetup.com/it-IT/Toronto-Web-Performance-Group/) – Toronto, Canada
+* [Turin Web Performance Group](http://www.meetup.com/it-IT/Turin-Web-Performance-Group/) – Turin, Italy :it:
+* [Vancouver Web Performance Group](http://www.meetup.com/it-IT/Vancouver-Web-Performance/) – Vancouver, Canada
+* [Vienna Web Performance Group](http://www.meetup.com/it-IT/Vienna-Web-Performance-Group/) – Vienna, Austria
+* [Warsaw Web Performance Group](http://www.meetup.com/it-IT/Warsaw-Web-Performance-Group/?chapter_analytics_code=UA-61243294-4) – Warsaw, Poland
 
 ## Talks
 
@@ -390,11 +441,6 @@ It covers resources and code analysis as well as content and social audit.
 # Stats
 
 * [HTTP Archive](http://httparchive.org/index.php) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
-
-
-# Web Performance Meetup Groups
-
-* [Web Performance Meetup Groups](http://web-performance.meetup.com/) - Full list on www.meetup.com.
 
 
 # Other Awesome Lists
