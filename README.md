@@ -48,12 +48,12 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Articles
 
-> For a better categorization of the articles, they were categorized into [ARTICLES.md](ARTICLES.md).
+> Go to [ARTICLES.md](ARTICLES.md).
 
 
 ## Blogs
 
-> For a better categorization of the Blogs, they were categorized into [BLOGS](BLOGS.md).
+> Go to [BLOGS](BLOGS.md).
 
 
 ## Books
@@ -92,7 +92,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## People
 
-> For a better categorization of the people, they were categorized into [PEOPLE.md](PEOPLE.md).
+> Go to [PEOPLE.md](PEOPLE.md).
 
 
 ## Events
