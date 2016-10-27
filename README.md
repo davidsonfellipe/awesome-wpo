@@ -169,9 +169,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits front-end bad practices, reveals performance issues and profiles JavaScript.
 * [PerfAudit](http://perfaudit.com/) - Performance audit of web applications by professionals to help make web applications faster.
 * [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
-It covers resources and code analysis as well as content and social audit.
 * [Varvy](https://varvy.com/pagespeed/) - Test your site to see if it follows the Google guidelines for speed.
-
+* [Web Bloat Score Calculator](http://www.webbloatscore.com/) - Compare size of a page to a compressed image of the same page
 
 ## Analyzers - API
 
