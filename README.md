@@ -1,4 +1,5 @@
 # Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/LFeh/frontend-challenges/graphs/contributors)
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
