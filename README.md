@@ -237,7 +237,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## CDN - Monitor
 
-* [CDNperf](http://www.cdnperf.com/about) - finds you fast and reliable JavaScript CDNs that make your websites snappy and happy.
+* [CDNperf](http://www.cdnperf.com/) - finds you fast and reliable JavaScript CDNs that make your websites snappy and happy.
 
 
 ## CDN - Utilities
