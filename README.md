@@ -52,6 +52,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 > Go to [ARTICLES.md](ARTICLES.md).
 
 
+## Video
+* [Addy Osmani: CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) You've learned the concepts, now meet the tools. High-performance sites need to feel instant and deliver the goods in less than 1000ms. In this talk, learn about the bleeding edge tools that can automate keeping your CSS on the fast path. Automate generating critical-path CSS, removing unused CSS, discovering duplicate selectors, colors and more.
+
 ## Blogs
 
 > Go to [BLOGS](BLOGS.md).
