@@ -173,6 +173,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
 * [Varvy](https://varvy.com/pagespeed/) - Test your site to see if it follows the Google guidelines for speed.
 * [Web Bloat Score Calculator](http://www.webbloatscore.com/) - Compare size of a page to a compressed image of the same page
+* [Speed Racer](https://github.com/ngryman/speedracer): Collect performance metrics for your library/application using Chrome headless.
 
 ## Analyzers - API
 
