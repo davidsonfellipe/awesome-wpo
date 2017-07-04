@@ -68,6 +68,7 @@
 * Rick Viscomi – [@rick_viscomi](https://twitter.com/rick_viscomi)
 * Robin Rendle – [@robinrendle](https://twitter.com/robinrendle)
 * Sabrina Burney – [@sabrina_burney](https://twitter.com/sabrina_burney)
+* Sam Saccone - [@samccone](https://twitter.com/samccone)
 * Sara Soueidan – [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 * Sergey Chernyshev – [@sergeyche](https://twitter.com/sergeyche)
 * Scott Jehl – [@scottjehl](https://twitter.com/scottjehl)
