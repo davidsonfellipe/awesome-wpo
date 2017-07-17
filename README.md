@@ -169,7 +169,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behaviour and performance, while generating actual load.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
 * [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits front-end bad practices, reveals performance issues and profiles JavaScript.
-* [PerfAudit](http://perfaudit.com/) - Performance audit of web applications by professionals to help make web applications faster.
 * [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
 * [Varvy](https://varvy.com/pagespeed/) - Test your site to see if it follows the Google guidelines for speed.
 * [Web Bloat Score Calculator](http://www.webbloatscore.com/) - Compare size of a page to a compressed image of the same page
