@@ -11,6 +11,7 @@
 * Andy Davies – [@AndyDavies](https://twitter.com/AndyDavies)
 * Anselm Hannemann – [@helloanselm](https://twitter.com/helloanselm)
 * Barbara Bermes – [@bbinto](https://twitter.com/bbinto)
+* Barry Pollard - [@tunetheweb] (https://twitter.com/tunetheweb)
 * Brad Frost – [@brad_frost](https://twitter.com/brad_frost)
 * Bram Stein – [@bram_stein](https://twitter.com/bram_stein)
 * Bridget Kromhout – [@bridgetkromhout](https://twitter.com/bridgetkromhout)

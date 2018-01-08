@@ -60,6 +60,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Books
 > Best books about WPO
 
+* [HTTP/2 in Action by Barry Pollard](https://www.manning.com/books/http2-in-action) - Barry Pollard - early release
 * [Web Performance in Action by Jeremy Wagner](https://www.manning.com/books/web-performance-in-action) - Jeremy L. Wagner
 * [Book of Speed](http://www.bookofspeed.com/) - Stoyan Stefanov
 * [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) - Lara Callender Hogan
