@@ -125,7 +125,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Dutch Web Performance & Operations Meetup](http://www.meetup.com/Dutch-Web-Operations-Meetup/) – Nederland :nl:
 * [Hamburg Web Performance Group](http://www.meetup.com/Hamburg-Web-Performance-Group/) – Hamburg, Germany :de:
 * [Indianapolis Web Performance Group](http://www.meetup.com/IndyWebPerf/) – Carmel (IN), US :us:
-* [Israel Web Performance Group](http://www.meetup.com/wpo-il/) – Herzliya, Israel
 * [Karlsruhe Web Performance Group](http://www.meetup.com/Karlsruhe-Web-Performance-Group/) – Karlsruhe, Germany :de:
 * [London Web Performance Group](http://www.meetup.com/London-Web-Performance-Group/) – London, UK :gb:
 * [Luxemburg Web Performance Meetup](http://www.meetup.com/Luxemburg-Web-Performance-Meetup/) – Bruxelles, Belgium
