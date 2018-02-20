@@ -111,41 +111,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ### Meetups
 
-> Full list on meetup.com: [Web Performance Meetup Groups](http://web-performance.meetup.com/)
-
-* [Atlanta Web Performance Group](http://www.meetup.com/Atlanta-Web-Performance-Group/) – Atlanta (GA), US :us:
-* [Austin Web Performance Group](http://www.meetup.com/Austin-Web-Performance-Group/) – Austin (TX), US :us:
-* [Barcelona Web Performance Group](http://www.meetup.com/Barcelona-Web-Performance/) – Barcelona, Spain :es:
-* [Belgium Web Performance Group](http://www.meetup.com/Belgian-Web-Performance-Group/) – Brussels, Belgium
-* [Berlin Web Performance Group](http://www.meetup.com/Berlin-Web-Performance-Group/) – Berlin, Germany :de:
-* [Boston Web Performance Group](http://www.meetup.com/Web-Performance-Boston/) – Boston (MA), US :us:
-* [Bristol Web Performance Group](http://www.meetup.com/bristolwebperf/) – Bristol, UK :gb:
-* [Chicago Web Performance Meetup](http://www.meetup.com/Chicago-Web-Performance-Meetup/) – Chicago (IL), US :us:
-* [Cologne Web Performance Group](http://www.meetup.com/cologne-germany-high-performance-website-optimization-group/) – Cologne, Germany :de:
-* [Dutch Web Performance & Operations Meetup](http://www.meetup.com/Dutch-Web-Operations-Meetup/) – Nederland 🇳🇱
-* [Hamburg Web Performance Group](http://www.meetup.com/Hamburg-Web-Performance-Group/) – Hamburg, Germany :de:
-* [Indianapolis Web Performance Group](http://www.meetup.com/IndyWebPerf/) – Carmel (IN), US :us:
-* [Karlsruhe Web Performance Group](http://www.meetup.com/Karlsruhe-Web-Performance-Group/) – Karlsruhe, Germany :de:
-* [London Web Performance Group](http://www.meetup.com/London-Web-Performance-Group/) – London, UK :gb:
-* [Luxemburg Web Performance Meetup](http://www.meetup.com/Luxemburg-Web-Performance-Meetup/) – Bruxelles, Belgium
-* [Manchester Web Performance Group](http://www.meetup.com/Manchester-Web-Performance-Group/) – Manchester, UK :gb:
-* [Minneapolis Web Performance Group](http://www.meetup.com/Minneapolis-Web-Performance-Meetup-Group/) – Minneapolis (MN), US :us:
-* [Melbourne Web Performance & Security Meetup](http://www.meetup.com/Melbourne-Web-Performance-Security-Meetup/) – Melbourne, Australia
-* [Munich Web Performance Group](http://www.meetup.com/Munchen-Web-Performance-Group/) – Munich, Germany :de:
-* [New York Web Performance Group](http://www.meetup.com/Web-Performance-NY/) – New York (NY), US :us:
-* [San Diego Web Performance Group](http://www.meetup.com/Web-Performance-SanDiego/) – San Diego (CA), US :us:
-* [San Francisco & Silicon Valley Web Performance Group](http://www.meetup.com/SF-Web-Performance-Group/) – San Francisco, US :us:
-* [Santa Cruz Web Performance Meetup](http://www.meetup.com/Santa-Cruz-Web-Performance-Meetup/) – Santa Cruz (CA), US :us:
-* [São Paulo Web Performance Group](http://www.meetup.com/Web-Performance-SP/) – São Paulo, Brazil
-* [Seattle Web Performance Group](http://www.meetup.com/Seattle-Web-Performance-Group/) – Seattle (WA), US :us:
-* [South Florida Web Performance Group](http://www.meetup.com/South-Florida-Web-Performance-Group/) – Fort Lauderdale (FL), US :us:
-* [Stockholm Web Performance Group](http://www.meetup.com/Stockholm-Web-Performance-Group/) – Stockholm, Sweden
-* [Sydney Web Performance & Security Meetup](http://www.meetup.com/Sydney-Web-Performance-Security-Meetup/) – Sydney, Australia
-* [Toronto Web Performance Group](http://www.meetup.com/Toronto-Web-Performance-Group/) – Toronto, Canada
-* [Turin Web Performance Group](http://www.meetup.com/Turin-Web-Performance-Group/) – Turin, Italy :it:
-* [Vancouver Web Performance Group](http://www.meetup.com/Vancouver-Web-Performance/) – Vancouver, Canada
-* [Vienna Web Performance Group](http://www.meetup.com/Vienna-Web-Performance-Group/) – Vienna, Austria
-* [Warsaw Web Performance Group](http://www.meetup.com/Warsaw-Web-Performance-Group/?chapter_analytics_code=UA-61243294-4) – Warsaw, Poland
+> For a better categorization of the meetups, they were categorized into [MEETUPS.md](MEETUPS.md).
 
 ## Talks
 
@@ -157,7 +123,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Analyzers
 
-* [Confess](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests. [![Maintenance](https://img.shields.io/maintenance/no/2017.svg?style=flat-square)]()
+* [Confess](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests.
 * [Page Speed](https://developers.google.com/speed/pagespeed/) - The PageSpeed family of tools is designed to help you optimize the performance of your website. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Auditing and performance metrics tool for Progressive Web Applications.
 * [YSlow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
