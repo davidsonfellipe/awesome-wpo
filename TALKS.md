@@ -4,7 +4,6 @@
 
 * :us: **The Future of Loading on the Web (Chrome Dev Summit 2017)** _Sam Saccone_ ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
 * :gb: **CSS Performance Tooling** _by Addy Osmani_ ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
-<br>You've learned the concepts, now meet the tools. High-performance sites need to feel instant and deliver the goods in less than 1000ms. In this talk, learn about the bleeding edge tools that can automate keeping your CSS on the fast path. Automate generating critical-path CSS, removing unused CSS, discovering duplicate selectors, colors and more.
 * 🇧🇷 **Performance em JQuery apps** _by Davidson Fellipe_ ~ [slides](http://www.slideshare.net/davidsonfellipe/jqueryperf)
 * 🇧🇷 **O melhor da monitoração de Web Performance** _by Davidson Fellipe_ ~ [video](http://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](http://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 * :us: **Performance Tooling** _by Paul Irish_ ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
@@ -17,13 +16,9 @@
 * 🇧🇷 **Critical Rendering Path** _by João Lucas P Santana_ ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
 * :de: **Web Performance Optimization** _by Fabian Lange_ ~ [slides](http://www.slideshare.net/fabianlange/web-performance-optimization-jax-2011-talk)
 * :us: **Discover DevTools** _by CodeSchool_ ~ [course](https://www.codeschool.com/courses/discover-devtools)
-<br>Learn how Chrome DevTools can sharpen your dev process and discover the tools that can optimize your workflow and make life easier.
 * :us: **Website Performance Optimization - The Critical Rendering Path** _by Udacity_ ~ [course](https://www.udacity.com/course/ud884)
-<br>Learn how to optimize any website for speed by diving into the details of how mobile and desktop browsers render pages.
 * :gb: **Browser Rendering Optimization** _by Udacity_ ~ [course](https://www.udacity.com/course/ud860)
-<br>This course will demystify the browser's rendering pipeline and make it easy for you to build high performance web apps.
 * :us: **Delivering the goods** _by Paul Irish_ ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present#slide=id.p19)
-<br>Great talk by Paul Irish addressing lots of performance issues since http requests to critical rendering path.
 
 # Contributing
 
