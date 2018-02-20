@@ -17,7 +17,6 @@
 * [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/) - _by Ilya Grigorik_
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - _by Dean Hume_
 * [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - _by Ryan_.
-* [Web Performance Optimization](http://gokulkrishh.github.io/2014/12/15/Web-performance-optimization) - _by Gokulakrishnan Kalaikovan_
 
 
 # Contributing
