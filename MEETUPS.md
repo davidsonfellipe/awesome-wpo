@@ -5,7 +5,7 @@
 - [Atlanta Web Performance Group](http://www.meetup.com/Atlanta-Web-Performance-Group/) – Atlanta, USA 🇺🇸
 - [Austin Web Performance Group](http://www.meetup.com/Austin-Web-Performance-Group/) – Austin, USA 🇺🇸
 - [Barcelona Web Performance Group](http://www.meetup.com/Barcelona-Web-Performance/) – Barcelona, Spain 🇪🇸
-- [Belgium Web Performance Group](http://www.meetup.com/Belgian-Web-Performance-Group/) – Brussels, Belgium
+- [Belgium Web Performance Group](http://www.meetup.com/Belgian-Web-Performance-Group/) – Brussels, Belgium 🇧🇪
 - [Berlin Web Performance Group](http://www.meetup.com/Berlin-Web-Performance-Group/) – Berlin, Germany 🇩🇪
 - [Boston Web Performance Group](http://www.meetup.com/Web-Performance-Boston/) – Boston, USA 🇺🇸
 - [Bristol Web Performance Group](http://www.meetup.com/bristolwebperf/) – Bristol, UK 🇬🇧
@@ -16,7 +16,6 @@
 - [Indianapolis Web Performance Group](http://www.meetup.com/IndyWebPerf/) – Carmel, USA 🇺🇸
 - [Karlsruhe Web Performance Group](http://www.meetup.com/Karlsruhe-Web-Performance-Group/) – Karlsruhe, Germany 🇩🇪
 - [London Web Performance Group](http://www.meetup.com/London-Web-Performance-Group/) – London, UK 🇬🇧
-- [Luxemburg Web Performance Meetup](http://www.meetup.com/Luxemburg-Web-Performance-Meetup/) – Bruxelles, Belgium 🇧🇪
 - [Manchester Web Performance Group](http://www.meetup.com/Manchester-Web-Performance-Group/) – Manchester, UK 🇬🇧
 - [Minneapolis Web Performance Group](http://www.meetup.com/Minneapolis-Web-Performance-Meetup-Group/) – Minneapolis, USA 🇺🇸
 - [Melbourne Web Performance & Security Meetup](http://www.meetup.com/Melbourne-Web-Performance-Security-Meetup/) – Melbourne, Australia 🇦🇺
