@@ -82,7 +82,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Case studies
 
-* [WPOStats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics..
+* [WPOStats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
 
 
 ## Documentation
@@ -104,18 +104,15 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ### Conferences
 
-* [Google I/O](https://events.google.com/io2016/) – Google I/O brings together developers for an immersive, three-day experience focused on exploring the next generation of technology, mobile and beyond.
-* [From the Front](https://fromthefront.it/) – The frontend guide to life, universe and everything is going to be an inspiring, formative, cutting edge gathering of some of the best frontend developers and UX people in the world.
-* [SmashingConf](http://smashingconf.com/) – Our mission is to explore real-life web design problems and techniques that are relevant and applicable to your work straight away.
 * [Velocity](http://conferences.oreilly.com/velocity) – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available websites and apps.
 
 ### Meetups
 
-> For a better categorization of the meetups, they were categorized into [MEETUPS.md](MEETUPS.md).
+> They are categorized into [MEETUPS.md](MEETUPS.md).
 
 ## Talks
 
-> For a better categorization of the talks, they were categorized into [TALKS.md](TALKS.md).
+> They are categorized into [TALKS.md](TALKS.md).
 
 
 # Tools
@@ -132,7 +129,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
 * [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
 * [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
-* [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behaviour and performance, while generating actual load.
+* [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behavior and performance, while generating actual load.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
 * [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits front-end bad practices, reveals performance issues and profiles JavaScript.
 * [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
@@ -198,7 +195,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 * :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
 
-> To find useful informations and powerful tools in an easy-to-use online environment for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
+> To find useful more information for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
 
 
 ## CDN - Monitor
@@ -235,7 +232,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 * [Imageoptim](https://imageoptim.com/) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
 * [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
-* [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimisation of images part of your automated build process.
+* [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 * [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 * [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
@@ -245,7 +242,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
-* [ImageEngine](https://web.wurfl.io/#image-engine) - Cloud service for optimizing, resizing and cacheing images on the fly with great mobile support.
+* [ImageEngine](https://web.wurfl.io/#image-engine) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 
 
 ## Lazyloaders
@@ -288,7 +285,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Minifiers - HTML
 
-* [HTMLCompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result pages become smaller in size and load faster. A command-line version of the compressor is also available.
+* [HTMLCompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
 * [Django-htmlmin](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts.
 * [HTMLMinifier](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
 * [Grunt-contrib-htmlmin](https://github.com/gruntjs/grunt-contrib-htmlmin) - A grunt plugin to minify HTML that uses HTMLMinifier.
