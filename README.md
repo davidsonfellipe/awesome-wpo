@@ -189,7 +189,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
 * [Handpicked jQuery Plugins Repository CDN](http://www.jque.re/) - Content Delivery Network for popular jQuery plugins.
 * [OSSCDN](https://github.com/MaxCDN/osscdn) - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
-* [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
 * :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
 * :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provided by sinaapp.com.
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
