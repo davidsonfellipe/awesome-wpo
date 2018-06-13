@@ -234,6 +234,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 * [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 * [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
+* [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
 * [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 * [Jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
