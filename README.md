@@ -79,6 +79,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
 * [You Don't Know JS: Async & Performance](http://shop.oreilly.com/product/0636920033752.do) - Kyle Simpson
 * [Linux, Apache, MySQL, PHP Performance End to End](https://play.google.com/store/books/details/Colin_McKinnon_Linux_Apache_MySQL_PHP_Performance?id=Z3ciBgAAQBAJ) - Colin McKinnon
+* [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Ben Farrell
 
 
 ## Case studies
