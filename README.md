@@ -5,21 +5,22 @@
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Categories
-:memo:   [Articles](#articles)
+:memo:   [Awesome WPO / Articles](#articles)
 
-:newspaper:   [Blogs](#blogs)
+:newspaper:   [Awesome WPO / Blogs](#blogs)
 
-:books:   [Books](#books)
+:books:   [Awesome WPO / Books](#books)
 
-:book:   [Docs](#documentation)
+:book:   [Awesome WPO / Docs](#documentation)
 
-:calendar:   [Events](#events)
+:calendar:   [Awesome WPO / Events](#events)
 
-:couple:   [People](#people)
+:busts_in_silhouette:  [Awesome WPO / People](#people)
 
-:movie_camera:   [Talks](#talks)
+:movie_camera:   [Awesome WPO / Talks](#talks)
 
-## Tools
+## Table of Contents
+
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers---api)
 - [Benchmark - CSS](#benchmark---css)
