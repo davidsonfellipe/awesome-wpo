@@ -2,6 +2,7 @@
 
 > Talks about Web Performance Optimization
 
+* :us: **Web performance made easy (Google I/O '18)** _Ewa Gasperowicz, Addy Osmani_ ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 * :us: **The Future of Loading on the Web (Chrome Dev Summit 2017)** _Sam Saccone_ ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
 * :gb: **CSS Performance Tooling** _by Addy Osmani_ ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
 * 🇧🇷 **Performance em JQuery apps** _by Davidson Fellipe_ ~ [slides](http://www.slideshare.net/davidsonfellipe/jqueryperf)
