@@ -368,7 +368,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Web Components
 
 * [Vulcanize](https://github.com/Polymer/vulcanize) - Concatenate a set of Web Components into one file, a Build tool for HTMLImports and Web Components.
-* [Grunt-vulcanize](https://github.com/Polymer/grunt-vulcanize) - Grunt task for Polymer's Vulcanize.
 * [Gulp-vulcanize](https://github.com/sindresorhus/gulp-vulcanize) - Concatenate a set of Web Components into one file that use Vulcanize.
 
 
