@@ -247,6 +247,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Lazyloaders
 
 * [lazyload](https://github.com/vvo/lazyload) - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb
+* [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.9kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 
 
 ## Loaders
