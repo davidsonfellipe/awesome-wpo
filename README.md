@@ -93,7 +93,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Browser Diet](http://browserdiet.com/en/) - A collaborative guide about front-end performance.
 * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
-* [Image Optimization Techniques](http://www.imageoptimization.info/) - A collection of tools and techniques to optimize your images and improve your page load times.
 
 
 ## People
@@ -187,7 +186,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
 * [CDNjs](https://cdnjs.com/) - An open source CDN for Javascript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap.
 * [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
-* [Bootstrap](http://www.bootstrapcdn.com/) - The recommended CDN for Bootstrap, Font Awesome, and Bootswatch.
 * :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
 * :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provided by sinaapp.com.
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
