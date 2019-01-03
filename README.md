@@ -383,6 +383,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [wrk](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
   processing, and custom reporting)
 * [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
+* [k6](https://k6.io/) - An open source load testing tool built for developers. Easy to integrate into CI pipelines. Tests are written in ES6 JS and you can test APIs, microservices and websites using HTTP/1.1, HTTP/2 and WebSocket.
 
 
 ## Web server Modules
