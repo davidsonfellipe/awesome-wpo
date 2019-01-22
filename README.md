@@ -23,6 +23,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers---api)
+- [Bundle Analyzer](#bundle-analyzer)
 - [Benchmark - CSS](#benchmark---css)
 - [Benchmark - JS](#benchmark---javascript)
 - [Benchmark - PHP](#benchmark---php)
@@ -146,6 +147,14 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 * [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights for Node - with reporting.
 
+## Bundle Analyzer
+
+* [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
+* [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps.
+* [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
+* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+* [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
+* [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.  
 
 ## Benchmark - CSS
 
