@@ -156,6 +156,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
 * [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.  
+* [packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
 
 ## Benchmark - CSS
 
