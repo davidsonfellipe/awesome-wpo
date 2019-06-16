@@ -152,11 +152,13 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 * [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 * [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps.
-* [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
-* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+* [Bundlephobia](https://bundlephobia.com/) - Helps you find the performance impact of adding a npm package to your front-end bundle.
+* [Webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 * [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
-* [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.  
-* [packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
+* [Lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.  
+* [Packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
+* [Compression webpack plugin](https://github.com/webpack-contrib/compression-webpack-plugin) - Prepare compressed versions of assets to serve them with Content-Encoding.
+
 
 ## Benchmark - CSS
 
