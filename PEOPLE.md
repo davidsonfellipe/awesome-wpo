@@ -83,6 +83,10 @@
 * Yoav Weiss – [@yoavweiss](https://twitter.com/yoavweiss)
 * Zach Leatherman – [@zachleat](https://twitter.com/zachleat)
 * Zack Tollman – [@tollmanz](https://twitter.com/tollmanz)
+* Eric Bidelman – [@ebidel](https://twitter.com/ebidel)
+* Surma – [@DasSurma](https://twitter.com/DasSurma)
+* Alex Russell – [@slightlylate](https://twitter.com/slightlylate)
+* Rob Dodson – [@rob_dodson](https://twitter.com/rob_dodson)
 
 # Contributing
 
