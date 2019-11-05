@@ -427,6 +427,7 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 
 # Other Awesome Lists
 
+* [iamakulov/awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
