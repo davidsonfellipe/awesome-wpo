@@ -16,7 +16,7 @@
 * [Total deferring of Javascript Parsing](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - _by Patrick Sexton_
 * [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/) - _by Ilya Grigorik_
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - _by Dean Hume_
-* [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - _by Ryan_.
+* [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - _by Ryan_
 * [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/) - _by Philip Walton_
 * [Measure Performance in JavaScript](https://link.medium.com/Iaj0fmBjF3) - _by Prasanna Brabourame_
 
