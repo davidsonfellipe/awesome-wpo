@@ -18,7 +18,7 @@
 * [Web Page Performance - Profiling paint times](http://www.deanhume.com/Home/BlogPost/web-page-performance---profiling-paint-times/91) - _by Dean Hume_
 * [Forget Google and Use These Hosted JavaScript Libraries in China](http://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - _by Ryan_.
 * [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/) - _by Philip Walton_
-* [MEASURE PERFORMANCE IN JAVASCRIPT](https://link.medium.com/Iaj0fmBjF3) - _by Prasanna Brabourame
+* [Measure Performance in JavaScript](https://link.medium.com/Iaj0fmBjF3) - _by Prasanna Brabourame
 
 # Contributing
 
