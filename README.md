@@ -135,7 +135,6 @@ Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is t
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
 * [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
 * [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
-* [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behavior and performance, while generating actual load.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extensible open source load testing tool for advanced linux users which is especially good as a part of an automated load testing suite.
 * [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits front-end bad practices, reveals performance issues and profiles JavaScript.
 * [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
