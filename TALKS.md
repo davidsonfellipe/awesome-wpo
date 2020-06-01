@@ -15,8 +15,8 @@
 - :es: **Web Performance Optimization (2012)** _by Pedro Martínez_ ~ [slides](https://www.slideshare.net/pemargo1/wpo-congreso-seo4seos)
 - 🇧🇷 **Critical Rendering Path (2014)** _by João Lucas P Santana_ ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
 - :de: **Web Performance Optimization (2011)** _by Fabian Lange_ ~ [slides](https://www.slideshare.net/fabianlange/web-performance-optimization-jax-2011-talk)
-- :us: **Tactics and Tools for Troubleshooting Front-end Web Development** _by Pluralsight_ ~ [course](https://www.pluralsight.com/courses/tactics-tools-troubleshooting-front-end-web-development)
-- :us: **Website Performance Optimization - The Critical Rendering Path** _by Udacity_ ~ [course](https://www.udacity.com/course/website-performance-optimization--ud884)
+- :us: **Tactics and Tools for Troubleshooting frontend Web Development** _by Pluralsight_ ~ [course](https://www.pluralsight.com/courses/tactics-tools-troubleshooting-front-end-web-development)
+- :us: **Site Performance Optimization - The Critical Rendering Path** _by Udacity_ ~ [course](https://www.udacity.com/course/website-performance-optimization--ud884)
 - :gb: **Browser Rendering Optimization** _by Udacity_ ~ [course](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 - :us: **Delivering the goods (2014)** _by Paul Irish_ ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present#slide=id.p19)
 
