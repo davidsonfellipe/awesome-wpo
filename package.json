@@ -1,0 +1,13 @@
+{
+  "name": "awesome-wpo",
+  "description": "Awesome web performance",
+  "author": "Davidson Fellipe <email@fellipe.com>",
+  "dependencies": {
+    "textlint": "^11.6.3",
+    "textlint-rule-no-dead-link": "^4.6.2"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "textlint --rule textlint-rule-no-dead-link TALKS.md"
+  }
+}
