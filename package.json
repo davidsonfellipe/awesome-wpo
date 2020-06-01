@@ -8,6 +8,6 @@
   },
   "license": "MIT",
   "scripts": {
-    "lint": "textlint --rule textlint-rule-no-dead-link TALKS.md"
+    "lint": "textlint --rule textlint-rule-no-dead-link BLOGS.md"
   }
 }
