@@ -1,11 +1,11 @@
-import React from 'react'
-import { graphql } from 'gatsby'
+import React from "react"
+import { graphql } from "gatsby"
 
-import PostLink from '../components/PostLink'
-import Title from '../components/Title'
-import Section from '../components/Section'
-import Layout from '../components/Layout'
-import SEO from '../components/SEO'
+import PostLink from "../components/PostLink"
+import Title from "../components/Title"
+import Section from "../components/Section"
+import Layout from "../components/Layout"
+import SEO from "../components/SEO"
 
 const BlogPage = ({
   data: {
@@ -31,13 +31,12 @@ export default BlogPage
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___title] }) {
       edges {
         node {
           id
           excerpt(pruneLength: 250)
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
             path
             title
           }
