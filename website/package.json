@@ -1,0 +1,54 @@
+{
+    "name": "fellipe.com",
+    "private": true,
+    "description": "Awesome WPO website",
+    "version": "0.1.0",
+    "author": "Davidson Fellipe <email@fellipe.com>",
+    "dependencies": {
+        "babel-plugin-styled-components": "^1.10.7",
+        "gatsby": "^2.19.45",
+        "gatsby-cli": "^2.11.10",
+        "gatsby-image": "^2.2.44",
+        "gatsby-plugin-google-analytics": "^2.2.2",
+        "gatsby-plugin-manifest": "^2.2.48",
+        "gatsby-plugin-offline": "^3.0.41",
+        "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
+        "gatsby-plugin-react-helmet": "^3.1.24",
+        "gatsby-plugin-robots-txt": "^1.5.0",
+        "gatsby-plugin-sharp": "^2.5.3",
+        "gatsby-plugin-sitemap": "^2.4.2",
+        "gatsby-plugin-styled-components": "^3.2.1",
+        "gatsby-remark-images": "^3.2.1",
+        "gatsby-remark-responsive-iframe": "^2.3.1",
+        "gatsby-source-filesystem": "^2.2.2",
+        "gatsby-transformer-remark": "^2.8.4",
+        "gatsby-transformer-sharp": "^2.3.19",
+        "prop-types": "^15.7.2",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "react-helmet": "^5.2.1",
+        "styled-components": "^5.0.1",
+        "textlint": "^11.6.3",
+        "textlint-rule-no-dead-link": "^4.6.2",
+        "textlint-rule-terminology": "^2.1.4"
+    },
+    "devDependencies": {
+        "gatsby-remark-prismjs": "^3.5.0",
+        "prettier": "2.0.4",
+        "prismjs": "^1.20.0"
+    },
+    "keywords": [
+        "front-end developer"
+    ],
+    "license": "MIT",
+    "scripts": {
+        "build": "gatsby build",
+        "develop": "gatsby develop",
+        "start": "npm run develop",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean",
+        "lint": "textlint --rule textlint-rule-terminology content/**/*.md",
+        "format": "prettier --write \"./src/**/*.{js,json,md}\"",
+        "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    }
+}

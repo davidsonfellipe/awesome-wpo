@@ -1,4 +1,12 @@
-# Awesome WPO > People
+---
+title: Articles
+author: Davidson Fellipe
+layout: post
+path: /people/
+date: "2010-09-24"
+---
+
+# People
 
 > Awesome Web Performance people to follow on Twitter
 

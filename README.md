@@ -54,7 +54,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Articles
 
-> Go to [ARTICLES.md](ARTICLES.md).
+> Go to [ARTICLES.md](content/ARTICLES.md).
 
 ## Blogs
 
@@ -96,7 +96,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## People
 
-> Go to [PEOPLE.md](PEOPLE.md).
+> Go to [PEOPLE.md](content/PEOPLE.md).
 
 ## Events
 
@@ -108,11 +108,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ### Meetups
 
-> They are categorized into [MEETUPS.md](MEETUPS.md).
+> They are categorized into [content/MEETUPS.md](MEETUPS.md).
 
 ## Talks
 
-> They are categorized into [TALKS.md](TALKS.md).
+> They are categorized into [content/TALKS.md](TALKS.md).
 
 # Tools
 
