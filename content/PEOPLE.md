@@ -3,7 +3,6 @@ title: Articles
 author: Davidson Fellipe
 layout: post
 path: /people/
-date: "2010-09-24"
 ---
 
 # People

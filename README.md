@@ -96,7 +96,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## People
 
-> Go to [PEOPLE.md](content/PEOPLE.md).
+> Go to [content/PEOPLE.md](content/PEOPLE.md).
 
 ## Events
 
@@ -108,11 +108,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ### Meetups
 
-> They are categorized into [content/MEETUPS.md](MEETUPS.md).
+> They are categorized into [content/MEETUPS.md](content/MEETUPS.md).
 
 ## Talks
 
-> They are categorized into [content/TALKS.md](TALKS.md).
+> They are categorized into [content/TALKS.md](content/TALKS.md).
 
 # Tools
 

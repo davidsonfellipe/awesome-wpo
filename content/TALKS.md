@@ -3,7 +3,6 @@ title: Talks
 author: Davidson Fellipe
 layout: post
 path: /talks/
-date: "2010-09-24"
 ---
 
 # Talks
