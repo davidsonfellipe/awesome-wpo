@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.fellipe.com",
-    title: `Davidson Fellipe`,
+    siteUrl: "https://awesome-wpo.netlify.app/",
+    title: `Awesome WPO`,
     description: `Software development`,
     author: `@davidsonfellipe`,
   },
@@ -71,8 +71,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `fellipe.com`,
-        short_name: `fellipe.com`,
+        name: `awesome-wpo`,
+        short_name: `awesome wpo`,
         start_url: `/`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.jpg`, // This path is relative to the root of the site.
