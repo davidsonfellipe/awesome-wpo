@@ -83,10 +83,6 @@ module.exports = {
       options: {
         fonts: [
           {
-            family: `Alfa Slab One`,
-            variants: [`400`],
-          },
-          {
             family: `Montserrat`,
             variants: [`400`, `400i`, `700`],
           },
