@@ -2,7 +2,6 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import PostLink from "../components/PostLink"
-import Title from "../components/Title"
 import Section from "../components/Section"
 import Layout from "../components/Layout"
 import SEO from "../components/SEO"
@@ -20,7 +19,6 @@ const BlogPage = ({
     <Layout>
       <SEO title="Blog" />
       <Section>
-        <Title>BLOG</Title>
         <div>{Posts}</div>
       </Section>
     </Layout>
