@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: "https://awesome-wpo.netlify.app/",
     title: `Awesome WPO`,
-    description: `Software development`,
+    description: `A curated list of Web Performance Optimization. Everyone can contribute here!`,
     author: `@davidsonfellipe`,
   },
   plugins: [
