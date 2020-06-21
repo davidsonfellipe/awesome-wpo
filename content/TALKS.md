@@ -9,8 +9,8 @@ path: /talks/
 
 > Talks about Web Performance Optimization
 
-- 🇺🇸 **Web performance made easy (Google I/O '18)** _Ewa Gasperowicz, Addy Osmani_ ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
-- 🇺🇸 **The Future of Loading on the Web (Chrome Dev Summit 2017)** _Sam Saccone_ ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
+- 🇺🇸 **Web performance made easy (Google I/O '18)** _by Ewa Gasperowicz, Addy Osmani_ ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+- 🇺🇸 **The Future of Loading on the Web (Chrome Dev Summit 2017)** _by Sam Saccone_ ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
 - 🇬🇧 **CSS Performance Tooling (2014)** _by Addy Osmani_ ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
 - 🇧🇷 **Performance em jQuery apps (2012)** _by Davidson Fellipe_ ~ [slides](https://www.slideshare.net/davidsonfellipe/jqueryperf)
 - 🇧🇷 **O melhor da monitoração de Web Performance (2014)** _by Davidson Fellipe_ ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
