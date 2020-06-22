@@ -53,6 +53,7 @@ path: /people/
 - Marcel Duran – [@marcelduran](https://twitter.com/marcelduran)
 - Mark Isham – [@mark_isham](https://twitter.com/mark_isham)
 - Mark Zeman – [@MarkZeman](https://twitter.com/MarkZeman)
+- Matt Hobbs - [@TheRealNooshu](https://twitter.com/TheRealNooshu)
 - Maximiliano Firtman – [@firt](https://twitter.com/firt)
 - Mehdi Daoudi – [@mdaoudi](https://twitter.com/mdaoudi)
 - Michael Mrowetz – [@MicMro](https://twitter.com/MicMro)
