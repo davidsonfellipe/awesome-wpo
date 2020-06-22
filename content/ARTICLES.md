@@ -24,6 +24,7 @@ path: /articles/
 - [Forget Google and Use These Hosted JavaScript Libraries in China](https://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - _by Ryan_
 - [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/) - _by Philip Walton_
 - [Measure Performance in JavaScript](https://medium.com/@prasanna18101994/measure-performance-in-javascript-254ad738669c) - _by Prasanna Brabourame_
+- [How to read a WebPageTest Waterfall View chart](https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/) - _by Matt Hobbs_
 
 # Contributing
 
