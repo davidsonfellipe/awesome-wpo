@@ -175,10 +175,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [PHPench](https://github.com/mre/PHPench) - PHPench creates a graphical output for a PHP benchmark. Plot the runtime of any function in realtime with GnuPlot and create an image out of the result.
 - [php-bench](https://github.com/jacobbednarz/php-bench) - Benchmark and profile PHP code blocks whilst measuring the performance footprint.
 
-## Bookmarklets
+## Bookmarklets 
 
 - [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
-- [PageSpeed](https://developers.google.com/speed/pagespeed/insights_extensions) [Deprecated] - PageSpeed Insights is available as an open-source browser extension for Google Chrome. Webmasters and web developers can use PageSpeed Insights to evaluate the performance of their web pages and to get suggestions on how to improve them - Workaround by [@Kiquenet](https://github.com/kiquenet) - https://gist.github.com/davidsonfellipe/f8e3723b4dc0aaf9f6d4.
 - [PerfMap](https://github.com/zeman/perfmap) - A bookmarklet to create a frontend performance heatmap of resources loaded in the browser using the Resource Timing API.
 - [DOM Monster](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
 - [CSS Stress](http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling) - CSS Stress is a Testing and Performance Profiling.
