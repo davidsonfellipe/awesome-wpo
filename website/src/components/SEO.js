@@ -75,7 +75,7 @@ function SEO({ description, lang, meta, title }) {
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
-  description: `from website's Davidson Fellipe`,
+  description: `A curated list of Web Performance Optimization. Everyone can contribute here!`,
 }
 
 SEO.propTypes = {
