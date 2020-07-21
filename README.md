@@ -231,6 +231,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Imageoptim](https://imageoptim.com/) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
 - [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
+- [Tapnesh-CLI](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently! 
 - [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 - [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 - [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
