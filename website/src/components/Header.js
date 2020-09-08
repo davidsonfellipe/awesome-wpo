@@ -18,16 +18,11 @@ const Wrapper = styled(Section)`
 `
 
 const Nav = styled.nav`
-  background: #000;
-  color: #fff;
-  padding: 15px;
+  color: #000;
+  padding: 25px 0;
   margin: 0 auto;
   width: 100%;
-  position: fixed;
   text-transform: uppercase;
-  top: 0;
-  right: 0;
-  z-index: 10;
 
   a {
     font-family: ${font.title};
@@ -44,10 +39,10 @@ const Links = styled.div`
       padding: 0;
 
       &:after {
-        content: '  /';
+        content: ' ';
         display: inline-block;
         text-align: center;
-        width: 25px;
+        width: 50px;
       }
 
       &:last-child:after {

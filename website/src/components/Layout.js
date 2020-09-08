@@ -5,18 +5,18 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from 'react'
-import PropTypes from 'prop-types'
+import React from "react"
+import PropTypes from "prop-types"
 
-import './layout.css'
+import "./layout.css"
 
-import styled from 'styled-components'
+import styled from "styled-components"
 
-import { screen } from '../styles/screen'
-import { font } from '../styles/theme'
+import { screen } from "../styles/screen"
+import { font } from "../styles/theme"
 
-import Header from './Header'
-import Footer from './Footer'
+import Header from "./Header"
+import Footer from "./Footer"
 
 const Wrapper = styled.div`
   font-family: ${font.text};

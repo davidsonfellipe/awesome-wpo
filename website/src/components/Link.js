@@ -1,9 +1,9 @@
-import styled from 'styled-components'
+import styled from "styled-components"
 
 const Link = styled.a`
   border-bottom: 2px dashed #eee;
   display: block;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
   color: #333;
   padding: 15px 0;
