@@ -47,7 +47,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "lint": "textlint --rule textlint-rule-terminology content/**/{ARTICLES,BLOGS,MEETUPS,PEOPLE,TALKS}.md",
+    "lint": "textlint --rule textlint-rule-terminology ./content/{ARTICLES,BLOGS,MEETUPS,PEOPLE,TALKS}.md",
     "format": "prettier --write \"./src/**/*.{js,json,md}\"",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   }
