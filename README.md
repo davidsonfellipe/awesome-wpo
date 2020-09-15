@@ -58,7 +58,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Blogs
 
-> Go to [BLOGS](BLOGS.md).
+> Go to [BLOGS](content/BLOGS.md).
 
 ## Books
 
