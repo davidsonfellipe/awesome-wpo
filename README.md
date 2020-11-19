@@ -247,6 +247,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 - [ImageEngine](https://imageengine.io) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 - [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
+- [Optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
 
 ## Lazyloaders
 
