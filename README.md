@@ -155,6 +155,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.
 - [Packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
 - [Compression webpack plugin](https://github.com/webpack-contrib/compression-webpack-plugin) - Prepare compressed versions of assets to serve them with Content-Encoding.
+- [BundleStats](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
 ## Benchmark - CSS
 
