@@ -2,6 +2,9 @@
 
 > Best Courses about WPO
 
+
+- [HTTP/2 in Action by Barry Pollard](https://www.manning.com/books/http2-in-action) - Barry Pollard
+- [[Pluralsight] Website Performanced](https://www.pluralsight.com/courses/website-performance)
 [Pluralsight] Website Performance
 [Pluralsight] Web Performance
 [Pluralsight] Using Google PageSpeed Insights to Improve Web Performance
