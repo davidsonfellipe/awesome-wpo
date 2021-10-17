@@ -81,6 +81,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [You Don't Know JS: Async & Performance](https://www.oreilly.com/library/view/you-dont-know/9781491905197/) - Kyle Simpson
 - [Linux, Apache, MySQL, PHP Performance end-to-end](https://play.google.com/store/books/details/Colin_McKinnon_Linux_Apache_MySQL_PHP_Performance?id=Z3ciBgAAQBAJ) - Colin McKinnon
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Ben Farrell
+- [Image Optimization](https://www.smashingmagazine.com/printed-books/image-optimization/) - Addy Osmani
 
 ## Case studies
 
@@ -104,6 +105,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ### Conferences
 
+- [PWA Summit](https://pwasummit.org/) – A free, online, single-track conference focused on helping everyone succeed with Progressive Web Apps.
 - [Velocity](http://conferences.oreilly.com/velocity) – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available sites and apps.
 - [performance.now()](https://perfnow.nl/) – The performance.now() conference will return to Amsterdam! We're a single track conference with fourteen world-class speakers, covering today’s most important web performance insights.
 - [#PerfMatters](https://perfmattersconf.com/) – #PerfMatters Conference is the ONLINE web performance conference by internationally renowned performance developers.
