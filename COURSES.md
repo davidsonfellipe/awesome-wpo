@@ -10,5 +10,5 @@
 - [[Pluralsight] Tracking Real World Web Performance](https://www.pluralsight.com/courses/web-performance-tracking)
 - [[LinkedIn Learning] Designing Websites for Performance](https://www.linkedin.com/learning/designing-websites-for-performance)
 - [[LinkedIn Learning] HTTP/2: Developing for Performance](https://www.linkedin.com/learning/http-2-developing-for-performance)
-- [[Channel9] Web Performance](https://channel9.msdn.com//Shows/Web-Hack-Wednesday/Web-Performance/)
+- [[Channel9] Web Performance](https://channel9.msdn.com/Shows/Web-Hack-Wednesday/Web-Performance/)
 
