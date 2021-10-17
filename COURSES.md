@@ -2,7 +2,7 @@
 
 > Best Courses about WPO
 
-- [[Pluralsight] Website Performanced](https://www.pluralsight.com/courses/website-performance)
+- [[Pluralsight] Website Performance](https://www.pluralsight.com/courses/website-performance)
 - [[Pluralsight] Website Performanced](https://www.pluralsight.com/courses/web-performance)
 - [[Pluralsight] Using Google PageSpeed Insights](https://www.pluralsight.com/courses/google-pagespeed-insights-web-performance)
 - [[Pluralsight] A Web Developer's Guide to Images](https://www.pluralsight.com/courses/dev-guide-to-images)
