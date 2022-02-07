@@ -25,6 +25,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Analyzers](#analyzers)
 - [Analyzers API](#analyzers---api)
+- [Application Performance Monitoring](#application-performance-monitoring)
 - [Bundle Analyzer](#bundle-analyzer)
 - [Benchmark - CSS](#benchmark---css)
 - [Benchmark - JS](#benchmark---javascript)
@@ -46,7 +47,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Web Components](#web-components)
 - [Web server Benchmarks](#web-server-benchmarks)
 - [Web server Modules](#web-server-modules)
-- [Uptime monitoring](#uptime)
 - [Specs](#specs)
 - [Stats](#stats)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -147,6 +147,13 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 - [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights for Node.js - with reporting.
+
+# Application Performance Monitoring
+
+- [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
+- [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
+- [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
+- [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification, ...)
 
 ## Bundle Analyzer
 
@@ -386,13 +393,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
   processing, and custom reporting)
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [k6](https://k6.io/) - An open source load testing tool built for developers. Easy to integrate into CI pipelines. Tests are written in ES6 JS and you can test APIs, microservices and sites using HTTP/1.1, HTTP/2 and WebSocket.
-
-# Uptime
-
-- [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
-- [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
-- [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
-- [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification, ...)
 
 ## Web server Modules
 
