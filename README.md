@@ -221,7 +221,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## CDN - Utilities
 
-- [Cdnex](https://github.com/jsonmaur/cdnex) - Prepends asset URLs with custom CDN URLs.
 - [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 ## Extensions
@@ -359,7 +358,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [SvgToCSS](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in CSS / Sass sprites.
 - [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
 - [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable CSS.
-- [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
 - [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
 - [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
 - [Sprity](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
