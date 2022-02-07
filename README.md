@@ -392,7 +392,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 - [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
 - [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
-- [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, indicent notification, ...)
+- [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification, ...)
 - [Hyperping](https://hyperping.com) - A good website monitoring tool (with a clean UI)
 
 ## Web server Modules
