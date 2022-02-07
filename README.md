@@ -150,10 +150,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 # Application Performance Monitoring
 
+- [Datadog APM](https://www.datadoghq.com/product/apm/) - End-to-end distributed tracing and APM at scale, correlated to all telemetry. 
+- [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification)
+- [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
 - [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 - [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
-- [Nodown](https://nodown.io) - Also, a monitoring tool, but that focuses on feature testing
-- [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification, ...)
 
 ## Bundle Analyzer
 
