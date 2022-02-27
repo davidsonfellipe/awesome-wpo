@@ -298,6 +298,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [WebPageTest API Wrapper for Node.js](https://github.com/marcelduran/webpagetest-api) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 
+## Metrics Monitor - EMAIL
+
+- [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the Ecommerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
+
 ## Minifiers - HTML
 
 - [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
