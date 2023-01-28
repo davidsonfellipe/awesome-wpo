@@ -17,8 +17,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 :calendar: [Awesome WPO / Events](#events)
 
-:busts_in_silhouette: [Awesome WPO / People](#people)
-
 :movie_camera: [Awesome WPO / Talks](#talks)
 
 ## Table of Contents
@@ -95,10 +93,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
   Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
-
-## People
-
-> Go to [content/PEOPLE.md](content/PEOPLE.md).
 
 ## Events
 
