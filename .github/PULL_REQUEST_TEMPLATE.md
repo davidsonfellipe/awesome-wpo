@@ -5,6 +5,7 @@ _Choose one_
 - Books
 - Conferences
 - Tutorials
+- Meetups
 
 ## Description of changes
 
