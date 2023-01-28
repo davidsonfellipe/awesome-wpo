@@ -154,6 +154,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification)
 - [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 - [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
+- [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
 
 ## Bundle Analyzer
 
