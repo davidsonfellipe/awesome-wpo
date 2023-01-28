@@ -63,7 +63,6 @@ const Header = () => (
         <Link to="/articles/">articles</Link>
         <Link to="/blogs/">blogs</Link>
         <Link to="/meetups/">meetups</Link>
-        <Link to="/people/">people</Link>
         <Link to="/talks/">talks</Link>
       </Links>
     </Wrapper>
