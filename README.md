@@ -100,6 +100,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ### Conferences
 
+- [We Love Speed](https://www.welovespeed.com/) – We Love Speed ​​was born from the desire to share knowledge and experiences in web performance as widely as possible.
 - [PWA Summit](https://pwasummit.org/) – A free, online, single-track conference focused on helping everyone succeed with Progressive Web Apps.
 - [Velocity](http://conferences.oreilly.com/velocity) – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available sites and apps.
 - [performance.now()](https://perfnow.nl/) – The performance.now() conference will return to Amsterdam! We're a single track conference with fourteen world-class speakers, covering today’s most important web performance insights.
