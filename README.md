@@ -137,6 +137,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Web Bloat Score Calculator](http://www.webbloatscore.com/) - Compare size of a page to a compressed image of the same page
 - [Speed Racer](https://github.com/ngryman/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 - [Speedrank](https://speedrank.app/) - Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
+- [Lightest App](https://lightest.app/) - An simple and easy-to-use web analyzer. Even you can compare your favorite website with others.
 
 ## Analyzers - API
 
