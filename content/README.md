@@ -65,6 +65,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Varvy](https://varvy.com/pagespeed/) - Test your site to see if it follows the Google guidelines for speed.
 - [Web Bloat Score Calculator](http://www.webbloatscore.com/) - Compare size of a page to a compressed image of the same page
 - [Speed Racer](https://github.com/ngryman/speedracer) - Collect performance metrics for your library/application using Chrome headless.
+- [Lightest App](https://lightest.app/) - Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.
 
 ## Analyzers - API
 
