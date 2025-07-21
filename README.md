@@ -135,8 +135,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extensible open-source load testing tool for advanced Linux users which is especially good as a part of an automated load testing suite.
 - [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits frontend bad practices, reveals performance issues, and profiles JavaScript.
 - [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
-- [Varvy](https://varvy.com/pagespeed/) - Test your site to see if it follows the Google guidelines for speed.
-- [Web Bloat Score Calculator](http://www.webbloatscore.com/) - Compare size of a page to a compressed image of the same page
 - [Speed Racer](https://github.com/ngryman/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 - [Speedrank](https://speedrank.app/) - Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
 - [Lightest App](https://lightest.app/) - Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.
