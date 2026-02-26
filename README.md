@@ -83,6 +83,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Linux, Apache, MySQL, PHP Performance end-to-end](https://play.google.com/store/books/details/Colin_McKinnon_Linux_Apache_MySQL_PHP_Performance?id=Z3ciBgAAQBAJ) - Colin McKinnon
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Ben Farrell
 - [Image Optimization](https://www.smashingmagazine.com/printed-books/image-optimization/) - Addy Osmani
+- [Performance Engineering in Practice](https://www.manning.com/books/performance-engineering-in-practice) - Den Odell
 
 ## Case studies
 
