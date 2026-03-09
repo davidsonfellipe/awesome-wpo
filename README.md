@@ -139,6 +139,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Speed Racer](https://github.com/ngryman/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 - [Speedrank](https://speedrank.app/) - Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
 - [Lightest App](https://lightest.app/) - Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.
+- [GEOScore AI](https://geoscoreai.com/) - AI search visibility scanner that analyzes how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks including AI crawl access, structured data, content structure, and citation potential.
 
 ## Analyzers - API
 
