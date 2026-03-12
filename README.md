@@ -286,6 +286,7 @@ Here's a quick overview of the categories covered in this collection:
 - [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
 - [Optimizt](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 - [ResponsiveImage](https://responsive-image.dev/) - Generate optimized images (WebP, AVIF) and LQIP placeholders using Vite or webpack plugins and render responsive image markup with an image component for multiple frameworks.
+- [LeanImg](https://leanimg.com) — Browser-based tool: compress, resize, crop, and convert  to WebP/AVIF. Uses WASM codecs (MozJPEG, OxiPNG, libwebp, libavif). No upload.
 
 ## Lazyloaders
 
