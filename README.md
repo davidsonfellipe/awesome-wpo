@@ -34,6 +34,7 @@ Here's a quick overview of the categories covered in this collection:
 - [CDN](#cdn)
 - [CDN - Monitor](#cdn---monitor)
 - [CDN - Utilities](#cdn---utilities)
+- [Core Web Vitals](#core-web-vitals)
 - [Extensions](#extensions)
 - [Image Optimizers](#image-optimizers)
 - [Generators](#generators)
@@ -220,6 +221,12 @@ Here's a quick overview of the categories covered in this collection:
 ## CDN - Utilities
 
 - [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
+
+## Core Web Vitals
+
+- [web-vitals](https://github.com/GoogleChrome/web-vitals) - Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.
+- [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
+- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
 
 ## Extensions
 
