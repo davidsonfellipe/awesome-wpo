@@ -14,7 +14,7 @@ If you want to master the art of Website Performance Optimization (WPO), check o
 ### [LinkedIn Learning]
 
 1. [Designing Websites for Performance](https://www.linkedin.com/learning/designing-websites-for-performance)
-2. [HTTP/2: Developing for Performance](https://www.linkedin.com/learning/http-2-developing-for-performance)
+2. [HTTP/2: Developing for Performance](https://www.linkedin.com/learning/developing-for-web-performance)
 
 These courses cover a range of essential topics to optimize your website's performance. Whether you're interested in speed optimization, image handling, or monitoring real-world web performance, these courses have got you covered. Happy learning!
 
