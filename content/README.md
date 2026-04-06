@@ -79,7 +79,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 - [Lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.
-- [Packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
 - [Compression webpack plugin](https://github.com/webpack-contrib/compression-webpack-plugin) - Prepare compressed versions of assets to serve them with Content-Encoding.
 
 ## Benchmark - CSS

@@ -150,7 +150,6 @@ Here's a quick overview of the categories covered in this collection:
 - [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification)
 - [Pingdom](https://www.pingdom.com/) - A tool to get the uptime of your website (with probes from different locations)
 - [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
-- [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offers a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email, and WebHook.
 - [StatusList](https://statuslist.app) - Uptime, performance monitoring with debug details, and hosted status page in one simple dashboard.
 
 ## Bundle Analyzer
@@ -161,7 +160,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Webpack bundle analyzer](https://github.com/webpack/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
 - [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 - [Lasso-analyzer](https://github.com/pajaydev/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.
-- [Packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
 - [Compression webpack plugin](https://github.com/webpack/compression-webpack-plugin) - Prepare compressed versions of assets to serve them with Content-Encoding.
 - [BundleStats](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
