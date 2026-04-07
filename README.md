@@ -44,6 +44,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Minifiers HTML](#minifiers---html)
 - [Minifiers JS & CSS](#minifiers---js--css)
 - [Miscellaneous](#miscellaneous)
+- [Real User Monitoring](#real-user-monitoring)
 - [SVG](#svg)
 - [Web Components](#web-components)
 - [Web server Benchmarks](#web-server-benchmarks)
@@ -153,6 +154,16 @@ Here's a quick overview of the categories covered in this collection:
 - [Pingdom](https://www.pingdom.com/) - A tool to get the uptime of your website (with probes from different locations)
 - [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
 - [StatusList](https://statuslist.app) - Uptime, performance monitoring with debug details, and hosted status page in one simple dashboard.
+
+## Real User Monitoring
+
+- [Catchpoint Real User Monitoring](https://www.catchpoint.com/real-user-monitoring) - RUM for web and native mobile apps with Core Web Vitals, third-party impact, and correlation with synthetic monitoring (OpenTelemetry-based).
+- [Atatus](https://www.atatus.com/) - Full-stack observability including RUM, APM, synthetic uptime, session replay, and OpenTelemetry.
+- [Datadog Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) - Browser and mobile RUM with session replay, Core Web Vitals, and correlation with traces and logs.
+- [New Relic Browser Monitoring](https://newrelic.com/platform/browser-monitoring) - Real-user browser monitoring with Core Web Vitals, distributed tracing to backend, and deployment markers.
+- [SpeedCurve](https://www.speedcurve.com/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
+- [Boomerang (Open Source)](https://akamai.github.io/boomerang/oss/) - Documentation for the Open Source version of Boomerang, which is maintained by Akamai employees with contributions from the OSS community.
+- [Akamai mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang) - Documentation for the Akamai mPulse version of Boomerang, which includes additions specific to interacting with mPulse.
 
 ## Bundle Analyzer
 
