@@ -69,16 +69,16 @@ Here's a quick overview of the categories covered in this collection:
 - [Web Performance in Action by Jeremy Wagner](https://www.manning.com/books/web-performance-in-action) - Jeremy L. Wagner
 - [Book of Speed](https://www.bookofspeed.com/) - Stoyan Stefanov
 - [Designing for Performance: Weighing Aesthetics and Speed](https://designingforperformance.com/) - Lara Hogan
-- [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/9780596522315.do) - Steve Souders
-- [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) - Ilya Grigorik
-- [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) - Nicholas C. Zakas
+- [Even Faster Web Sites: Performance Best Practices for Web Developers](https://www.oreilly.com/library/view/even-faster-web/9780596803773/) - Steve Souders
+- [High Performance Browser Networking: What every web developer should know about networking and web performance](https://www.oreilly.com/library/view/high-performance-browser/9781449344757/) - Ilya Grigorik
+- [High Performance JavaScript](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/) - Nicholas C. Zakas
 - [High Performance Web Sites: Essential Knowledge for frontend Engineers](https://www.oreilly.com/library/view/high-performance-web/9780596529307/) - Steve Souders
 - [High Performance Responsive Design: Building Faster Sites Across Devices](https://www.oreilly.com/library/view/high-performance-responsive/9781491949979/) – Tom Barker
 - [Lean sites](https://www.sitepoint.com/premium/books/lean-websites/) – Barbara Bermes
-- [Time Is Money: The Business Value of Web Performance](http://shop.oreilly.com/product/0636920041450.do) – Tammy Everts
-- [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) - Rick Viscomi, Andy Davies, Marcel Duran
+- [Time Is Money: The Business Value of Web Performance](https://www.oreilly.com/library/view/time-is-money/9781491928783/) – Tammy Everts
+- [Using WebPagetest](https://www.oreilly.com/library/view/using-webpagetest/9781491902783/) - Rick Viscomi, Andy Davies, Marcel Duran
 - [Web Performance Daybook Volume 2](https://www.amazon.com/Web-Performance-Daybook-Stoyan-Stefanov-ebook/dp/B008CQA8BA/) - Stoyan Stefanov
-- [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) - Patrick Killelea
+- [Web Performance Tuning](https://www.oreilly.com/library/view/web-performance-tuning/059600172X/) - Patrick Killelea
 - [You Don't Know JS: Async & Performance](https://www.oreilly.com/library/view/you-dont-know/9781491905197/) - Kyle Simpson
 - [Linux, Apache, MySQL, PHP Performance end-to-end](https://play.google.com/store/books/details/Colin_McKinnon_Linux_Apache_MySQL_PHP_Performance?id=Z3ciBgAAQBAJ) - Colin McKinnon
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Ben Farrell
@@ -171,7 +171,7 @@ Here's a quick overview of the categories covered in this collection:
 
 > A set of tools for creating test cases and comparing different implementations in JavaScript.
 
-- [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks. `Temporarily out, follow this issue for updates: https://github.com/jsperf/jsperf.com/issues/537`
+- [JSBench](https://jsbench.me/) - A modern browser-based JavaScript benchmarking tool for quickly creating and sharing performance tests.
 - [Benchmark.js](https://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 - [JSlitmus](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
 - [Matcha](https://github.com/logicalparadox/matcha) - Matcha allows you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
@@ -179,6 +179,8 @@ Here's a quick overview of the categories covered in this collection:
 - [Stats.js](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 - [PerfTests](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
 - [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
+- [JSPerf](https://github.com/jsperf/jsperf.com) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks. `Follow this issue for updates: https://github.com/jsperf/jsperf.com/issues/537`
+
 
 ## Benchmark - PHP
 
