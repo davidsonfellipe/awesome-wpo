@@ -139,6 +139,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Speed Racer](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 - [Speedrank](https://blog.speedrank.app/wir-sagen-goodbye/) - Speedrank monitors the performance of your site in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
 - [Lightest App](https://lightest.app/) - Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.
+- [Redirect Checker](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.
 
 ## Analyzers - API
 
