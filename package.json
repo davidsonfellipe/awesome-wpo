@@ -11,5 +11,6 @@
   "scripts": {
     "lint": "textlint --rule textlint-rule-terminology ./content/{ARTICLES,BLOGS,MEETUPS,TALKS}.md",
     "lint-no-dead-link": "textlint --rule textlint-rule-no-dead-link *.md"
-  }
+  },
+  "packageManager": "pnpm@10.12.1"
 }

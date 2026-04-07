@@ -44,11 +44,12 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "start": "npm run develop",
+    "start": "pnpm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "lint": "textlint --rule textlint-rule-terminology ./content/{ARTICLES,BLOGS,MEETUPS,PEOPLE,TALKS}.md",
     "format": "prettier --write \"./src/**/*.{js,json,md}\"",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  }
+  },
+  "packageManager": "pnpm@10.12.1"
 }
