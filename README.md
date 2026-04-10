@@ -119,6 +119,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Tools
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=davidsonfellipe_awesome-wpo) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Analyzers
 
 - [Web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
