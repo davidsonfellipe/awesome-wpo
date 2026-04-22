@@ -1,0 +1,51 @@
+{
+	"name": "p-memoize",
+	"version": "3.1.0",
+	"description": "Memoize promise-returning & async functions",
+	"license": "MIT",
+	"repository": "sindresorhus/p-memoize",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"promise",
+		"memoize",
+		"mem",
+		"memoization",
+		"function",
+		"cache",
+		"caching",
+		"optimize",
+		"performance",
+		"ttl",
+		"expire",
+		"async",
+		"await",
+		"promises",
+		"time",
+		"out",
+		"cancel",
+		"bluebird"
+	],
+	"dependencies": {
+		"mem": "^4.3.0",
+		"mimic-fn": "^2.1.0"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}

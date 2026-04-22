@@ -1,0 +1,27 @@
+{
+  "name": "@azu/style-format",
+  "version": "1.0.1",
+  "description": "Library to easily style texts with string formatting",
+  "main": "index.js",
+  "dependencies": {
+    "@azu/format-text": "^1.0.1"
+  },
+  "keywords": [
+    "style",
+    "text",
+    "format"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js",
+    "ansi-codes.js"
+  ],
+  "repository": {
+    "url": "git@github.com:azu/style-format.git",
+    "type": "git"
+  },
+  "author": "azu",
+  "license": "WTFPL"
+}
