@@ -33,15 +33,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Documentation
 
-- [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
+- [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/v5/get-started) - A guide created by PageSpeed Team.
   Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
-
-## Events
-
-### Conferences
-
-- [Velocity](http://conferences.oreilly.com/velocity) – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available sites and apps.
 
 # Tools
 
@@ -148,7 +142,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
 - [Sharp](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
 - [Gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for Node.js.
-- [Exexif](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from JPEG files.
 - [ExifCleaner](https://exifcleaner.com) - GUI app to remove exif metadata from images and video files with drag and drop. Free and open source.
 - [OptiPNG](https://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 - [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
@@ -162,7 +155,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 - [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 - [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
-- [Shrinkray](https://shrinkray.io) - One-click optimization for images in your GitHub repos
 - [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [Jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
 - [ZopfliPNG](https://github.com/google/zopfli) - A command-line program to optimize PNG images.
