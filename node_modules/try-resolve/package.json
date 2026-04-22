@@ -1,9 +1,0 @@
-{
-  "name": "try-resolve",
-  "version": "1.0.1",
-  "description": "Try and resolve a filename",
-  "main": "index.js",
-  "repository": "sebmck/try-resolve",
-  "author": "Sebastian McKenzie <sebmck@gmail.com>",
-  "license": "MIT"
-}
