@@ -106,7 +106,7 @@ Here's a quick overview of the categories covered in this collection:
 - [We Love Speed](https://www.welovespeed.com/2024/) - Born from the desire to share knowledge and experiences in web performance as widely as possible.
 - [PWA Summit](https://pwasummit.org/) - A free, online, single-track conference focused on helping everyone succeed with Progressive Web Apps.
 - [performance.now()](https://perfnow.nl/) - The performance.now() conference will return to Amsterdam! We're a single-track conference with fourteen world-class speakers, covering today’s most important web performance insights.
-- [#PerfMatters](https://perfmattersconf.com/) - Conference is the ONLINE web performance conference by internationally renowned performance developers.
+- [PerfMatters](https://perfmattersconf.com/) - Conference is the ONLINE web performance conference by internationally renowned performance developers.
 
 ### Meetups
 
