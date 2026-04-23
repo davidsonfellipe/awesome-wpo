@@ -26,6 +26,14 @@ path: /talks/
 - 🇺🇸 **Site Performance Optimization - The Critical Rendering Path** by Udacity ~ [course](https://www.udacity.com/course/website-performance-optimization--ud884)
 - 🇬🇧 **Browser Rendering Optimization** by Udacity ~ [course](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 - 🇺🇸 **Delivering the goods (2014)** by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
+- 🇺🇸 **The Hidden Performance Cost of Web Videos** by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=unULkn9LuvE)
+- 🇺🇸 **Ad-Supported Sites Without the Slowdown** by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n_8YawtKSSk)
+- 🇺🇸 **7 Levels of a Web Performance Journey** by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=tFzMOee0ymw)
+- 🇺🇸 **We Love LoAF and INP** by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=_EMdFzLRkLM)
+- 🇺🇸 **Performance on a Budget: Lessons from Building a Nonprofit SaaS Platform** by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=6ros6iNSdVU)
+- 🇺🇸 **Several Components are Rendering A Client Performance at Slack Scale** by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=pf_4FQR_xtc)
+- 🇺🇸 **Flexible Architectures for Web Performance** by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=aIfB12cQW9A)
+- 🇺🇸 **Font Performance** by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=Q_Vqpul5uIY)
 
 # Contributing
 

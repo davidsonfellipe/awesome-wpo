@@ -32,6 +32,8 @@ path: /articles/
 - [Optimize CLS](https://web.dev/optimize-cls/) - by web.dev
 - [Optimize INP](https://web.dev/optimize-inp/) - by web.dev
 - [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
+- [Third Parties and Single Points of Failure](https://paulcalvano.com/2025-12-29-third-parties-and-single-points-of-failure/) - by Paul Calvano
+- [Serving Static Content with Cloud Storage? Don't Forget the CDN!](https://paulcalvano.com/2026-02-09-serving-static-content-with-cloud-storage-dont-forget-the-cdn/) - by Paul Calvano
 
 # Contributing
 
