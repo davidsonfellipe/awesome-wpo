@@ -17,7 +17,6 @@ path: /talks/
 - 🇺🇸 Performance Tooling (2013) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
 - 🇺🇸 A developer's guide to rendering performance (2013) - by Paul Lewis ~ [video](https://vimeo.com/77591536) / [slides](https://speakerdeck.com/paullewis/a-developers-guide-to-rendering-performance)
 - 🇺🇸 Jank Free: Chrome Rendering Performance (2013) - by Nat Duca and Tom Wiltzius ~ [video](https://www.youtube.com/watch?v=n8ep4leoN9A)
-- 🇺🇸 Full Stack Web Performance (2014) - by Nik Molnar ~ [video](https://vimeo.com/97415381)
 - 🇪🇸 Curso WPO - Web Performance Optimization 2013 - by Pablo Martinez ~ [slides](https://www.slideshare.net/pablomartinezfernandez/curso-wpopol)
 - 🇪🇸 Web Performance Optimization (2012) - by Pedro Martínez ~ [slides](https://www.slideshare.net/pemargo1/wpo-congreso-seo4seos)
 - 🇧🇷 Critical Rendering Path (2014) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
