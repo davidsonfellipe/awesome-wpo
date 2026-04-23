@@ -162,7 +162,6 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Analyzers - API
 
-- [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 - [PSI](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights for Node.js - with reporting.
 
 ## Application Performance Monitoring
@@ -305,7 +304,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
 - [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [Jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
-- [ZopfliPNG](https://github.com/google/zopfli) - A command-line program to optimize PNG images.
 - [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress PNG files to get the smallest possible size.
 - [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 - [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
@@ -374,10 +372,8 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Minifiers - JS & CSS
 
-- [YUI Compressor](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
 - [CSSO](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
-- [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - JavaScript port of YUICompressor's CSS minifier.
 - [Grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 - [Grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify JavaScript files.
 - [Clean-css](https://github.com/clean-css/clean-css) - A fast, efficient, and well-tested CSS minifier for node.js.
