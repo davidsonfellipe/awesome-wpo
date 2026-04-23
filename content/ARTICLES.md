@@ -27,6 +27,10 @@ path: /articles/
 - [How to read a WebPageTest Connection View chart](https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/) - by Matt Hobbs
 - [WebPageTest comparison URL generator](https://nooshu.github.io/blog/2020/04/22/webpagetest-comparison-url-generator/) - by Matt Hobbs
 - [Jank busting for better rendering performance](https://web.dev/articles/speed-rendering) - by Tom Wiltzius
+- [Fast](https://web.dev/fast/) - by web.dev
+- [Optimize LCP](https://web.dev/optimize-lcp/) - by web.dev
+- [Optimize CLS](https://web.dev/optimize-cls/) - by web.dev
+- [Optimize INP](https://web.dev/optimize-inp/) - by web.dev
 
 # Contributing
 
