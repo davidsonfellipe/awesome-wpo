@@ -9,7 +9,7 @@ path: /blogs/
 
 > Some blogs about Web Performance Optimization
 
-- 🇺🇸 **Performance Calendar** _by Stoyan Stefanov_ ~ [https://calendar.perfplanet.com/](https://calendar.perfplanet.com/)
+- 🇺🇸 **Performance Calendar** by Stoyan Stefanov ~ [https://calendar.perfplanet.com/](https://calendar.perfplanet.com/)
 
 # Contributing
 
