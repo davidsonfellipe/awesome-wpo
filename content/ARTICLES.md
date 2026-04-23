@@ -31,6 +31,7 @@ path: /articles/
 - [Optimize LCP](https://web.dev/optimize-lcp/) - by web.dev
 - [Optimize CLS](https://web.dev/optimize-cls/) - by web.dev
 - [Optimize INP](https://web.dev/optimize-inp/) - by web.dev
+- [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
 
 # Contributing
 
