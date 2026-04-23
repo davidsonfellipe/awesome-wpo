@@ -38,7 +38,7 @@ path: /talks/
 - Speed Design - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=uPjJtPPiQyo)
 - Preload v Early Hints v Fetch Priority - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=sbjbS3P0P84)
 - Optimizing Ads - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=t7hHrGI4tJA)
-- Improving performance for 3 million web sites - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=yW_4A4pTPA4)
+- Improving performance for 3 million sites - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=yW_4A4pTPA4)
 - Digging into Interaction to Next Paint - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=bDJB-AQDciE)
 - Dotdash Meredith's culture of performance monitoring and optimization - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=ZYEkDjiEOI4)
 - Priority Hints - What Your Browser Doesn’t Know (Yet) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=KRoyFrfEALQ)
