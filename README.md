@@ -110,6 +110,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Chrome Developers: Performance](https://developer.chrome.com/docs/performance/) - Deep guides on rendering, loading, and runtime performance.
 - [Lighthouse Docs](https://developer.chrome.com/docs/lighthouse/) - Audit methodology, scoring details, and usage guidance.
 - [Navigation Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) - Page navigation and load milestone metrics.
+- [Navigation Timing Level 2 (W3C)](https://www.w3.org/TR/navigation-timing-2/) - Use `responseStart` and `requestStart` to derive Time to First Byte (TTFB).
 - [Resource Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API) - Detailed network timing for assets.
 - [Long Tasks API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Long_Tasks_API) - Detect main-thread blocking work.
 - [Paint Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Paint_Timing_API) - First paint and first contentful paint signals.
@@ -139,12 +140,14 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Analyzers
 
+- [Request Map](https://requestmap.webperf.tools/) - Visualize first- and third-party request dependencies as an interactive map.
 - [Web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Lab and field CWV diagnostics for any URL.
 - [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
 - [DebugBear](https://www.debugbear.com/) - Site monitoring based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. Paid product with a free 30-day trial.
 - [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
-- [Screpy](https://screpy.com) - AI-Based SEO Analysis & Monitoring Tool.
+- [Dareboost](https://www.dareboost.com/) - [Multi-audit] Website quality testing across performance, accessibility, SEO, and security best practices.
+- [Screpy](https://screpy.com) - [Multi-audit] AI-based performance, SEO, uptime, and quality monitoring.
 - [YSlow](https://github.com/marcelduran/yslow) - Analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
 - [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuous measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
