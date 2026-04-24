@@ -138,6 +138,10 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Tools
 
+- [Speculation Rules Generator](https://www.corewebvitals.io/tools/speculation-rules-generator) - Build speculation rules JSON for prefetch and prerender configurations.
+- [Critical CSS Generator](https://www.corewebvitals.io/tools/critical-css-generator) - Generate critical-path CSS for above-the-fold rendering.
+- [Core Web Vitals Report](https://www.corewebvitals.io/core-web-vitals-report) - Generate a Core Web Vitals report using CrUX historical data.
+
 ## Analyzers
 
 - [Request Map](https://requestmap.webperf.tools/) - Visualize first- and third-party request dependencies as an interactive map.
