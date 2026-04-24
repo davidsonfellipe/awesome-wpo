@@ -42,8 +42,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Lazyloaders](#lazyloaders)
 - [Loaders](#loaders)
 - [Metrics Monitor](#metrics-monitor)
-- [Minifiers HTML](#minifiers---html)
-- [Minifiers JS & CSS](#minifiers---js--css)
+- [Minifiers](#minifiers)
 - [Miscellaneous](#miscellaneous)
 - [Real User Monitoring](#real-user-monitoring)
 - [SVG](#svg)
@@ -349,7 +348,7 @@ Here's a quick overview of the categories covered in this collection:
 - [WebPageTest API Wrapper for Node.js](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 - [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
 
-## Minifiers - HTML
+## Minifiers
 
 - [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - Small, fast Java library that minifies HTML or XML by removing extra whitespace, comments, and unneeded characters without breaking structure. Includes a command-line build.
 - [Django-htmlmin](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python with full support for HTML 5. Supports Django, Flask, and any other Python web framework, plus a command-line tool for static sites or deployment scripts.
@@ -363,9 +362,6 @@ Here's a quick overview of the categories covered in this collection:
 - [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
 - [Minimize](https://github.com/Swaagie/minimize) - HTML minifier based on node-htmlparser; currently server-side only. Client-side minification is planned.
 - [Html-minifier](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
-
-## Minifiers - JS & CSS
-
 - [UglifyJS2](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
 - [CSSO](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 - [Grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
