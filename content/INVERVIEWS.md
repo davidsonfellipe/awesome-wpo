@@ -11,7 +11,6 @@ path: /inverviews/
 
 ## SPDY STREAM
 
-- **SPDY STREAM 031 w/ Patrick Meeman** ~ [video](https://www.youtube.com/watch?v=w1t2knnGeG4)
 - **SPDY STREAM 026 with Caleb Queern of KPMG** ~ [video](https://www.youtube.com/watch?v=d3de-7SqJjU)
 - **SPDY STREAM 025 with Jodie Chan of Chinafy** ~ [video](https://www.youtube.com/watch?v=f1p9Y3-IRAU)
 - **SPDY STREAM 024 | The JPEG XL with Jon Sneyers of Cloudinary** ~ [video](https://www.youtube.com/watch?v=3t2wYYnLctU)
