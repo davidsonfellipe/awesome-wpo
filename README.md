@@ -28,9 +28,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Analyzers API](README.md#analyzers---api)
 - [Application Performance Monitoring](#application-performance-monitoring)
 - [Bundle Analyzer](#bundle-analyzer)
-- [Benchmark - CSS](#benchmark---css)
-- [Benchmark - JS](#benchmark---javascript)
-- [Benchmark - PHP](#benchmark---php)
+- [Benchmarks](#benchmarks)
 - [Bookmarklets](#bookmarklets)
 - [CDN](#cdn)
 - [Core Web Vitals](#core-web-vitals)
@@ -198,14 +196,11 @@ Here's a quick overview of the categories covered in this collection:
 - [Compression Webpack plugin](https://github.com/webpack/compression-webpack-plugin) - Prepare compressed versions of assets to serve them with Content-Encoding.
 - [BundleStats](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds.
 
-## Benchmark - CSS
+## Benchmarks
+
+> A set of tools for creating test cases and comparing different implementations in CSS, JavaScript, and PHP.
 
 - [CSS-perf](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
-
-## Benchmark - JavaScript
-
-> A set of tools for creating test cases and comparing different implementations in JavaScript.
-
 - [JSBench](https://jsbench.me/) - A modern browser-based JavaScript benchmarking tool for quickly creating and sharing performance tests.
 - [Benchmark.js](https://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 - [JSlitmus](https://github.com/broofa/jslitmus) - Lightweight tool for creating ad-hoc JavaScript benchmark tests.
@@ -215,10 +210,6 @@ Here's a quick overview of the categories covered in this collection:
 - [PerfTests](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
 - [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - Minimal monitor for JS Heap Size via performance memory.
 - [JSPerf](https://github.com/jsperf/jsperf.com) - Create and share test cases comparing JavaScript snippet performance via benchmarks. `Follow this issue for updates: https://github.com/jsperf/jsperf.com/issues/537`.
-
-
-## Benchmark - PHP
-
 - [PHPench](https://github.com/mre/PHPench) - Graphical output for PHP benchmarks: plot any function's runtime in real time with GnuPlot and export an image of the result.
 - [php-bench](https://github.com/jacobbednarz/php-bench) - Benchmark and profile PHP code blocks whilst measuring the performance footprint.
 
