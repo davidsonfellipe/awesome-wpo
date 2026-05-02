@@ -33,8 +33,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Benchmark - PHP](#benchmark---php)
 - [Bookmarklets](#bookmarklets)
 - [CDN](#cdn)
-- [CDN - Monitor](#cdn---monitor)
-- [CDN - Utilities](#cdn---utilities)
 - [Core Web Vitals](#core-web-vitals)
 - [Extensions](#extensions)
 - [Image Optimizers](#image-optimizers)
@@ -246,16 +244,10 @@ Here's a quick overview of the categories covered in this collection:
 - :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
 - :cn: [Bootstrap 中文网开放 CDN 服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 - :ru: [Yandex CDN](https://yandex.ru/dev/jslibs/) - Yandex Content Delivery Network hosts popular third-party JavaScript and CSS libraries (best for use in Russia).
+- [CDNperf](https://www.cdnperf.com/) - Finds you fast and reliable JavaScript CDNs that make your sites snappy and happy.
+- [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 > To find useful more information for you to make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
-
-## CDN - Monitor
-
-- [CDNperf](https://www.cdnperf.com/) - Finds you fast and reliable JavaScript CDNs that make your sites snappy and happy.
-
-## CDN - Utilities
-
-- [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 ## Core Web Vitals
 
