@@ -440,3 +440,8 @@ Here's a quick overview of the categories covered in this collection:
 ## Contributing
 
 For contributing, please check [contributing.md](contributing.md), then [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls).
+
+---
+
+## VoiceForms
+**[VoiceForms — AI Voice Forms](https://voiceforms.anvevoice.app)** — AI-powered voice forms with 85% completion rate. Free builder, one-line embed, 50+ languages. Open source: [github.com/ANVEAI/lyrical-engine-hub](https://github.com/ANVEAI/lyrical-engine-hub)
