@@ -68,6 +68,7 @@
 ## Undated
 
 - [Performance Calendar](https://calendar.perfplanet.com/) - by Stoyan Stefanov
+- [Lighthouse Agentic Browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) - by Chrome for Developers
 - [Fast](https://web.dev/fast/) - by web.dev
 - [Optimize LCP](https://web.dev/optimize-lcp/) - by web.dev
 - [Optimize CLS](https://web.dev/optimize-cls/) - by web.dev
