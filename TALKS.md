@@ -67,7 +67,7 @@
 
 ## 2016
 - Desafios práticos de performance Web - Sérgio Lopes - BrazilJS Conf 2016 (in Portuguese) - by BrazilJS ~ [video](https://www.youtube.com/watch?v=EMCBd3kw4zs)
-- Performance and Web Typography - Helen Holmes - BrazilJS Conf 2016 (in Portuguese) - by BrazilJS ~ [video](https://www.youtube.com/watch?v=2fgNFRN4q6g)
+- Performance and Web Typography - Helen Holmes - BrazilJS Conf 2016 (in English) - by BrazilJS ~ [video](https://www.youtube.com/watch?v=2fgNFRN4q6g)
 
 ## 2015
 - Improving game performance on the Web - Nick Desaulniers - BrazilJS 2015 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=XvoBR9K3ZmE)
@@ -80,7 +80,7 @@
 
 ### 2013
 - Jank Free: Chrome Rendering Performance (2013) - by Nat Duca and Tom Wiltzius ~ [video](https://www.youtube.com/watch?v=n8ep4leoN9A)
-- Curso WPO - Web Performance Optimization - by Pablo Martinez ~ [slides](https://www.slideshare.net/pablomartinezfernandez/curso-wpopol)
+- Curso WPO - Web Performance Optimization (in Spanish) - by Pablo Martinez ~ [slides](https://www.slideshare.net/pablomartinezfernandez/curso-wpopol)
 - A developer's guide to rendering performance (2013) - by Paul Lewis ~ [video](https://vimeo.com/77591536) / [slides](https://speakerdeck.com/paullewis/a-developers-guide-to-rendering-performance)
 - Performance Tooling (2013) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
 
