@@ -5,7 +5,11 @@
 
 Welcome to the curated list of Web Performance Optimization resources. This repository aims to gather the best tools, articles, blogs, books, and talks related to optimizing website performance. Whether you're a developer, designer, or performance enthusiast, you'll find valuable content here to supercharge your web projects.
 
+> :globe_with_meridians: **Browse online:** This list is also available as a website at **[awesome-wpo.dev](https://awesome-wpo.dev/)**.
+
 ## Categories
+
+:globe_with_meridians: [Awesome WPO / Website](https://awesome-wpo.dev/)
 
 :memo: [Awesome WPO / Articles](#articles)
 
@@ -62,11 +66,11 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Articles
 
-> Go to [ARTICLES.md](ARTICLES.md).
+> Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [ARTICLES.md](ARTICLES.md).
 
 ## Blogs
 
-> Go to [BLOGS](BLOGS.md).
+> Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [BLOGS.md](BLOGS.md).
 
 ## Books
 
@@ -126,11 +130,11 @@ Here's a quick overview of the categories covered in this collection:
 
 ### Meetups
 
-> They are categorized into [MEETUPS.md](MEETUPS.md).
+> Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [MEETUPS.md](MEETUPS.md).
 
 ## Talks
 
-> They are categorized into [TALKS.md](TALKS.md).
+> Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [TALKS.md](TALKS.md).
 
 ## Tools
 
