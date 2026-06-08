@@ -59,6 +59,9 @@
 - Lies, damn lies, and performance studies - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=H9BttSU-bqg)
 - Performance Testing using Playwright - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=IrK-XDH72bw)
 
+## 2015
+- Improving game performance on the Web - Nick Desaulniers - BrazilJS 2015 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=XvoBR9K3ZmE)
+
 ### 2014
 - Critical Rendering Path (2014) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
 - Delivering the goods (2014) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
