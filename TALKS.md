@@ -35,17 +35,17 @@
 - [English] Multicol and fragmentation - Rachel Andrew - CSS Day 2025 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=NfwDP9shxNQ)
 
 ## 2024
-- Several Components are Rendering A Client Performance at Slack Scale - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=pf_4FQR_xtc)
-- Speed Design - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=uPjJtPPiQyo)
-- We Love LoAF and INP - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=_EMdFzLRkLM)
-- Flexible Architectures for Web Performance - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=aIfB12cQW9A)
-- Font Performance - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=Q_Vqpul5uIY)
-- Aiming for the Stars | Annie Sullivan | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=ORg88SshSEQ)
-- Unpacking Bundling | Daniel Roe | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=HxenDhBircw)
-- Bloomberg Becomes Browser | Jason Williams & Paul Williams | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=y1MCLZm8yAY)
-- INP Case Studies | Erwin Hofman & Karlijn Löwik | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=whgZ8PTh82M)
-- Performance Mistakes-an HTTP Archive deep dive - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=PUhsonAxoGg)
-- Behind the scenes of the worlds highest converting checkout - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=M6B7rXv-4-4)
+- [English] Several Components are Rendering A Client Performance at Slack Scale - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=pf_4FQR_xtc)
+- [English] Speed Design - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=uPjJtPPiQyo)
+- [English] We Love LoAF and INP - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=_EMdFzLRkLM)
+- [English] Flexible Architectures for Web Performance - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=aIfB12cQW9A)
+- [English] Font Performance - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=Q_Vqpul5uIY)
+- [English] Aiming for the Stars | Annie Sullivan | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=ORg88SshSEQ)
+- [English] Unpacking Bundling | Daniel Roe | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=HxenDhBircw)
+- [English] Bloomberg Becomes Browser | Jason Williams & Paul Williams | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=y1MCLZm8yAY)
+- [English] INP Case Studies | Erwin Hofman & Karlijn Löwik | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=whgZ8PTh82M)
+- [English] Performance Mistakes-an HTTP Archive deep dive - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=PUhsonAxoGg)
+- [English] Behind the scenes of the worlds highest converting checkout - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=M6B7rXv-4-4)
 
 ## 2023
 - Preload v Early Hints v Fetch Priority - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=sbjbS3P0P84)
