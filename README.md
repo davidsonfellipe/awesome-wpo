@@ -113,6 +113,8 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Events
 
+> Because community matters!
+
 ### Conferences
 
 - [We Love Speed](https://www.welovespeed.com/2024/) - Born from the desire to share knowledge and experiences in web performance as widely as possible.
