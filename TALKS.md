@@ -88,15 +88,15 @@
 - [Portuguese] Performance em jQuery apps (2012) - by Davidson Fellipe ~ [slides](https://www.slideshare.net/davidsonfellipe/jqueryperf)
 
 ## Undated
-- Web performance made easy (Google I/O '18) - by Ewa Gasperowicz, Addy Osmani ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
-- The Future of Loading on the Web (Chrome Dev Summit 2017) - by Sam Saccone ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
-- Site Performance Optimization - The Critical Rendering Path - by Udacity ~ [course](https://www.udacity.com/course/website-performance-optimization--ud884)
-- Web Components Can’t Save Us. (But You Can!) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=kIvcGlGO_h0)
-- Custom Performance Metrics - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n9fwfuaa6aQ)
-- How Dotdash Meredith team approaches INP - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=X_KEa_MW4pg)
-- Discovering the next big performance opportunities - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=Ln3YQ-hPITo)
-- WebPageTest Opportunities and Experiments - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=ikrIygVsF9I)
-- Sub second page load on mobile using intelligent prefetching - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=mBx6Zl91AsA)
+- [English] Web performance made easy (Google I/O '18) - by Ewa Gasperowicz, Addy Osmani ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+- [English] The Future of Loading on the Web (Chrome Dev Summit 2017) - by Sam Saccone ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
+- [English] Site Performance Optimization - The Critical Rendering Path - by Udacity ~ [course](https://www.udacity.com/course/website-performance-optimization--ud884)
+- [English] Web Components Can’t Save Us. (But You Can!) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=kIvcGlGO_h0)
+- [English] Custom Performance Metrics - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n9fwfuaa6aQ)
+- [English] How Dotdash Meredith team approaches INP - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=X_KEa_MW4pg)
+- [English] Discovering the next big performance opportunities - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=Ln3YQ-hPITo)
+- [English] WebPageTest Opportunities and Experiments - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=ikrIygVsF9I)
+- [English] Sub second page load on mobile using intelligent prefetching - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=mBx6Zl91AsA)
 
 # Contributing
 
