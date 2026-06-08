@@ -3,9 +3,9 @@
 > Talks about Web Performance Optimization
 
 ## 2026
-- The Hidden Performance Cost of Web Videos - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=unULkn9LuvE)
-- Ad-Supported Sites Without the Slowdown - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n_8YawtKSSk)
-- Frameworks for humans in the age of machines - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=SmHgtyym6OA)
+- [English] The Hidden Performance Cost of Web Videos - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=unULkn9LuvE)
+- [English] Ad-Supported Sites Without the Slowdown - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n_8YawtKSSk)
+- [English] Frameworks for humans in the age of machines - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=SmHgtyym6OA)
 
 ## 2025
 - 7 Levels of a Web Performance Journey - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=tFzMOee0ymw)
