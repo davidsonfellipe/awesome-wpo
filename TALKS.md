@@ -55,9 +55,9 @@
 - Digging into Interaction to Next Paint - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=bDJB-AQDciE)
 
 ## 2022
-- Priority Hints - What Your Browser Doesn’t Know (Yet) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=KRoyFrfEALQ)
-- Lies, damn lies, and performance studies - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=H9BttSU-bqg)
-- Performance Testing using Playwright - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=IrK-XDH72bw)
+- [English] Priority Hints - What Your Browser Doesn’t Know (Yet) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=KRoyFrfEALQ)
+- [English] Lies, damn lies, and performance studies - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=H9BttSU-bqg)
+- [English] Performance Testing using Playwright - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=IrK-XDH72bw)
 
 ## 2021
 - [Portuguese] The Road to Web Performance Culture - Rafael Verger - BrazilJS CONF 2021 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=Xmlg6g9dTPM)
