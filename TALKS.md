@@ -73,8 +73,8 @@
 - Improving game performance on the Web - Nick Desaulniers - BrazilJS 2015 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=XvoBR9K3ZmE)
 
 ### 2014
-- Critical Rendering Path (2014) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
-- Delivering the goods (2014) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
+- Critical Rendering Path (2014, in Portuguese) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
+- Delivering the goods (2014, in Portuguese) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
 - CSS Performance Tooling (2014) - by Addy Osmani ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
 - O melhor da monitoração de Web Performance (2014, in Portuguese) - by Davidson Fellipe ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
