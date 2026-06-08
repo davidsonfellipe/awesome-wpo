@@ -67,6 +67,7 @@
 
 ## 2016
 - Desafios práticos de performance Web - Sérgio Lopes - BrazilJS Conf 2016 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=EMCBd3kw4zs)
+- Performance and Web Typography - Helen Holmes - BrazilJS Conf 2016 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=2fgNFRN4q6g)
 
 ## 2015
 - Improving game performance on the Web - Nick Desaulniers - BrazilJS 2015 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=XvoBR9K3ZmE)
