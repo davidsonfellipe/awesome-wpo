@@ -338,6 +338,7 @@ Here's a quick overview of the categories covered in this collection:
 - [puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - Collect web performance metrics in Puppeteer scripts.
 - [WebPageTest API Wrapper for Node.js](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 - [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
+- [SiteRacer](https://siteracer.com) - Free, no-signup tool to compare your website's speed (TTFB and page size) side-by-side against up to three competitors, with hosting, CDN and caching detection plus prioritized recommendations.
 
 ## Minifiers
 
