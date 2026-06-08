@@ -12,6 +12,7 @@
 
 - [Teaching Agents about Performance Insights](https://calendar.perfplanet.com/2025/teaching-agents-about-performance-insights/) - by Vinicius Dallacqua
 - [7 Steps of a Web Performance Journey](https://calendar.perfplanet.com/2025/7-steps-of-a-web-performance-journey/) - by Sergey Chernyshev, Eric Goldstein, Alexander Chernyshev
+- [Chrome DevTools for Debugging Web Performance](https://calendar.perfplanet.com/2025/chrome-devtools-for-debugging-web-performance/) - by Joan León
 - [How We Reduced Text Input Lag to Improve Web Performance: A Grammarly Case Study](https://www.grammarly.com/blog/engineering/reducing-text-input-lag/) - by Ankit Ahuja, Taras Polovyi
 - [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
 - [Third Parties and Single Points of Failure](https://paulcalvano.com/2025-12-29-third-parties-and-single-points-of-failure/) - by Paul Calvano
