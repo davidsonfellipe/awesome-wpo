@@ -17,12 +17,14 @@ path: /articles/
 
 ## 2025
 
+- [How We Reduced Text Input Lag to Improve Web Performance: A Grammarly Case Study](https://www.grammarly.com/blog/engineering/reducing-text-input-lag/) - by Ankit Ahuja, Taras Polovyi
 - [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
 - [Third Parties and Single Points of Failure](https://paulcalvano.com/2025-12-29-third-parties-and-single-points-of-failure/) - by Paul Calvano
 
 ## 2024
 
 - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8) - by The New York Times
+- [Designed for delight, built for performance: The journey of pragmatic drag and drop](https://www.atlassian.com/blog/design/designed-for-delight-built-for-performance) - by Alex Reardon, Lewis Healey, Melissa Jaén, Maria Christley
 
 ## 2022
 
