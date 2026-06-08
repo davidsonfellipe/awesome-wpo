@@ -87,7 +87,7 @@
 
 ### 2014
 - [Portuguese] Critical Rendering Path (2014) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
-- [Portuguese] Delivering the goods (2014) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
+- [English] Delivering the goods (2014) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
 - [English] CSS Performance Tooling (2014) - by Addy Osmani ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
 - [Portuguese] O melhor da monitoração de Web Performance (2014) - by Davidson Fellipe ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
