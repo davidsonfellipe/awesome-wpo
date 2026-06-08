@@ -48,11 +48,11 @@
 - [English] Behind the scenes of the worlds highest converting checkout - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=M6B7rXv-4-4)
 
 ## 2023
-- Preload v Early Hints v Fetch Priority - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=sbjbS3P0P84)
-- Optimizing Ads - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=t7hHrGI4tJA)
-- Dotdash Meredith's culture of performance monitoring and optimization - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=ZYEkDjiEOI4)
-- Improving performance for 3 million sites - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=yW_4A4pTPA4)
-- Digging into Interaction to Next Paint - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=bDJB-AQDciE)
+- [English] Preload v Early Hints v Fetch Priority - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=sbjbS3P0P84)
+- [English] Optimizing Ads - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=t7hHrGI4tJA)
+- [English] Dotdash Meredith's culture of performance monitoring and optimization - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=ZYEkDjiEOI4)
+- [English] Improving performance for 3 million sites - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=yW_4A4pTPA4)
+- [English] Digging into Interaction to Next Paint - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=bDJB-AQDciE)
 
 ## 2022
 - [English] Priority Hints - What Your Browser Doesn’t Know (Yet) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=KRoyFrfEALQ)
