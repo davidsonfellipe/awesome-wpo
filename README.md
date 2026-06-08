@@ -62,11 +62,11 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Articles
 
-> Go to [ARTICLES.md](content/ARTICLES.md).
+> Go to [ARTICLES.md](ARTICLES.md).
 
 ## Blogs
 
-> Go to [BLOGS](content/BLOGS.md).
+> Go to [BLOGS](BLOGS.md).
 
 ## Books
 
@@ -126,11 +126,11 @@ Here's a quick overview of the categories covered in this collection:
 
 ### Meetups
 
-> They are categorized into [content/MEETUPS.md](content/MEETUPS.md).
+> They are categorized into [MEETUPS.md](MEETUPS.md).
 
 ## Talks
 
-> They are categorized into [content/TALKS.md](content/TALKS.md).
+> They are categorized into [TALKS.md](TALKS.md).
 
 ## Tools
 
