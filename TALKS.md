@@ -85,7 +85,7 @@
 - Performance Tooling (2013) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
 
 ### 2012
-- Performance em jQuery apps (2012) - by Davidson Fellipe ~ [slides](https://www.slideshare.net/davidsonfellipe/jqueryperf)
+- Performance em jQuery apps (2012, in Portuguese) - by Davidson Fellipe ~ [slides](https://www.slideshare.net/davidsonfellipe/jqueryperf)
 
 ## Undated
 - Web performance made easy (Google I/O '18) - by Ewa Gasperowicz, Addy Osmani ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
