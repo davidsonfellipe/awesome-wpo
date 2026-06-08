@@ -1,10 +1,3 @@
----
-title: Articles
-author: Davidson Fellipe
-layout: post
-path: /meetups/
----
-
 # Meetups
 
 > Meetups about Web Performance Optimization
