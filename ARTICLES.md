@@ -1,10 +1,3 @@
----
-title: Articles
-author: Davidson Fellipe
-layout: post
-path: /articles/
----
-
 # Articles
 
 > Articles about Web Performance Optimization

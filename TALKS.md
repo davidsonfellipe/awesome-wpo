@@ -1,10 +1,3 @@
----
-title: Talks
-author: Davidson Fellipe
-layout: post
-path: /talks/
----
-
 # Talks
 
 > Talks about Web Performance Optimization

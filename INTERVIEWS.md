@@ -1,10 +1,3 @@
----
-title: Inverviews
-author: Davidson Fellipe
-layout: post
-path: /inverviews/
----
-
 # Inverviews
 
 > Interviews from the SPDY STREAM playlist
