@@ -59,6 +59,9 @@
 - Lies, damn lies, and performance studies - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=H9BttSU-bqg)
 - Performance Testing using Playwright - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=IrK-XDH72bw)
 
+## 2020
+- Core Web Vitals - What and how? - Ben Morss - 2020 ~ [video](https://www.youtube.com/watch?v=M_67ScoxYJY)
+
 ## 2016
 - Desafios práticos de performance Web - Sérgio Lopes - BrazilJS Conf 2016 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=EMCBd3kw4zs)
 
