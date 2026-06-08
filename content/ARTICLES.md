@@ -24,6 +24,10 @@ path: /articles/
 
 - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8) - by The New York Times
 
+## 2022
+
+- [DoorDash's Lessons on Improving Performance on High-Traffic Web Pages](https://careersatdoordash.com/blog/doordashs-lessons-on-improving-performance-on-high-traffic-web-pages/) - by Paipo Tang, David Nguyen
+
 ## 2020
 
 - [How to run a WebPageTest test](https://nooshu.github.io/blog/2020/12/31/how-to-run-a-webpagetest-test/) - by Matt Hobbs
@@ -37,6 +41,10 @@ path: /articles/
 ## 2018
 
 - [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/) - by Philip Walton
+
+## 2017
+
+- [Building m.uber: Engineering a High-Performance Web App for the Global Market](https://www.uber.com/us/en/blog/m-uber/) - by Angus Croll
 
 ## 2014
 - [Getting started with the Picture Element](http://deanhume.com/getting-started-with-the-picture-element/) - by Dean Hume
