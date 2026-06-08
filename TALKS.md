@@ -79,7 +79,7 @@
 - [Portuguese] O melhor da monitoração de Web Performance (2014) - by Davidson Fellipe ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
 ### 2013
-- Jank Free: Chrome Rendering Performance (2013) - by Nat Duca and Tom Wiltzius ~ [video](https://www.youtube.com/watch?v=n8ep4leoN9A)
+- [English] Jank Free: Chrome Rendering Performance (2013) - by Nat Duca and Tom Wiltzius ~ [video](https://www.youtube.com/watch?v=n8ep4leoN9A)
 - [Spanish] Curso WPO - Web Performance Optimization - by Pablo Martinez ~ [slides](https://www.slideshare.net/pablomartinezfernandez/curso-wpopol)
 - A developer's guide to rendering performance (2013) - by Paul Lewis ~ [video](https://vimeo.com/77591536) / [slides](https://speakerdeck.com/paullewis/a-developers-guide-to-rendering-performance)
 - Performance Tooling (2013) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
