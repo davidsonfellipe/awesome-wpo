@@ -103,6 +103,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 - [Chrome Developers: Performance](https://developer.chrome.com/docs/performance/) - Deep guides on rendering, loading, and runtime performance.
 - [Lighthouse Docs](https://developer.chrome.com/docs/lighthouse/) - Audit methodology, scoring details, and usage guidance.
+- [Code Splitting (Webpack)](https://webpack.js.org/guides/code-splitting/) - Official guide to splitting JavaScript bundles for faster initial load and on-demand loading.
 - [Navigation Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) - Page navigation and load milestone metrics.
 - [Navigation Timing Level 2 (W3C)](https://www.w3.org/TR/navigation-timing-2/) - Use `responseStart` and `requestStart` to derive Time to First Byte (TTFB).
 - [Resource Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API) - Detailed network timing for assets.
@@ -299,6 +300,7 @@ Here's a quick overview of the categories covered in this collection:
 - [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
 - [Optimizt](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 - [ResponsiveImage](https://responsive-image.dev/) - Generate optimized images (WebP, AVIF) and LQIP placeholders using Vite or Webpack plugins and render responsive image markup with an image component for multiple frameworks.
+- [Adaptive Images](https://adaptive-images.com/) - Server-side PHP tool that detects screen size and automatically creates, caches, and delivers device-appropriate resized images from existing `<img>` markup.
 
 ## Lazyloaders
 
@@ -377,6 +379,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
 - [Csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
 - [Lazysizes](https://github.com/aFarkas/lazysizes) - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data by virtualizing visible rows.
 - [TMI](https://github.com/addyosmani/tmi) - Too Many Images: discover your image weight on the web.
 
 ## SVG

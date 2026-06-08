@@ -18,9 +18,11 @@
 - [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
 - [Third Parties and Single Points of Failure](https://paulcalvano.com/2025-12-29-third-parties-and-single-points-of-failure/) - by Paul Calvano
 - [Improving performance by prefetching product pages from Etsy Search](https://www.etsy.com/codeascraft/search-prefetching-performance) - by David Weinzimmer, Stoyan Stefanov
+- [How We Achieved 75% Faster Builds by Removing Barrel Files](https://www.atlassian.com/blog/atlassian-engineering/faster-builds-when-removing-barrel-files) - by Tim Sebastian
 
 ## 2024
 
+- [Better Code Rendering Through Virtualization](https://blog.sentry.io/better-code-rendering-through-virtualization/) - by Nicholas Deschenes
 - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8) - by The New York Times
 - [Designed for delight, built for performance: The journey of pragmatic drag and drop](https://www.atlassian.com/blog/design/designed-for-delight-built-for-performance) - by Alex Reardon, Lewis Healey, Melissa Jaén, Maria Christley
 
