@@ -31,6 +31,10 @@
 - [From Development to Real Users: How to Create a Web Performance Story](https://engineering.atspotify.com/2022/09/from-development-to-real-users-how-to-create-a-web-performance-story) - by Vinicius Teixeira Dallacqua
 - [DoorDash's Lessons on Improving Performance on High-Traffic Web Pages](https://careersatdoordash.com/blog/doordashs-lessons-on-improving-performance-on-high-traffic-web-pages/) - by Paipo Tang, David Nguyen
 
+## 2021
+
+- [The Vitality of Core Web Vitals](https://shopify.engineering/core-web-vitals) - by Laura Silvanavičiūtė
+
 ## 2020
 
 - [How to run a WebPageTest test](https://nooshu.github.io/blog/2020/12/31/how-to-run-a-webpagetest-test/) - by Matt Hobbs
