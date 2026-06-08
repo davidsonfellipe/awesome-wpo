@@ -13,8 +13,6 @@ Welcome to the curated list of Web Performance Optimization resources. This repo
 
 :memo: [Awesome WPO / Articles](#articles)
 
-:newspaper: [Awesome WPO / Blogs](#blogs)
-
 :books: [Awesome WPO / Books](#books)
 
 :book: [Awesome WPO / Docs](#documentation)
@@ -67,10 +65,6 @@ Here's a quick overview of the categories covered in this collection:
 ## Articles
 
 > Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [ARTICLES.md](ARTICLES.md).
-
-## Blogs
-
-> Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [BLOGS.md](BLOGS.md).
 
 ## Books
 
