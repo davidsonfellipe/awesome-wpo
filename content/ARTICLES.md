@@ -9,33 +9,62 @@ path: /articles/
 
 > Articles about Web Performance Optimization
 
-- [10 JavaScript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas) - by Nicholas C. Zakas
-- [Getting started with the Picture Element](http://deanhume.com/getting-started-with-the-picture-element/) - by Dean Hume
-- [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/improve-page-load-times-with-dns-prefetching/) - by Dean Hume
-- [JavaScript Memory Profiling](https://developers.google.com/web/tools/chrome-devtools/memory-problems?utm_campaign=2016q3&utm_medium=redirect&utm_source=dcc) - by Google
-- [Loading webfonts with high performance on responsive sites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) - by Adam Beres-Deak
-- [Performance As Design](https://bradfrost.com/blog/post/performance-as-design/) - by Brad Frost
-- [Preventing 'layout thrashing'](http://wilsonpage.co.uk/preventing-layout-thrashing/) - by Wilson Page
-- [Total deferring of JavaScript Parsing](https://varvy.com/pagespeed/defer-loading-javascript.html) - by Patrick Sexton
-- [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/) - by Ilya Grigorik
-- [Web Page Performance - Profiling paint times](http://www.deanhume.com/web-page-performance-profiling-paint-times/) - by Dean Hume
-- [Forget Google and Use These Hosted JavaScript Libraries in China](https://chineseseoshifu.com/blog/china-hosted-javascript-libraries-jquery-dojo-boostrap.html) - by Ryan
-- [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/) - by Philip Walton
-- [Measure Performance in JavaScript](https://medium.com/@prasanna18101994/measure-performance-in-javascript-254ad738669c) - by Prasanna Brabourame
+## 2026
+
+- [Serving Static Content with Cloud Storage? Don't Forget the CDN!](https://paulcalvano.com/2026-02-09-serving-static-content-with-cloud-storage-dont-forget-the-cdn/) - by Paul Calvano
+- [Introducing Waterfall Tools](https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools/) - by Patrick Meenan
+- [How to use standard HTML video and audio lazy loading on the web today](https://engineering.squarespace.com/blog/2026/how-to-use-standard-html-video-and-audio-lazy-loading-on-the-web-today) - by Squarespace Engineering
+
+## 2025
+
+- [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
+- [Third Parties and Single Points of Failure](https://paulcalvano.com/2025-12-29-third-parties-and-single-points-of-failure/) - by Paul Calvano
+
+## 2024
+
+- [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8) - by The New York Times
+
+## 2020
+
 - [How to run a WebPageTest test](https://nooshu.github.io/blog/2020/12/31/how-to-run-a-webpagetest-test/) - by Matt Hobbs
+- [WebPageTest comparison URL generator](https://nooshu.github.io/blog/2020/04/22/webpagetest-comparison-url-generator/) - by Matt Hobbs
+
+## 2019
+
 - [How to read a WebPageTest Waterfall View chart](https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/) - by Matt Hobbs
 - [How to read a WebPageTest Connection View chart](https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/) - by Matt Hobbs
-- [WebPageTest comparison URL generator](https://nooshu.github.io/blog/2020/04/22/webpagetest-comparison-url-generator/) - by Matt Hobbs
+
+## 2018
+
+- [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/) - by Philip Walton
+
+## 2014
+- [Getting started with the Picture Element](http://deanhume.com/getting-started-with-the-picture-element/) - by Dean Hume
+- [Loading webfonts with high performance on responsive sites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) - by Adam Beres-Deak
+
+## 2013
+
+- [Web Page Performance - Profiling paint times](http://www.deanhume.com/web-page-performance-profiling-paint-times/) - by Dean Hume
+- [Preventing 'layout thrashing'](https://wilsonpage.uk/preventing-layout-thrashing/) - by Wilson Page
+- [Performance As Design](https://bradfrost.com/blog/post/performance-as-design/) - by Brad Frost
+
+## 2012
+
+- [Web Fonts Performance: Making Pretty, Fast](https://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/) - by Ilya Grigorik
 - [Jank busting for better rendering performance](https://web.dev/articles/speed-rendering) - by Tom Wiltzius
+- [Improve Page Load Times With DNS Prefetching](http://www.deanhume.com/improve-page-load-times-with-dns-prefetching/) - by Dean Hume
+
+
+## 2010
+
+- [10 JavaScript Performance Boosting Tips](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas) - by Nicholas C. Zakas
+
+## Undated
+
 - [Fast](https://web.dev/fast/) - by web.dev
 - [Optimize LCP](https://web.dev/optimize-lcp/) - by web.dev
 - [Optimize CLS](https://web.dev/optimize-cls/) - by web.dev
 - [Optimize INP](https://web.dev/optimize-inp/) - by web.dev
-- [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
-- [Third Parties and Single Points of Failure](https://paulcalvano.com/2025-12-29-third-parties-and-single-points-of-failure/) - by Paul Calvano
-- [Serving Static Content with Cloud Storage? Don't Forget the CDN!](https://paulcalvano.com/2026-02-09-serving-static-content-with-cloud-storage-dont-forget-the-cdn/) - by Paul Calvano
-- [Introducing Waterfall Tools](https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools/) - by Patrick Meenan
-- [How to use standard HTML video and audio lazy loading on the web today](https://engineering.squarespace.com/blog/2026/how-to-use-standard-html-video-and-audio-lazy-loading-on-the-web-today) - by Squarespace Engineering
 
 # Contributing
 
