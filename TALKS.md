@@ -60,7 +60,7 @@
 - Performance Testing using Playwright - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=IrK-XDH72bw)
 
 ## 2021
-- The Road to Web Performance Culture - Rafael Verger - BrazilJS CONF 2021 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=Xmlg6g9dTPM)
+- The Road to Web Performance Culture - Rafael Verger - BrazilJS CONF 2021 (in Portuguese) - by BrazilJS ~ [video](https://www.youtube.com/watch?v=Xmlg6g9dTPM)
 
 ## 2020
 - Core Web Vitals - What and how? - Ben Morss - 2020 ~ [video](https://www.youtube.com/watch?v=M_67ScoxYJY)
