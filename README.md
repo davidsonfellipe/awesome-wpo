@@ -145,6 +145,7 @@ Here's a quick overview of the categories covered in this collection:
 - [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
 - [DebugBear](https://www.debugbear.com/) - Site monitoring based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. Paid product with a free 30-day trial.
 - [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
+- [Lighthouse-MD](https://lighthouse-md.com/) - Turn a PageSpeed Insights audit into a structured CLAUDE.md fix brief for Claude Code, with failing audits, offenders, prescriptive fixes, and a do-not-regress list.
 - [Dareboost](https://www.dareboost.com/) - [Multi-audit] Website quality testing across performance, accessibility, SEO, and security best practices.
 - [Screpy](https://screpy.com) - [Multi-audit] AI-based performance, SEO, uptime, and quality monitoring.
 - [YSlow](https://github.com/marcelduran/yslow) - Analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
