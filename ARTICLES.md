@@ -7,6 +7,7 @@
 - [Serving Static Content with Cloud Storage? Don't Forget the CDN!](https://paulcalvano.com/2026-02-09-serving-static-content-with-cloud-storage-dont-forget-the-cdn/) - by Paul Calvano
 - [Introducing Waterfall Tools](https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools/) - by Patrick Meenan
 - [How to use standard HTML video and audio lazy loading on the web today](https://engineering.squarespace.com/blog/2026/how-to-use-standard-html-video-and-audio-lazy-loading-on-the-web-today) - by Squarespace Engineering
+- [Lighthouse Agentic Browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) - by Chrome for Developers
 
 ## 2025
 
@@ -16,6 +17,7 @@
 - [How We Reduced Text Input Lag to Improve Web Performance: A Grammarly Case Study](https://www.grammarly.com/blog/engineering/reducing-text-input-lag/) - by Ankit Ahuja, Taras Polovyi
 - [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
 - [Third Parties and Single Points of Failure](https://paulcalvano.com/2025-12-29-third-parties-and-single-points-of-failure/) - by Paul Calvano
+- [Improving performance by prefetching product pages from Etsy Search](https://www.etsy.com/codeascraft/search-prefetching-performance) - by David Weinzimmer, Stoyan Stefanov
 
 ## 2024
 

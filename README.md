@@ -103,7 +103,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 - [Chrome Developers: Performance](https://developer.chrome.com/docs/performance/) - Deep guides on rendering, loading, and runtime performance.
 - [Lighthouse Docs](https://developer.chrome.com/docs/lighthouse/) - Audit methodology, scoring details, and usage guidance.
-- [Lighthouse Agentic Browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) - How the experimental Agentic Browsing category is evaluated (pass ratio, WebMCP, accessibility tree, CLS, llms.txt).
 - [Navigation Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) - Page navigation and load milestone metrics.
 - [Navigation Timing Level 2 (W3C)](https://www.w3.org/TR/navigation-timing-2/) - Use `responseStart` and `requestStart` to derive Time to First Byte (TTFB).
 - [Resource Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API) - Detailed network timing for assets.
