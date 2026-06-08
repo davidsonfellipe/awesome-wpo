@@ -60,23 +60,23 @@
 - Performance Testing using Playwright - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=IrK-XDH72bw)
 
 ## 2021
-- The Road to Web Performance Culture - Rafael Verger - BrazilJS CONF 2021 (in Portuguese) - by BrazilJS ~ [video](https://www.youtube.com/watch?v=Xmlg6g9dTPM)
+- [Portuguese] The Road to Web Performance Culture - Rafael Verger - BrazilJS CONF 2021 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=Xmlg6g9dTPM)
 
 ## 2020
 - Core Web Vitals - What and how? - Ben Morss - 2020 ~ [video](https://www.youtube.com/watch?v=M_67ScoxYJY)
 
 ## 2016
-- Desafios práticos de performance Web - Sérgio Lopes - BrazilJS Conf 2016 (in Portuguese) - by BrazilJS ~ [video](https://www.youtube.com/watch?v=EMCBd3kw4zs)
+- [Portuguese] Desafios práticos de performance Web - Sérgio Lopes - BrazilJS Conf 2016 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=EMCBd3kw4zs)
 - Performance and Web Typography - Helen Holmes - BrazilJS Conf 2016 (in English) - by BrazilJS ~ [video](https://www.youtube.com/watch?v=2fgNFRN4q6g)
 
 ## 2015
 - Improving game performance on the Web - Nick Desaulniers - BrazilJS 2015 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=XvoBR9K3ZmE)
 
 ### 2014
-- Critical Rendering Path (2014, in Portuguese) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
-- Delivering the goods (2014, in Portuguese) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
+- [Portuguese] Critical Rendering Path (2014) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
+- [Portuguese] Delivering the goods (2014) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
 - CSS Performance Tooling (2014) - by Addy Osmani ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
-- O melhor da monitoração de Web Performance (2014, in Portuguese) - by Davidson Fellipe ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
+- [Portuguese] O melhor da monitoração de Web Performance (2014) - by Davidson Fellipe ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
 ### 2013
 - Jank Free: Chrome Rendering Performance (2013) - by Nat Duca and Tom Wiltzius ~ [video](https://www.youtube.com/watch?v=n8ep4leoN9A)
@@ -85,7 +85,7 @@
 - Performance Tooling (2013) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=HAqjyCH_LOE)
 
 ### 2012
-- Performance em jQuery apps (2012, in Portuguese) - by Davidson Fellipe ~ [slides](https://www.slideshare.net/davidsonfellipe/jqueryperf)
+- [Portuguese] Performance em jQuery apps (2012) - by Davidson Fellipe ~ [slides](https://www.slideshare.net/davidsonfellipe/jqueryperf)
 
 ## Undated
 - Web performance made easy (Google I/O '18) - by Ewa Gasperowicz, Addy Osmani ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
