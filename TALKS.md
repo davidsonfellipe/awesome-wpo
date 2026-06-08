@@ -59,6 +59,9 @@
 - Lies, damn lies, and performance studies - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=H9BttSU-bqg)
 - Performance Testing using Playwright - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=IrK-XDH72bw)
 
+## 2016
+- Desafios práticos de performance Web - Sérgio Lopes - BrazilJS Conf 2016 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=EMCBd3kw4zs)
+
 ## 2015
 - Improving game performance on the Web - Nick Desaulniers - BrazilJS 2015 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=XvoBR9K3ZmE)
 
