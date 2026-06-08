@@ -16,6 +16,9 @@ If you want to master the art of Website Performance Optimization (WPO), check o
 1. [Designing Websites for Performance](https://www.linkedin.com/learning/designing-websites-for-performance)
 2. [HTTP/2: Developing for Performance](https://www.linkedin.com/learning/developing-for-web-performance)
 
+### [Udacity]
+1. [Site Performance Optimization - The Critical Rendering Path](https://www.udacity.com/course/website-performance-optimization--ud884)
+
 These courses cover a range of essential topics to optimize your website's performance. Whether you're interested in speed optimization, image handling, or monitoring real-world web performance, these courses have got you covered. Happy learning!
 
 Note: This listing has no affiliation with the companies and teachers of the courses.

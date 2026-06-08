@@ -33,6 +33,7 @@
 - [English] Improving Web Responsiveness - Andrea Verlicchi - performance.sync 2025 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=HSLLBUXuu08)
 - [English] Form control styling - Tim Nguyen - CSS Day 2025 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=WgSiqSqxTxw)
 - [English] Multicol and fragmentation - Rachel Andrew - CSS Day 2025 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=NfwDP9shxNQ)
+- [English] Web Components Can’t Save Us. (But You Can!) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=kIvcGlGO_h0)
 
 ## 2024
 - [English] Several Components are Rendering A Client Performance at Slack Scale - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=pf_4FQR_xtc)
@@ -46,6 +47,8 @@
 - [English] INP Case Studies | Erwin Hofman & Karlijn Löwik | performance.now() 2024 - by Web Conferences Amsterdam ~ [video](https://www.youtube.com/watch?v=whgZ8PTh82M)
 - [English] Performance Mistakes-an HTTP Archive deep dive - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=PUhsonAxoGg)
 - [English] Behind the scenes of the worlds highest converting checkout - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=M6B7rXv-4-4)
+- [English] How Dotdash Meredith team approaches INP - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=X_KEa_MW4pg)
+- [English] Custom Performance Metrics - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n9fwfuaa6aQ)
 
 ## 2023
 - [English] Preload v Early Hints v Fetch Priority - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=sbjbS3P0P84)
@@ -58,6 +61,10 @@
 - [English] Priority Hints - What Your Browser Doesn’t Know (Yet) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=KRoyFrfEALQ)
 - [English] Lies, damn lies, and performance studies - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=H9BttSU-bqg)
 - [English] Performance Testing using Playwright - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=IrK-XDH72bw)
+- [English] Discovering the next big performance opportunities - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=Ln3YQ-hPITo)
+- [English] Discovering the next big performance opportunities - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=Ln3YQ-hPITo)
+- [English] WebPageTest Opportunities and Experiments - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=ikrIygVsF9I)
+- [English] Sub second page load on mobile using intelligent prefetching - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=mBx6Zl91AsA)
 
 ## 2021
 - [Portuguese] The Road to Web Performance Culture - Rafael Verger - BrazilJS CONF 2021 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=Xmlg6g9dTPM)
@@ -92,15 +99,6 @@
 
 ### 2012
 - [Portuguese] Performance em jQuery apps (2012) - by Davidson Fellipe ~ [slides](https://www.slideshare.net/davidsonfellipe/jqueryperf)
-
-## Undated
-- [English] Site Performance Optimization - The Critical Rendering Path - by Udacity ~ [course](https://www.udacity.com/course/website-performance-optimization--ud884)
-- [English] Web Components Can’t Save Us. (But You Can!) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=kIvcGlGO_h0)
-- [English] Custom Performance Metrics - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n9fwfuaa6aQ)
-- [English] How Dotdash Meredith team approaches INP - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=X_KEa_MW4pg)
-- [English] Discovering the next big performance opportunities - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=Ln3YQ-hPITo)
-- [English] WebPageTest Opportunities and Experiments - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=ikrIygVsF9I)
-- [English] Sub second page load on mobile using intelligent prefetching - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=mBx6Zl91AsA)
 
 # Contributing
 
