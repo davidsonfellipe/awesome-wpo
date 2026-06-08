@@ -17,6 +17,7 @@
 - [How We Reduced Text Input Lag to Improve Web Performance: A Grammarly Case Study](https://www.grammarly.com/blog/engineering/reducing-text-input-lag/) - by Ankit Ahuja, Taras Polovyi
 - [Core Web Vitals](https://addyosmani.com/blog/core-web-vitals/) - by Addy Osmani
 - [Third Parties and Single Points of Failure](https://paulcalvano.com/2025-12-29-third-parties-and-single-points-of-failure/) - by Paul Calvano
+- [Improving performance by prefetching product pages from Etsy Search](https://www.etsy.com/codeascraft/search-prefetching-performance) - by David Weinzimmer, Stoyan Stefanov
 
 ## 2024
 
