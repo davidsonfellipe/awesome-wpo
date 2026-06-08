@@ -76,6 +76,7 @@
 - Critical Rendering Path (2014) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
 - Delivering the goods (2014) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
 - CSS Performance Tooling (2014) - by Addy Osmani ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
+- O melhor da monitoração de Web Performance (2014, in Portuguese) - by Davidson Fellipe ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
 ### 2013
 - Jank Free: Chrome Rendering Performance (2013) - by Nat Duca and Tom Wiltzius ~ [video](https://www.youtube.com/watch?v=n8ep4leoN9A)
@@ -89,7 +90,6 @@
 ## Undated
 - Web performance made easy (Google I/O '18) - by Ewa Gasperowicz, Addy Osmani ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 - The Future of Loading on the Web (Chrome Dev Summit 2017) - by Sam Saccone ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
-- O melhor da monitoração de Web Performance (2014) - by Davidson Fellipe ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 - Site Performance Optimization - The Critical Rendering Path - by Udacity ~ [course](https://www.udacity.com/course/website-performance-optimization--ud884)
 - Web Components Can’t Save Us. (But You Can!) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=kIvcGlGO_h0)
 - Custom Performance Metrics - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n9fwfuaa6aQ)
