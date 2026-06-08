@@ -63,19 +63,25 @@
 - [Portuguese] The Road to Web Performance Culture - Rafael Verger - BrazilJS CONF 2021 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=Xmlg6g9dTPM)
 
 ## 2020
-- Core Web Vitals - What and how? - Ben Morss - 2020 ~ [video](https://www.youtube.com/watch?v=M_67ScoxYJY)
+- [English] Core Web Vitals - What and how? - Ben Morss - 2020 ~ [video](https://www.youtube.com/watch?v=M_67ScoxYJY)
+
+## 2018
+- [English] Web performance made easy (Google I/O '18) - by Ewa Gasperowicz, Addy Osmani ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+
+## 2017 
+- [English] The Future of Loading on the Web (Chrome Dev Summit 2017) - by Sam Saccone ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
 
 ## 2016
 - [Portuguese] Desafios práticos de performance Web - Sérgio Lopes - BrazilJS Conf 2016 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=EMCBd3kw4zs)
-- Performance and Web Typography - Helen Holmes - BrazilJS Conf 2016 (in English) - by BrazilJS ~ [video](https://www.youtube.com/watch?v=2fgNFRN4q6g)
+- [English] Performance and Web Typography - Helen Holmes - BrazilJS Conf 2016 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=2fgNFRN4q6g)
 
 ## 2015
-- Improving game performance on the Web - Nick Desaulniers - BrazilJS 2015 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=XvoBR9K3ZmE)
+- [English] Improving game performance on the Web - Nick Desaulniers - BrazilJS 2015 - by BrazilJS ~ [video](https://www.youtube.com/watch?v=XvoBR9K3ZmE)
 
 ### 2014
 - [Portuguese] Critical Rendering Path (2014) - by João Lucas P Santana ~ [slides](https://docs.google.com/presentation/d/1QbZpQklANUJn65yXdC-2uFTanK_rrjgs2YVnbw891iQ/edit?usp=sharing)
 - [Portuguese] Delivering the goods (2014) - by Paul Irish ~ [video](https://www.youtube.com/watch?v=R8W_6xWphtw) / [slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.p19)
-- CSS Performance Tooling (2014) - by Addy Osmani ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
+- [English] CSS Performance Tooling (2014) - by Addy Osmani ~ [video](https://www.youtube.com/watch?v=FEs2jgZBaQA)
 - [Portuguese] O melhor da monitoração de Web Performance (2014) - by Davidson Fellipe ~ [video](https://www.youtube.com/watch?v=mHFuWVyxcTg) / [slides](https://www.slideshare.net/davidsonfellipe/o-melhor-da-monitoracao-de-web-performance)
 
 ### 2013
@@ -88,8 +94,6 @@
 - [Portuguese] Performance em jQuery apps (2012) - by Davidson Fellipe ~ [slides](https://www.slideshare.net/davidsonfellipe/jqueryperf)
 
 ## Undated
-- [English] Web performance made easy (Google I/O '18) - by Ewa Gasperowicz, Addy Osmani ~ [video](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
-- [English] The Future of Loading on the Web (Chrome Dev Summit 2017) - by Sam Saccone ~ [video](https://www.youtube.com/watch?v=DKyHVGh666s)
 - [English] Site Performance Optimization - The Critical Rendering Path - by Udacity ~ [course](https://www.udacity.com/course/website-performance-optimization--ud884)
 - [English] Web Components Can’t Save Us. (But You Can!) - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=kIvcGlGO_h0)
 - [English] Custom Performance Metrics - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n9fwfuaa6aQ)
