@@ -7,6 +7,7 @@
 - [Serving Static Content with Cloud Storage? Don't Forget the CDN!](https://paulcalvano.com/2026-02-09-serving-static-content-with-cloud-storage-dont-forget-the-cdn/) - by Paul Calvano
 - [Introducing Waterfall Tools](https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools/) - by Patrick Meenan
 - [How to use standard HTML video and audio lazy loading on the web today](https://engineering.squarespace.com/blog/2026/how-to-use-standard-html-video-and-audio-lazy-loading-on-the-web-today) - by Squarespace Engineering
+- [Lighthouse Agentic Browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) - by Chrome for Developers
 
 ## 2025
 
@@ -68,7 +69,6 @@
 ## Undated
 
 - [Performance Calendar](https://calendar.perfplanet.com/) - by Stoyan Stefanov
-- [Lighthouse Agentic Browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) - by Chrome for Developers
 - [Fast](https://web.dev/fast/) - by web.dev
 - [Optimize LCP](https://web.dev/optimize-lcp/) - by web.dev
 - [Optimize CLS](https://web.dev/optimize-cls/) - by web.dev
