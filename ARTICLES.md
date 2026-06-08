@@ -30,6 +30,7 @@
 
 - [From Development to Real Users: How to Create a Web Performance Story](https://engineering.atspotify.com/2022/09/from-development-to-real-users-how-to-create-a-web-performance-story) - by Vinicius Teixeira Dallacqua
 - [DoorDash's Lessons on Improving Performance on High-Traffic Web Pages](https://careersatdoordash.com/blog/doordashs-lessons-on-improving-performance-on-high-traffic-web-pages/) - by Paipo Tang, David Nguyen
+- [Cloudflare Pages gets even faster with Early Hints](https://blog.cloudflare.com/early-hints-on-cloudflare-pages/) - by Greg Brimble
 
 ## 2021
 
