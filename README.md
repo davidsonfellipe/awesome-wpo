@@ -302,6 +302,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Optimizt](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 - [ResponsiveImage](https://responsive-image.dev/) - Generate optimized images (WebP, AVIF) and LQIP placeholders using Vite or Webpack plugins and render responsive image markup with an image component for multiple frameworks.
 - [Adaptive Images](https://adaptive-images.com/) - Server-side PHP tool that detects screen size and automatically creates, caches, and delivers device-appropriate resized images from existing `<img>` markup.
+- [ImageDimensions](https://imagedimensions.com/) - Scan any URL to find images larger than their rendered size, and convert PNG/JPG to WebP in the browser.
 
 ## Lazyloaders
 
