@@ -189,6 +189,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps.
 - [Bundlephobia](https://bundlephobia.com/) - Helps you find the performance impact of adding an npm package to your frontend bundle.
+- [bundle.js.org](https://bundle.js.org/) - Quick online npm package size checker.
 - [Webpack bundle analyzer](https://github.com/webpack/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
 - [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 - [Lasso-analyzer](https://github.com/pajaydev/lasso-analyzer) - Analyze and visualise project bundles created by Lasso.
@@ -354,6 +355,8 @@ Here's a quick overview of the categories covered in this collection:
 - [Minimize](https://github.com/Swaagie/minimize) - HTML minifier based on node-htmlparser; currently server-side only. Client-side minification is planned.
 - [Html-minifier](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
+- [Terser](https://github.com/terser/terser) - Modern JavaScript minifier and compressor; successor to UglifyJS with ES6+ support.
+- [SWC](https://swc.rs/) - Fast JavaScript and TypeScript compiler and minifier; significantly faster than Babel/Terser for transpilation.
 - [CSSO](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 - [Grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 - [Grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify JavaScript files.
