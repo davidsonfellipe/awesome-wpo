@@ -3,6 +3,7 @@
 > Talks about Web Performance Optimization
 
 ## 2026
+- [English] Introduction to the HTTP Archive - Paul Calvano - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=UCy6Uzy0Z54) / [slides](https://www.slideshare.net/slideshow/introduction-to-the-http-archive-ny-webperf-meetup-april-2026/287050504)
 - [English] The Hidden Performance Cost of Web Videos - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=unULkn9LuvE)
 - [English] Ad-Supported Sites Without the Slowdown - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=n_8YawtKSSk)
 - [English] Frameworks for humans in the age of machines - by NY Web Performance Meetup ~ [video](https://www.youtube.com/watch?v=SmHgtyym6OA)
