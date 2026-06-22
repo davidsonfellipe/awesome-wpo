@@ -337,6 +337,7 @@ Here's a quick overview of the categories covered in this collection:
 - [DareBoost](https://www.dareboost.com/en) - Real Browser Monitoring. Offers complete reports about web performance and quality using YSlow, Page Speed and numerous custom tips.
 - [Perfume.js](https://github.com/Zizzamia/perfume.js) - Tiny library to collect Core Web Vitals and other performance metrics from real users.
 - [puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - Collect web performance metrics in Puppeteer scripts.
+- [Telescope](https://github.com/cloudflare/telescope) - Cross-browser web performance testing CLI and library built on Playwright; collects HAR, Web Vitals, resource timing, console logs, screenshots, and filmstrip across Chrome, Firefox, Safari, and Edge.
 - [WebPageTest API Wrapper for Node.js](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 - [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
 
