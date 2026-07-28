@@ -78,10 +78,10 @@
 ## Undated
 
 - [Performance Calendar](https://calendar.perfplanet.com/) - by Stoyan Stefanov
-- [Fast](https://web.dev/fast/) - by web.dev
-- [Optimize LCP](https://web.dev/optimize-lcp/) - by web.dev
-- [Optimize CLS](https://web.dev/optimize-cls/) - by web.dev
-- [Optimize INP](https://web.dev/optimize-inp/) - by web.dev
+- [Fast](https://web.dev/explore/fast) - by web.dev
+- [Optimize LCP](https://web.dev/articles/optimize-lcp) - by web.dev
+- [Optimize CLS](https://web.dev/articles/optimize-cls) - by web.dev
+- [Optimize INP](https://web.dev/articles/optimize-inp) - by web.dev
 
 # Contributing
 
