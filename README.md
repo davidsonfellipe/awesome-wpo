@@ -353,6 +353,7 @@ Here's a quick overview of the categories covered in this collection:
 - [HTML_press](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
 - [Koa HTML Minifier](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 - [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
+- [Nutilz HTML Minifier](https://nutilz.com/html-minifier) - Free browser-based HTML minifier that strips comments and whitespace while preserving `<pre>`, `<textarea>`, `<script>`, `<style>` content and IE conditional comments; no upload, no sign-up.
 - [Minimize](https://github.com/Swaagie/minimize) - HTML minifier based on node-htmlparser; currently server-side only. Client-side minification is planned.
 - [Html-minifier](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
