@@ -279,6 +279,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Sharp](https://github.com/lovell/sharp) - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
 - [Gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for Node.js.
 - [ExifCleaner](https://exifcleaner.com) - GUI app to remove EXIF metadata from images and video files with drag and drop. Free and open source.
+- [MetaClean](https://github.com/Moresyl/metaclean) - Cross-platform desktop app that removes image metadata entirely offline with drag and drop. Free and open source.
 - [OptiPNG](https://optipng.sourceforge.net/) - PNG optimizer that recompresses image files to a smaller size without losing information.
 - [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 - [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
