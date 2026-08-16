@@ -326,6 +326,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Bench](https://github.com/jmervine/bench) - Using Phantomas (a PhantomJS-backed client performance metrics scrapper). Benchmark a page, store results in MongoDB, and display results via the built-in server.
 - [Keepfast](https://github.com/keepfast/keepfast) - Tool to monitor indicators related to the performance of a web page.
 - [GTmetrix](https://gtmetrix.com/) - Free tool to test and monitor your page's performance. Uses Lighthouse to score your pages and offers actionable recommendations on how to optimize them.
+- [ViewMend](https://viewmend.com/site-tracker) - Monitor selected pages for performance, SEO, page weight, and technical changes between checks.
 - [Pingbreak.com](https://pingbreak.com/) - Free site and SSL Monitoring with response time alerting (on Slack, Twitter, Mattermost, Discord or custom Webhook).
 - [Pingdom site Speed Test](https://tools.pingdom.com/) - Test the load time of that page, analyze it, and find bottlenecks.
 - [Dotcom-tools](https://www.dotcom-tools.com/website-speed-test) - Analyze your website's speed in real browsers from 20 locations worldwide.
