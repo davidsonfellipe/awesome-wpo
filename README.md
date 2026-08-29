@@ -394,6 +394,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Gulp-svgmin](https://www.npmjs.com/package/gulp-svgmin) - Minify SVG with SVGO for Gulp.
 - [Scour](http://www.codedread.com/scour/) - Open-source Python script that aggressively cleans SVG files, stripping cruft that tools or authors embed in documents.
 - [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - Cleans SVG files of unnecessary data with batch mode, many cleanup options, and threaded processing on multicore CPUs.
+- [Nutilz SVG Optimizer](https://nutilz.com/svg-optimizer) - Free in-browser SVG optimizer and minifier that cleans up metadata and redundant attributes to reduce SVG file size.
 
 ## Web Components
 
