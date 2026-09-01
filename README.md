@@ -147,6 +147,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
 - [Dareboost](https://www.dareboost.com/) - [Multi-audit] Website quality testing across performance, accessibility, SEO, and security best practices.
 - [Screpy](https://screpy.com) - [Multi-audit] AI-based performance, SEO, uptime, and quality monitoring.
+- [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) - [Multi-audit] MCP server/CLI giving coding agents independent QA evidence: Core Web Vitals, page weight, console errors, broken links, accessibility, SEO, security headers, cookies/trackers, and mixed content from one page load.
 - [YSlow](https://github.com/marcelduran/yslow) - Analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
 - [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuous measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
