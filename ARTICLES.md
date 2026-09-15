@@ -3,6 +3,7 @@
 > Articles about Web Performance Optimization
 
 ## 2026
+- [Core Web Vitals for marketers who don't write code](https://ankitchandra.com/blog/core-web-vitals-for-marketers) - by Ankit Chandra
 
 - [Serving Static Content with Cloud Storage? Don't Forget the CDN!](https://paulcalvano.com/2026-02-09-serving-static-content-with-cloud-storage-dont-forget-the-cdn/) - by Paul Calvano
 - [Introducing Waterfall Tools](https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools/) - by Patrick Meenan
