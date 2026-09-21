@@ -292,6 +292,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 - [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 - [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
+- [ShrinkKit](https://p32929.github.io/shrinkkit/) - Bulk compress, resize and convert a whole folder of images at once, entirely in the browser; files are never uploaded and EXIF/GPS metadata is dropped on re-encode.
 - [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [Jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
 - [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress PNG files to get the smallest possible size.
