@@ -161,6 +161,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Web Font Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/) - Inspect font loading timing, payload, and glyph usage using WebPageTest data.
 - [Webfont Usage Analyzer](https://github.com/paulcalvano/webfont-usage-analyzer) - Bookmarklet script to map loaded web fonts to visible DOM usage and help spot font optimization opportunities.
 - [Waterfall Tools](https://waterfall-tools.com/) - Advanced client-side network request waterfall viewer for HAR, WPT JSON, Chrome traces/netlogs, and tcpdump captures.
+- [HarborDiff](https://github.com/Wildchiken/harbor-diff) - Compare HAR captures locally in a browser or Node.js CLI and export Markdown or JSON reports.
 
 ## Analyzers - API
 
