@@ -271,6 +271,7 @@ Here's a quick overview of the categories covered in this collection:
 
 > How to remove all this unnecessary data and give you a file without degrading quality.
 
+- [Clevr.tools Image Compressor](https://www.clevr.tools/compress/image) - Free browser-based JPG, PNG, and WebP compression with a best-effort target file size; images stay on the device.
 - [Shortpixel](https://shortpixel.com/online-image-compression) - Compress Your Image by removing unnecessary bytes of the image and Convert it into WebP/AVIF.
 - [Grunt-smushit](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
 - [Gulp-smushit](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
