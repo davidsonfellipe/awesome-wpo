@@ -161,6 +161,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Web Font Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/) - Inspect font loading timing, payload, and glyph usage using WebPageTest data.
 - [Webfont Usage Analyzer](https://github.com/paulcalvano/webfont-usage-analyzer) - Bookmarklet script to map loaded web fonts to visible DOM usage and help spot font optimization opportunities.
 - [Waterfall Tools](https://waterfall-tools.com/) - Advanced client-side network request waterfall viewer for HAR, WPT JSON, Chrome traces/netlogs, and tcpdump captures.
+- [Perennova Scanner](https://perennova-eco.github.io/en/scanner/) - Measures a page's transferred bytes by type, request count, third-party hosts and cache headers, then scores it out of 20 with the measured fact behind every point.
 
 ## Analyzers - API
 
