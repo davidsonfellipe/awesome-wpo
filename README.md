@@ -249,6 +249,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Extensions
 
 - [Browser Calories](https://github.com/zenorocha/browser-calories) - The easiest way to measure your performance budget.
+- [CompressFile Image Audit](https://chromewebstore.google.com/detail/kfofpbpbbbhahiofnkejpfgbomnfeopf) - Chrome extension that finds oversized, under-compressed or non-WebP/AVIF images on a page (including CSS backgrounds and Open Graph images), estimates the savings and compresses them locally in the browser.
 
 ## Generators
 
