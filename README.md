@@ -340,6 +340,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Telescope](https://github.com/cloudflare/telescope) - Cross-browser web performance testing CLI and library built on Playwright; collects HAR, Web Vitals, resource timing, console logs, screenshots, and filmstrip across Chrome, Firefox, Safari, and Edge.
 - [WebPageTest API Wrapper for Node.js](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 - [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
+- [PageSpeed.ONE](https://pagespeed.one/) - Page speed monitoring with daily synthetic tests and current and historical CrUX field data for Core Web Vitals.
 
 ## Minifiers
 
