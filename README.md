@@ -245,6 +245,7 @@ Here's a quick overview of the categories covered in this collection:
 - [web-vitals](https://github.com/GoogleChrome/web-vitals) - Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
 - [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
+- [n8n PageSpeed & Core Web Vitals node](https://github.com/tobbytools/n8n-nodes-pagespeed-core-web-vitals-monitor) - n8n node that runs PageSpeed Insights and CrUX field data on URL lists or sitemaps and alerts on regressions.
 
 ## Extensions
 
