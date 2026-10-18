@@ -136,6 +136,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Speculation Rules Generator](https://www.corewebvitals.io/tools/speculation-rules-generator) - Build speculation rules JSON for prefetch and prerender configurations.
 - [Critical CSS Generator](https://www.corewebvitals.io/tools/critical-css-generator) - Generate critical-path CSS for above-the-fold rendering.
 - [Core Web Vitals Report](https://www.corewebvitals.io/core-web-vitals-report) - Generate a Core Web Vitals report using CrUX historical data.
+- [Web Vitals Checker](https://vuetelemetry.com/web-vitals-checker) - Rate LCP, INP and CLS values against Google's official good, needs-improvement and poor thresholds at the 75th percentile.
 
 ## Analyzers
 
