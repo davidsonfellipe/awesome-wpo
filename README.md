@@ -419,6 +419,7 @@ Here's a quick overview of the categories covered in this collection:
 
 - [PageSpeed Module](https://modpagespeed.com/docs/getting-started/) - PageSpeed speeds up your site and reduces page load time. This open-source web server module automatically applies web performance best practices to pages and associated assets (CSS, JavaScript, images) without requiring that you modify your existing content or workflow. PageSpeed is available as a module for Apache 2.x and Nginx 1.x.
 - [WebP-detect](https://github.com/igrigorik/webp-detect) - WebP with Accept negotiation.
+- [Owin.Compression](https://github.com/Thorium/Owin.Compression) - Deflate, GZip and Brotli response compression middleware with ETag caching for OWIN self-host and ASP.NET Core.
 
 ## Specs
 
