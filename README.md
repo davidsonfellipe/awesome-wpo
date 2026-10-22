@@ -249,6 +249,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Extensions
 
 - [Browser Calories](https://github.com/zenorocha/browser-calories) - The easiest way to measure your performance budget.
+- [Israeli Web Accessibility Auditor](https://github.com/sagive/israeli-accessibility-extension) - Chrome extension for auditing DOM structure and accessibility compliance (IS 5568 / WCAG 2.1 AA) by BrandTactics.
 
 ## Generators
 
