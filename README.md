@@ -283,6 +283,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 - [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
 - [Grunt-WebP](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
+- [RadarMakers image compressor](https://radarmakers.com/tools/image-optimizer) - Reduce up to 30 PNG, JPEG or WebP images toward a target file size in the browser, see whether each target was met, compare results at 100 percent and download a ZIP with a CSV report. Nothing is uploaded.
 - [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 - [Imageoptim](https://imageoptim.com/mac) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, and removes junk metadata and unnecessary color profiles.
 - [Imager](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
