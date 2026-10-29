@@ -297,6 +297,7 @@ Here's a quick overview of the categories covered in this collection:
 - [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress PNG files to get the smallest possible size.
 - [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 - [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
+- [ExactSize](https://crunchimage.com) - Browser-based compressor that hits an exact byte target from 20 KB to 5 MB; keeps the pixel dimensions and lowers quality only to 40% before it starts removing pixels. Runs locally, no upload.
 - [ImageEngine](https://imageengine.io) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 - [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
 - [Optimizt](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
