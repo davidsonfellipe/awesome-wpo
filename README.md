@@ -183,6 +183,7 @@ Here's a quick overview of the categories covered in this collection:
 - [SpeedCurve](https://www.speedcurve.com/features/performance-monitoring/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
 - [Boomerang (Open Source)](https://akamai.github.io/boomerang/oss/) - Documentation for the Open Source version of Boomerang, which is maintained by Akamai employees with contributions from the OSS community.
 - [Akamai mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang) - Documentation for the Akamai mPulse version of Boomerang, which includes additions specific to interacting with mPulse.
+- [VitalRix Real User Monitoring](https://vitalrix.com/product/real-user-monitoring) - RUM for Core Web Vitals (LCP, INP, CLS), FCP, TTFB and JavaScript errors from real visitors, with optional masked session replay. Free tier of 1,000 sessions a month; can also run on-premises.
 
 ## Bundle Analyzer
 
