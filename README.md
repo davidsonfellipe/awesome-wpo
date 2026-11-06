@@ -290,6 +290,7 @@ Here's a quick overview of the categories covered in this collection:
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 - [Tapnesh-CLI](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
 - [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
+- [Refentra target-size compressor](https://refentra.com/tools/compress-image-to-target-size/) - Browser-based compression of JPEG, PNG and WebP images toward a chosen KB or MB limit, with actual output-size checks.
 - [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 - [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
 - [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
