@@ -95,6 +95,7 @@ Here's a quick overview of the categories covered in this collection:
 
 - [WPOStats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
 - [Google Developers Case Studies](https://web.dev/case-studies) - Learn why and how other developers have used the web to create amazing web experiences for their users.
+- [Headway](https://headway.shivrajsinh.in) - High-performance static web architecture compiling multi-modal GTFS transit feeds into edge-rendered, zero-runtime-overhead timetable pages.
 
 ## Documentation
 
