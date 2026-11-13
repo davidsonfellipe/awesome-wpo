@@ -164,6 +164,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Analyzers - API
 
+- [Lighthouse Audit & Performance Budgets](https://apify.com/rationalistic_tail/lighthouse-budget-auditor) - Hosted Google Lighthouse audits with mobile and desktop, a median of up to 3 runs, and pass/fail performance budgets for CI.
 - [PSI](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights for Node.js - with reporting.
 
 ## Application Performance Monitoring
