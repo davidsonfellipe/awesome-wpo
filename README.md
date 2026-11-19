@@ -165,6 +165,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Analyzers - API
 
 - [PSI](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights for Node.js - with reporting.
+- [Bulk PageSpeed Checker](https://github.com/Zrk1212/bulk-pagespeed-checker) - Python and Node.js examples for running PageSpeed Insights and Core Web Vitals on thousands of URLs or a whole sitemap, with CSV export.
 
 ## Application Performance Monitoring
 
