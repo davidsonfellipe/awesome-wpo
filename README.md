@@ -366,6 +366,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 - [JShrink](https://github.com/tedious/JShrink) - PHP class that minifies JavaScript for faster delivery to the client.
 - [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
+- [FastMinify](https://fastminify.com/en/minify-js) - Free online JavaScript minifier and compressor built on Terser. Runs in the browser, so the code is not uploaded.
 - [CSSshrink](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
 - [Grunt-cssshrink](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
 - [Gulp-cssshrink](https://github.com/torrottum/gulp-cssshrink) - Shrinks CSS files using cssshrink for Gulp.
