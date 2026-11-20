@@ -308,6 +308,7 @@ Here's a quick overview of the categories covered in this collection:
 - [lazyload](https://github.com/vvo/lazyload) - Defer images, iframes, and widgets with a standalone JavaScript lazyloader (~1kb).
 - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.9kb, and configurable lazy loader in pure JS with no dependencies for responsive images, iframes, and more.
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - Prefetch links in the viewport (via Intersection Observer) to make future navigations faster.
+- [react-responsive-video](https://www.npmjs.com/package/@damiarita/react-responsive-video) - React component that renders an optimized image instead of a video on page load. Once on the browser, an optimized video replaces it.
 
 ## Loaders
 
