@@ -142,6 +142,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Request Map](https://requestmap.webperf.tools/) - Visualize first- and third-party request dependencies as an interactive map.
 - [Web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Lab and field CWV diagnostics for any URL.
+- [Image Format Readiness](https://edilec.com/open-source/image-format-readiness/) - Offline CLI for checking exported HTML image dimensions, alt and loading declarations, format policy, and byte budgets.
 - [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
 - [DebugBear](https://www.debugbear.com/) - Site monitoring based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. Paid product with a free 30-day trial.
 - [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
