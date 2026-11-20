@@ -293,6 +293,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 - [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
 - [mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
+- - [zippic](https://zippic.app/) - Free online image compressor for JPG, PNG and WebP; runs locally in the browser, no signup, no upload.
 - [Jpegoptim](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
 - [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress PNG files to get the smallest possible size.
 - [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
