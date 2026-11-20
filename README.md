@@ -173,6 +173,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Pingdom](https://www.pingdom.com/) - A tool to get the uptime of your website (with probes from different locations).
 - [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan).
 - [StatusList](https://statuslist.app) - Uptime, performance monitoring with debug details, and hosted status page in one simple dashboard.
+- [Fivenines](https://fivenines.io/features/uptime-monitoring) - Website and API uptime monitoring with response-time tracking, alerts and status pages.
 
 ## Real User Monitoring
 
