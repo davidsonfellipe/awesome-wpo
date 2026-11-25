@@ -82,6 +82,7 @@
 - [Optimize LCP](https://web.dev/articles/optimize-lcp) - by web.dev
 - [Optimize CLS](https://web.dev/articles/optimize-cls) - by web.dev
 - [Optimize INP](https://web.dev/articles/optimize-inp) - by web.dev
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 # Contributing
 
