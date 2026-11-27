@@ -272,6 +272,7 @@ Here's a quick overview of the categories covered in this collection:
 > How to remove all this unnecessary data and give you a file without degrading quality.
 
 - [Shortpixel](https://shortpixel.com/online-image-compression) - Compress Your Image by removing unnecessary bytes of the image and Convert it into WebP/AVIF.
+- [tinymast](https://tinymast.com/image-compress/) - Online image compressor that resizes images to a target file size such as 20, 50 or 100 KB; uploaded files and results are deleted within 24 hours.
 - [Grunt-smushit](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
 - [Gulp-smushit](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
 - [Smush it](https://www.imgopt.com/) - Uses format-specific optimization to remove unnecessary bytes from image files. Lossless: optimizes images without changing their look or visual quality.
